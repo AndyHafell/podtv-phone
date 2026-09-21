@@ -1,0 +1,944 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1">
+<title>PodTV</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="PodTV">
+<meta name="theme-color" content="#000000">
+<style>
+  :root {
+    --bg:#000; --panel:#0c0e12; --line:rgba(255,255,255,.08);
+    --accent:#ffd23f; --text:#f4f5f7; --muted:#9aa0aa;
+    --top: env(safe-area-inset-top); --bottom: env(safe-area-inset-bottom);
+  }
+  * { box-sizing:border-box; margin:0; padding:0; -webkit-tap-highlight-color:transparent; }
+  html,body { height:100%; background:var(--bg); color:var(--text);
+    font:15px/1.4 -apple-system,BlinkMacSystemFont,"SF Pro Text",system-ui,sans-serif;
+    -webkit-font-smoothing:antialiased; overscroll-behavior-y:none; }
+  body { display:flex; flex-direction:column; }
+
+  /* ── Header ───────────────────────────────────────────────────────────
+     The show chips are the whole of navigation. There is no search box:
+     eight shows fit in one swipe, and a keyboard on a phone is a cost you
+     pay before you know whether you needed it. */
+  header { padding:calc(var(--top) + 10px) 0 0; background:var(--bg); flex:0 0 auto; }
+  .brandrow { display:flex; align-items:center; gap:8px; padding:0 16px 10px; }
+  .brandrow img { width:22px; height:22px; border-radius:6px; display:block; }
+  .brandrow b { font-size:13px; letter-spacing:.14em; text-transform:uppercase;
+    color:var(--accent); font-weight:800; }
+  .brandrow .count { margin-left:auto; font-size:12px; color:var(--muted); }
+  /* Chrome will offer to install this from a menu three taps deep. The button
+     only appears when the browser has actually said it can (beforeinstallprompt),
+     so it is never an invitation to something that will not happen — and it
+     takes the place of the episode count, which is the least urgent thing in
+     the bar the one time it is there. */
+  /* Watch / Listen. Two engines, one app — and the toggle has to be in the
+     furniture, not in a menu, because which one you want is decided by where
+     you are, not by what you are listening to. */
+  #modes { display:flex; gap:2px; padding:2px; border-radius:999px;
+    background:rgba(255,255,255,.08); margin-left:10px; }
+  #modes button { border:none; background:none; color:var(--muted);
+    font:700 11px/1 inherit; letter-spacing:.06em; text-transform:uppercase;
+    padding:6px 11px; border-radius:999px; }
+  #modes button.on { background:var(--accent); color:#000; }
+
+  /* Listen has no picture, so the stage carries the show's artwork instead of
+     sitting black. Same 16:9 box either way: a stage that changed shape with
+     the mode would move the whole list under your thumb. */
+  #art { position:absolute; inset:0; z-index:0; background:#0c0e12 center/cover no-repeat; display:none; }
+  body.listen #art { display:block; }
+  body.listen #yt, body.listen #stage iframe { display:none; }
+  #art::after { content:""; position:absolute; inset:0;
+    background:linear-gradient(180deg, rgba(0,0,0,.25), rgba(0,0,0,.55)); }
+  audio { display:none; }
+
+  #install { margin-left:auto; padding:6px 13px; border-radius:999px; border:none;
+    background:var(--accent); color:#000; font:700 12px/1 inherit; display:none; }
+  body.installable #install { display:block; }
+  body.installable .count { display:none; }
+  #chips { display:flex; gap:7px; overflow-x:auto; padding:0 16px 11px;
+    scrollbar-width:none; -webkit-overflow-scrolling:touch; }
+  #chips::-webkit-scrollbar { display:none; }
+  .chip { flex:0 0 auto; padding:7px 13px; border-radius:999px; font-size:13px;
+    color:var(--muted); background:rgba(255,255,255,.06);
+    border:1px solid transparent; white-space:nowrap; }
+  .chip.on { color:#000; background:var(--accent); border-color:var(--accent); font-weight:640; }
+
+  /* ── Player ───────────────────────────────────────────────────────────
+     Sticky at the top with the list scrolling under it, the way every phone
+     player works. A bottom sheet was the other option and it loses: on a
+     phone the thing you are watching should not be the thing you have to
+     swipe away to browse. */
+  #player { flex:0 0 auto; background:var(--panel); border-bottom:1px solid var(--line); }
+  #stage { position:relative; width:100%; aspect-ratio:16/9; background:#000; }
+  #stage iframe, #stage #yt { position:absolute; inset:0; width:100%; height:100%; border:0; }
+  /* The iframe eats every touch, so nothing this page draws over it can be
+     pressed and no tap of ours reaches the video. This pad is the tap. */
+  #pad { position:absolute; inset:0; z-index:2; }
+  /* Shown before the first play. iOS will not start a video with sound
+     without a gesture, so pretending to autoplay would only ever show a
+     still frame and a user wondering what broke.
+     It carries the episode's own thumbnail rather than being a scrim over
+     YouTube's poster: an un-started embed paints its own title, share and
+     watch-later chrome, none of which can be styled from here because the
+     iframe is cross-origin. Covering it is the only way to not ship it. */
+  #cover { position:absolute; inset:0; z-index:3; display:none;
+    align-items:center; justify-content:center;
+    background:#000 center/cover no-repeat; }
+  #cover::after { content:""; position:absolute; inset:0; background:rgba(0,0,0,.35); }
+  #cover button { position:relative; z-index:1; }
+  body.cover #cover { display:flex; }
+  #cover button { width:74px; height:74px; border-radius:50%; border:none;
+    background:rgba(16,18,24,.92); color:#fff; display:grid; place-items:center;
+    box-shadow:0 8px 40px rgba(0,0,0,.55); }
+  #cover svg { width:32px; height:32px; fill:currentColor; transform:translateX(4%); }
+
+  #now { padding:11px 16px 0; }
+  #nowshow { font-size:11px; letter-spacing:.09em; text-transform:uppercase;
+    color:var(--accent); font-weight:800; }
+  #nowtitle { font-size:15px; font-weight:640; line-height:1.3; margin-top:3px;
+    display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
+
+  /* 44px of hit area, of which 4px is painted. The thumb is not a mouse and
+     a 3px bar is not something it can find. */
+  #scrub { padding:12px 16px 2px; touch-action:none; }
+  #track { position:relative; height:4px; border-radius:999px; background:rgba(255,255,255,.2); }
+  #fill { position:absolute; inset:0 auto 0 0; width:0; border-radius:999px; background:var(--accent); }
+  #knob { position:absolute; top:50%; left:0; width:15px; height:15px; margin:-7.5px 0 0 -7.5px;
+    border-radius:50%; background:var(--accent); box-shadow:0 1px 6px rgba(0,0,0,.6); }
+  #times { display:flex; justify-content:space-between; font-size:11px;
+    color:var(--muted); margin-top:7px; font-variant-numeric:tabular-nums; }
+
+  /* Back 15 / forward 30, not the desktop page's 10 each way. A podcast is
+     rewound because you stopped listening and skipped because someone is
+     reading an ad — two different distances. */
+  #transport { display:flex; align-items:center; justify-content:center; gap:26px;
+    padding:6px 16px calc(14px + var(--bottom) * 0); }
+  #transport button { border:none; background:none; color:var(--text);
+    display:grid; place-items:center; position:relative; }
+  .skip { width:52px; height:52px; }
+  .skip svg { width:28px; height:28px; fill:currentColor; }
+  .skip span { position:absolute; left:0; right:0; top:52%; transform:translateY(-50%);
+    font-size:9px; font-weight:700; font-variant-numeric:tabular-nums; }
+  #pp { width:62px; height:62px; border-radius:50%; background:var(--accent); color:#000; }
+  #pp svg { width:27px; height:27px; fill:currentColor; }
+  #pp .pause { display:none; }
+  body.playing #pp .play { display:none; }
+  body.playing #pp .pause { display:block; }
+  .step { width:44px; height:44px; color:var(--muted); }
+  .step svg { width:21px; height:21px; fill:currentColor; }
+
+  /* Speed, on the left, mirroring AirPlay on the right so the transport stays
+     symmetrical. Listen only: YouTube's player caps at 2x and takes a fixed
+     set of rates, so a control offering 3x in Watch would be lying. */
+  #speed { position:absolute; left:10px; top:50%; transform:translateY(-50%);
+    min-width:48px; height:34px; padding:0 9px; border-radius:999px;
+    border:1px solid rgba(255,255,255,.16); background:rgba(255,255,255,.06);
+    color:var(--muted); font:700 12px/1 inherit; font-variant-numeric:tabular-nums;
+    display:none; }
+  body.listen #speed { display:block; }
+  #speed.fast { color:var(--accent); border-color:rgba(255,210,63,.42);
+    background:rgba(255,210,63,.12); }
+
+  /* AirPlay. Hidden unless WebKit offers the picker at all. */
+  #airplay { position:absolute; right:14px; top:50%; transform:translateY(-50%);
+    width:40px; height:40px; border:none; background:none; color:var(--muted);
+    display:none; place-items:center; }
+  body.canair #airplay { display:grid; }
+  #airplay svg { width:22px; height:22px; fill:currentColor; }
+  /* Gold and pulsing only after a route was LOST — which happens on every
+     episode change, because assigning a new src resets the element and WebKit
+     hands the route back. The button is the one tap that returns it. */
+  body.lostair #airplay { color:var(--accent); }
+  body.lostair #airplay::after {
+    content:""; position:absolute; inset:2px; border-radius:50%;
+    border:1.5px solid var(--accent); animation:pulse 1.6s ease-out infinite; }
+  @keyframes pulse { 0% { opacity:.9; transform:scale(.8); } 100% { opacity:0; transform:scale(1.35); } }
+  #transport { position:relative; }
+
+  /* ── The list ─────────────────────────────────────────────────────── */
+  #list { flex:1 1 auto; overflow-y:auto; -webkit-overflow-scrolling:touch;
+    padding-bottom:calc(28px + var(--bottom)); }
+  .hd { font-size:11px; letter-spacing:.1em; text-transform:uppercase; color:var(--muted);
+    padding:16px 16px 9px; }
+  .row { display:flex; gap:11px; padding:8px 16px; align-items:flex-start; }
+  .row:active { background:rgba(255,255,255,.05); }
+  .row.on .t { color:var(--accent); }
+  .th { position:relative; flex:0 0 104px; aspect-ratio:16/9; border-radius:7px;
+    overflow:hidden; background:#1a1d24; }
+  .th img { width:100%; height:100%; object-fit:cover; display:block; }
+  .th .d { position:absolute; right:3px; bottom:3px; background:rgba(0,0,0,.82);
+    font-size:10px; padding:1px 4px; border-radius:4px; font-variant-numeric:tabular-nums; }
+  /* A started episode carries its own progress. Two hundred episodes deep,
+     "where was I" is the only question the list has to answer. */
+  .th .p { position:absolute; left:0; right:0; bottom:0; height:3px; background:rgba(0,0,0,.55); }
+  .th .p i { display:block; height:100%; background:var(--accent); }
+  .meta { min-width:0; flex:1; }
+  .t { font-size:13.5px; line-height:1.32; display:-webkit-box; -webkit-line-clamp:2;
+    -webkit-box-orient:vertical; overflow:hidden; }
+  .s { font-size:11.5px; color:var(--muted); margin-top:4px; }
+  .s .left { color:var(--accent); }
+
+  #note { color:var(--muted); font-size:11.5px; line-height:1.5; padding:22px 16px 6px;
+    border-top:1px solid var(--line); margin-top:14px; }
+  #splash { position:fixed; inset:0; z-index:40; display:grid; place-items:center;
+    background:var(--bg); text-align:center; padding:30px; }
+  #splash.hidden { display:none; }
+  #splash .logo { font-size:13px; letter-spacing:.3em; text-transform:uppercase;
+    color:var(--accent); font-weight:800; }
+  #splash .sub { color:var(--muted); font-size:13px; margin-top:10px; }
+
+  /* ── Wide windows ──────────────────────────────────────────────────────
+     The stage is 16:9 of whatever it is given: 211px tall at 375px, and
+     1080px tall in a 1900px browser window — which put the whole episode list
+     below the fold the first time this was opened on a Mac. Past 820px the
+     player takes a column of its own and the list scrolls beside it.
+     CSS only. Nothing here touches playback. */
+  @media (min-width: 820px) {
+    body { display:grid; grid-template-columns:minmax(340px, 34%) 1fr;
+           grid-template-rows:auto 1fr; column-gap:8px; }
+    header { grid-column:1 / -1; padding-top:12px; }
+    #player { grid-column:1; grid-row:2; align-self:start;
+              border-bottom:none; border-right:1px solid var(--line);
+              border-radius:0; min-height:0; }
+    #list  { grid-column:2; grid-row:2; min-height:0; }
+    #chips { padding-left:16px; }
+    .row { padding:9px 18px; }
+    .th { flex-basis:132px; }
+    .t { font-size:14px; }
+  }
+  @media (min-width: 1500px) {
+    body { grid-template-columns:minmax(340px, 480px) minmax(0, 1000px); justify-content:center; }
+  }
+</style>
+</head>
+<body class="cover">
+
+<header>
+  <div class="brandrow">
+    <img src="icons/icon-192.png" alt=""><b>PodTV</b>
+    <div id="modes">
+      <button type="button" data-mode="listen">Listen</button>
+      <button type="button" data-mode="watch">Watch</button>
+    </div>
+    <span class="count" id="count"></span>
+    <button id="install" type="button">Install</button>
+  </div>
+  <div id="chips"></div>
+</header>
+
+<div id="player">
+  <div id="stage">
+    <div id="art"></div>
+    <div id="yt"></div>
+    <div id="pad"></div>
+    <div id="cover"><button id="coverBtn" aria-label="Play">
+      <svg viewBox="0 0 24 24"><path d="M7 5v14l10-7z"/></svg></button></div>
+  </div>
+  <div id="now"><div id="nowshow"></div><div id="nowtitle"></div></div>
+  <div id="scrub"><div id="track"><div id="fill"></div><div id="knob"></div></div>
+    <div id="times"><span id="cur">0:00</span><span id="dur">0:00</span></div></div>
+  <div id="transport">
+    <button class="step" id="prevBtn" aria-label="Previous episode">
+      <svg viewBox="0 0 24 24"><path d="M6 6h2v12H6zM20 6v12l-9-6z"/></svg></button>
+    <button class="skip" id="backBtn" aria-label="Back 15 seconds">
+      <svg viewBox="0 0 24 24"><path d="M12 5V1L7 6l5 5V7a6 6 0 1 1-6 6H4a8 8 0 1 0 8-8z"/></svg>
+      <span>15</span></button>
+    <button id="pp" aria-label="Play or pause">
+      <svg class="play" viewBox="0 0 24 24"><path d="M7 5v14l10-7z"/></svg>
+      <svg class="pause" viewBox="0 0 24 24"><path d="M7 5h3.5v14H7zM13.5 5H17v14h-3.5z"/></svg></button>
+    <button class="skip" id="fwdBtn" aria-label="Forward 30 seconds">
+      <svg viewBox="0 0 24 24"><path d="M12 5V1l5 5-5 5V7a6 6 0 1 0 6 6h2a8 8 0 1 1-8-8z"/></svg>
+      <span>30</span></button>
+    <button class="step" id="nextBtn" aria-label="Next episode">
+      <svg viewBox="0 0 24 24"><path d="M16 6h2v12h-2zM4 6l9 6-9 6z"/></svg></button>
+    <button id="speed" type="button" aria-label="Playback speed">1×</button>
+    <button id="airplay" aria-label="AirPlay">
+      <svg viewBox="0 0 24 24"><path d="M12 14.5 17 20H7l5-5.5zM3 4h18a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1h-4v-2h3V6H4v8h3v2H3a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1z"/></svg>
+    </button>
+  </div>
+</div>
+
+<div id="list"></div>
+<!-- A real <audio> element, which is the entire point of Listen: iOS suspends
+     the <video> inside a YouTube embed the moment the screen locks, and keeps
+     an <audio> playing. -->
+<!-- x-webkit-airplay="allow" is not decoration: without it WebKit can decline
+     to keep a media element on an AirPlay route, and the route falls back to
+     the phone. The other half of AirPlay working is in build-audio.py, which
+     unwraps the analytics redirects — a receiver has to follow that chain
+     itself, and a HomePod gives up on it. -->
+<audio id="au" preload="metadata" playsinline x-webkit-airplay="allow"></audio>
+
+<div id="splash"><div><div class="logo">PodTV</div><div class="sub" id="splashsub">Loading…</div></div></div>
+
+<script>
+// Assigned BEFORE the API script tag, and deliberately not inside the main
+// script below.
+//
+// youtube.com/iframe_api calls window.onYouTubeIframeAPIReady the moment it
+// finishes, and on a second visit it comes straight out of cache — fast enough
+// to fire before the main script has been parsed. Then the callback lands on
+// nothing, the player is never built, and the page sits there with a play
+// button, an empty title and 0:00 / 0:00. It survived every desktop test
+// because a cold network fetch is always slower than parsing the page.
+window.__ytReady = false;
+window.onYouTubeIframeAPIReady = function(){
+  window.__ytReady = true;
+  if (window.__onYTReady) window.__onYTReady();
+};
+</script>
+<script src="https://www.youtube.com/iframe_api" onerror="window.__ytFailed = true"></script>
+<script>
+const $ = id => document.getElementById(id);
+
+// ── Where you left off ──────────────────────────────────────────────────
+// localStorage, not the Mac. The playlist is the only thing this page takes
+// from home; a position that needed a server would make the phone useless
+// on a plane, which is most of what a phone is for here.
+const POS_KEY = "podtv.pos", SHOW_KEY = "podtv.show", MODE_KEY = "podtv.mode";
+const lastKey = () => "podtv.last." + mode;   // the two modes remember separately
+let POS = {};
+try { POS = JSON.parse(localStorage.getItem(POS_KEY) || "{}"); } catch (_) { POS = {}; }
+function savePos(){ try { localStorage.setItem(POS_KEY, JSON.stringify(POS)); } catch (_) {} }
+function store(k, v){ try { localStorage.setItem(k, v); } catch (_) {} }
+function read(k){ try { return localStorage.getItem(k); } catch (_) { return null; } }
+
+// ── Formatting ──────────────────────────────────────────────────────────
+function fmtDur(s){ s = Math.max(0, Math.round(s || 0));
+  const h = Math.floor(s/3600), m = Math.floor((s%3600)/60), x = s%60;
+  return h ? `${h}:${String(m).padStart(2,"0")}:${String(x).padStart(2,"0")}`
+           : `${m}:${String(x).padStart(2,"0")}`; }
+function shortDur(s){ s = Math.round(s || 0); const h = Math.floor(s/3600), m = Math.round((s%3600)/60);
+  return h ? (m ? `${h}h ${m}m` : `${h}h`) : `${m}m`; }
+function relTime(iso){ const t = Date.parse(iso); if (isNaN(t)) return "";
+  const s = Math.floor((Date.now() - t)/1000);
+  if (s < 3600) { const m = Math.max(1, Math.floor(s/60)); return m + (m === 1 ? " min ago" : " mins ago"); }
+  if (s < 86400) { const h = Math.floor(s/3600); return h + (h === 1 ? " hour ago" : " hours ago"); }
+  const d = Math.floor(s/86400);
+  if (d === 1) return "1 day ago";
+  if (d < 30) return d + " days ago";
+  if (d < 60) return "1 month ago";
+  if (d < 365) return Math.floor(d/30) + " months ago";
+  const y = Math.floor(d/365); return y + (y === 1 ? " year ago" : " years ago"); }
+function esc(s){ return (s||"").replace(/[&<>"']/g, c =>
+  ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
+
+// ── State ───────────────────────────────────────────────────────────────
+// Two catalogues, one UI. Both are normalised on arrival — {id, show, title,
+// published, secs, art} plus either `yt` or `url` — so nothing below this line
+// has to know which engine it is drawing for.
+let LIB = { watch: [], listen: [] };
+let mode = read(MODE_KEY) || "listen";
+let all = [], items = [], idx = 0, player = null, apiReady = false, dataReady = false;
+// What is playing is an id, never a row number. The chips re-filter the list
+// under a playing episode, so an index means a different episode a moment
+// later — which is how the wrong row came up gold the first time.
+let playingId = null;
+let show = read(SHOW_KEY) || "";           // "" = every show
+let dragging = false, started = false, built = "";
+
+// Both lists ship WITH the page, rewritten by deploy.sh on the Mac. Nothing
+// here ever calls 127.0.0.1, which is the whole reason this works on cellular
+// with the Mac asleep.
+//
+// playlist.json is YouTube ids. audio.json is enclosure URLs off the shows own
+// podcast feeds — the networks already host the audio, so Listen needs no NAS,
+// no tunnel and no disk.
+Promise.all([
+  fetch("playlist.json", { cache: "no-cache" }).then(r => r.json()).catch(() => null),
+  fetch("audio.json", { cache: "no-cache" }).then(r => r.json()).catch(() => null),
+]).then(([w, a]) => {
+  LIB.watch = (w && w.items || []).map(i => ({
+    id: i.id, yt: i.id, show: i.channel, title: i.title,
+    published: i.published, secs: i.secs, art: i.thumb,
+  }));
+  LIB.listen = (a && a.items || []).map(i => ({
+    id: i.id, url: i.url, show: i.show, title: i.title,
+    published: i.published, secs: i.secs, art: i.image,
+  }));
+  built = (mode === "listen" ? (a && a.built) : (w && w.built)) || (w && w.built) || "";
+  dataReady = true;
+  if (!LIB.watch.length && !LIB.listen.length)
+    return fail("Both lists are empty. Run deploy.sh on the Mac.");
+  if (!LIB[mode].length) mode = mode === "listen" ? "watch" : "listen";
+  applyMode(true);
+  $("splash").classList.add("hidden");
+}).catch(() => fail("Couldn't read the lists."));
+
+// ── Watch / Listen ──────────────────────────────────────────────────────
+// Switching stops whatever is playing rather than trying to carry the position
+// across. The two catalogues come from different places and an episode is not
+// guaranteed to exist in both, so a handover would work most of the time — and
+// the times it did not would be the times you were already out the door.
+function applyMode(first){
+  document.body.classList.toggle("listen", mode === "listen");
+  [...document.querySelectorAll("#modes button")]
+    .forEach(b => b.classList.toggle("on", b.dataset.mode === mode));
+  all = LIB[mode];
+  playingId = null;
+  if (!first) document.body.classList.add("cover");
+  buildChips();
+  applyShow();
+  startEngine();
+}
+[...document.querySelectorAll("#modes button")].forEach(b => {
+  b.addEventListener("click", () => {
+    if (b.dataset.mode === mode || !LIB[b.dataset.mode].length) return;
+    // Stop the engine we are LEAVING. Pausing after the switch pauses the one
+    // we just arrived at, and the old one keeps talking underneath.
+    notedPos();
+    engPause();
+    mode = b.dataset.mode; store(MODE_KEY, mode);
+    applyMode(false);
+  });
+});
+
+function fail(m){ $("splash").classList.remove("hidden"); $("splashsub").textContent = m; }
+
+// A player that never arrives looks exactly like one that has not arrived yet:
+// a poster and a play button that does nothing. Ten seconds, then say which.
+let watchdog = null;
+function armWatchdog(){
+  clearTimeout(watchdog);
+  watchdog = setTimeout(() => {
+    if (listening() || (player && player.getPlayerState)) return;
+    // Name the host the frame actually tried. "Website Not Allowed" looks
+    // identical whether youtube.com was refused (an old page still cached) or
+    // youtube-nocookie.com was (the block list names that too), and those need
+    // opposite fixes.
+    const fr = document.querySelector("#stage iframe");
+    const host = fr && fr.src ? new URL(fr.src).host : "no frame";
+    fail(window.__ytFailed || typeof YT === "undefined"
+      ? "YouTube's player script didn't load — a content blocker is the usual reason."
+      : "The player never started. It tried " + host + ". If the picture says "
+        + "\u201cWebsite Not Allowed\u201d, allow that exact host in Screen Time "
+        + "\u2192 Content Restrictions \u2192 Web Content.");
+  }, 10000);
+}
+
+window.__onYTReady = function(){ apiReady = true; startEngine(); };
+// And if it already fired, or already loaded without us hearing it, act on that
+// now rather than waiting for an event that has been and gone.
+if (window.__ytReady || (window.YT && window.YT.Player)) window.__onYTReady();
+
+// ── One transport, two engines ──────────────────────────────────────────
+// Everything below the engine calls these six and never touches `player` or
+// the <audio> element, so the scrubber, the transport row, the resume store
+// and the list are written once.
+const AU = $("au");
+const listening = () => mode === "listen";
+function engPlaying(){
+  return listening() ? (!AU.paused && !AU.ended && AU.readyState > 2)
+                     : !!(player && player.getPlayerState && player.getPlayerState() === 1);
+}
+function engTime(){
+  return listening() ? (AU.currentTime || 0)
+                     : (player && player.getCurrentTime ? player.getCurrentTime() : 0);
+}
+function engDur(){
+  const d = listening() ? AU.duration : (player && player.getDuration ? player.getDuration() : 0);
+  return isFinite(d) && d > 0 ? d : 0;
+}
+function engSeek(t){
+  if (listening()) { try { AU.currentTime = Math.max(0, t); } catch (_) {} }
+  else if (player && player.seekTo) player.seekTo(Math.max(0, t), true);
+}
+function engPlay(){
+  if (listening()) { const p = AU.play(); if (p && p.catch) p.catch(() => {}); }
+  else if (player && player.playVideo) player.playVideo();
+}
+function engPause(){
+  if (listening()) AU.pause();
+  else if (player && player.pauseVideo) player.pauseVideo();
+}
+
+// ── The lock screen ─────────────────────────────────────────────────────
+// This is the whole reason Listen exists. A YouTube embed is a <video> inside a
+// cross-origin iframe: iOS suspends it when the screen goes off, and the Now
+// Playing card it leaves behind is a corpse — the artwork is right, the buttons
+// do nothing. An <audio> element we own keeps playing, and Media Session makes
+// the lock screen a real remote rather than a picture of one.
+function mediaSession(it){
+  if (!("mediaSession" in navigator) || !it) return;
+  try {
+    navigator.mediaSession.metadata = new MediaMetadata({
+      title: it.title || "", artist: it.show || "", album: "PodTV",
+      artwork: it.art ? [{ src: it.art, sizes: "512x512", type: "image/jpeg" }] : [],
+    });
+  } catch (_) {}
+  const on = (name, fn) => { try { navigator.mediaSession.setActionHandler(name, fn); } catch (_) {} };
+  on("play",  () => { engPlay(); });
+  on("pause", () => { engPause(); });
+  on("previoustrack", prev);
+  on("nexttrack", next);
+  // 15 back and 30 forward here too, so the lock screen and the app disagree
+  // about nothing.
+  on("seekbackward", () => seekBy(-15));
+  on("seekforward",  () => seekBy(30));
+  on("seekto", e => { if (e && e.seekTime != null) engSeek(e.seekTime); });
+}
+function sessionPosition(){
+  if (!("mediaSession" in navigator) || !navigator.mediaSession.setPositionState) return;
+  const d = engDur(); if (!d) return;
+  try {
+    navigator.mediaSession.setPositionState({
+      duration: d, position: Math.min(engTime(), d), playbackRate: 1,
+    });
+  } catch (_) {}
+}
+
+AU.addEventListener("playing", () => {
+  document.body.classList.add("playing"); document.body.classList.remove("cover");
+  if ("mediaSession" in navigator) navigator.mediaSession.playbackState = "playing";
+});
+AU.addEventListener("pause", () => {
+  document.body.classList.remove("playing");
+  if ("mediaSession" in navigator) navigator.mediaSession.playbackState = "paused";
+  notedPos();
+});
+AU.addEventListener("ended", () => {
+  if (playingId) { POS[playingId] = { t: 0, d: 0 }; savePos(); }
+  next();
+});
+// An <audio> cannot be seeked before it knows how long it is, so the resume
+// waits for the metadata rather than being dropped on the floor.
+AU.addEventListener("loadedmetadata", () => {
+  if (AU.dataset.seekTo) {
+    const t = parseFloat(AU.dataset.seekTo); delete AU.dataset.seekTo;
+    // Only if the fragment was ignored. Seeking to where we already are is a
+    // seek for nothing, and a seek is what drops an AirPlay route.
+    if (t > 2 && Math.abs(AU.currentTime - t) > 3) {
+      try { AU.currentTime = t; } catch (_) {}
+    }
+  }
+  paint(engTime() / (engDur() || 1), engTime(), engDur());
+});
+// ── Staying alive on a moving connection ─────────────────────────────────
+// Watch kept playing on a walk while Listen gave up, and the reason is who owns
+// the retry. YouTube's player notices a dropped connection and reconnects on
+// its own. A bare <audio> element does not: when the phone changes cell or
+// signal dips mid-stream, the request it is reading from dies, the element
+// fires `error` or simply stalls, and that is the end of the episode.
+//
+// So the page reconnects for it: same URL, from the last second that actually
+// played. Three tries, each counted only while it is failing — a successful
+// minute of playback resets the count, so a long walk with several dips never
+// runs out of retries. Nothing here fires during normal playback: it needs an
+// error, or ten seconds of no progress while the episode is meant to be playing.
+let lastGood = 0, retries = 0, stallTimer = null, userPaused = false;
+AU.addEventListener("timeupdate", () => {
+  if (AU.currentTime > lastGood + 0.5) { lastGood = AU.currentTime; }
+  if (retries && AU.currentTime > 60 && !AU.paused) retries = 0;
+});
+AU.addEventListener("play",  () => { userPaused = false; });
+AU.addEventListener("pause", () => { if (!AU.ended && AU.readyState > 2) userPaused = true; });
+
+function reconnect(why){
+  if (!listening() || userPaused || !items[idx] || !items[idx].url) return;
+  if (retries >= 3) {
+    toastFail("Lost the connection to this episode. Tap play to try again.");
+    return;
+  }
+  retries++;
+  toastFail("Reconnecting… (" + why + ")");
+  const at = Math.max(0, Math.floor(lastGood) - 2);
+  setTimeout(() => {
+    AU.dataset.seekTo = String(at);
+    AU.src = items[idx].url;
+    const p = AU.play(); if (p && p.catch) p.catch(() => {});
+  }, 1500 * retries);
+}
+AU.addEventListener("error", () => { if (listening()) reconnect("network error"); });
+// `waiting` and `stalled` are also fired by ordinary buffering, which recovers
+// by itself — so they only arm a timer, and only ten seconds with no progress
+// at all counts as a dead stream.
+function armStall(){
+  clearTimeout(stallTimer);
+  if (!listening() || AU.paused) return;
+  const at = AU.currentTime;
+  stallTimer = setTimeout(() => {
+    if (!AU.paused && Math.abs(AU.currentTime - at) < 0.5) reconnect("stalled");
+  }, 10000);
+}
+AU.addEventListener("waiting", armStall);
+AU.addEventListener("stalled", armStall);
+AU.addEventListener("playing", () => {
+  clearTimeout(stallTimer);
+  const n = $("note");
+  if (n && /Reconnecting|Lost the connection/.test(n.textContent)) renderList();
+});
+function toastFail(m){ const h = $("note"); if (h) h.textContent = m; }
+
+// ── Speed ───────────────────────────────────────────────────────────────
+// Tap to step, wrapping back to 1x. A picker would be more precise and worse:
+// this is a thumb reaching for it mid-sentence, and stepping is one tap where
+// a sheet is three.
+//
+// playbackRate is reset by the element every time src changes, so it is
+// re-applied on load AND on play rather than only when the button is pressed.
+const RATES = [1, 1.25, 1.5, 1.75, 2, 2.5, 3];
+const RATE_KEY = "podtv.rate";
+let rate = parseFloat(read(RATE_KEY)) || 1;
+if (!RATES.includes(rate)) rate = 1;
+
+function fmtRate(r){ return (r % 1 ? r.toFixed(2).replace(/0$/, "") : r) + "\u00d7"; }
+function applyRate(){
+  // Without this, everything above about 1.5x sounds like a chipmunk. Safari
+  // wants the prefixed name as well.
+  try { AU.preservesPitch = true; AU.webkitPreservesPitch = true; } catch (_) {}
+  try { AU.playbackRate = rate; } catch (_) {}
+  const b = $("speed");
+  b.textContent = fmtRate(rate);
+  b.classList.toggle("fast", rate !== 1);
+}
+$("speed").addEventListener("click", () => {
+  rate = RATES[(RATES.indexOf(rate) + 1) % RATES.length];
+  store(RATE_KEY, String(rate));
+  applyRate();
+});
+AU.addEventListener("loadedmetadata", applyRate);
+AU.addEventListener("play", applyRate);
+applyRate();
+
+// ── AirPlay ─────────────────────────────────────────────────────────────
+// A route belongs to the media ELEMENT, and assigning a new src resets the
+// element — so picking the next episode hands the route back to the phone. One
+// second of HomePod, then the speaker. Nothing a page can do prevents that; a
+// native player keeps its route because it owns a persistent player object
+// rather than a DOM node.
+//
+// So instead of pretending, the app notices. If the last thing we were on was a
+// wireless route and we are not any more, the AirPlay button goes gold and
+// pulses: one tap puts it back, instead of a dig through Control Center.
+let wasWireless = false;
+if (typeof AU.webkitShowPlaybackTargetPicker === "function") {
+  document.body.classList.add("canair");
+}
+AU.addEventListener("webkitcurrentplaybacktargetiswirelesschanged", () => {
+  const now = !!AU.webkitCurrentPlaybackTargetIsWireless;
+  if (now) { wasWireless = true; document.body.classList.remove("lostair"); }
+  else if (wasWireless) document.body.classList.add("lostair");
+});
+$("airplay").addEventListener("click", () => {
+  document.body.classList.remove("lostair");
+  try { AU.webkitShowPlaybackTargetPicker(); } catch (_) {}
+});
+
+function startEngine(){
+  if (!dataReady || !items.length) return;
+  const last = read(lastKey());
+  const at = last ? items.findIndex(i => i.id === last) : -1;
+  idx = at >= 0 ? at : 0;
+  playingId = items[idx].id;
+  setNow(); highlight();
+  paint(0, 0, items[idx].secs || 0);
+
+  if (listening()) {
+    // Tear the YouTube player DOWN, do not just hide it. iOS gives the Now
+    // Playing session to one element, and a suspended <video> in a hidden
+    // iframe can hold it — which looks exactly like this: our <audio> ticking
+    // along with the clock advancing and nothing coming out of the speaker.
+    // In Listen there should be no YouTube player in the document at all.
+    if (player) {
+      try { player.destroy(); } catch (_) {}
+      player = null;
+      if (!$("yt")) {
+        const d = document.createElement("div");
+        d.id = "yt";
+        $("stage").appendChild(d);        // destroy() takes the element with it
+      }
+    }
+    loadAudio(items[idx], resumeAt(items[idx].id));
+    return;
+  }
+  // Coming BACK to Watch, the player already exists and is still holding the
+  // episode it had when we left — tryStart would return early and the picture
+  // would disagree with every label around it.
+  if (player && player.cueVideoById) {
+    player.cueVideoById({ videoId: items[idx].yt,
+                          startSeconds: Math.floor(resumeAt(items[idx].id)) });
+  } else {
+    tryStart();
+  }
+  armWatchdog();
+}
+
+function loadAudio(it, at){
+  lastGood = at || 0; retries = 0; userPaused = false; clearTimeout(stallTimer);
+  AU.muted = false;
+  AU.volume = 1;
+  applyRate();
+  // Three things here are about keeping an AirPlay route alive, and all three
+  // cost nothing on the phone:
+  //
+  //  1. No pause() first. Pausing releases the element, and a released element
+  //     hands the route back — which is the "one second, then it drops to the
+  //     phone speaker" you get changing episode on a HomePod.
+  //  2. No load(). Assigning src already starts the load; calling load() as
+  //     well forces a second, harder reset of the element.
+  //  3. The resume position rides in the URL as a media fragment instead of
+  //     being a seek issued once metadata arrives. A seek moments after a
+  //     receiver has started fetching is the other way the route dies.
+  at = Math.floor(at || 0);
+  // The route is about to go, because this line resets the element. Flag it
+  // here rather than waiting for the event, so the prompt is up the instant
+  // the new episode starts on the wrong speaker.
+  if (wasWireless) document.body.classList.add("lostair");
+  AU.src = it.url + (at > 0 ? "#t=" + at : "");
+  // Fallback for anything that ignores the fragment — only if it plainly did.
+  AU.dataset.seekTo = String(at);
+  mediaSession(it);
+}
+
+function tryStart(){
+  if (!apiReady || !dataReady || player || !items.length) return;
+  // Start on whatever was last open, so picking the phone up lands where the
+  // last session stopped rather than at the top of the feed.
+  player = new YT.Player("yt", {
+    videoId: items[idx].yt,
+    // The embed is served from youtube-nocookie.com, not youtube.com.
+    //
+    // Screen Time blocks youtube.com on the phone on purpose — the feed, the
+    // recommendations, the rabbit hole. It filters FRAME loads, not scripts:
+    // the player script came down fine and then the frame it opened was refused
+    // ("Website Not Allowed" drawn inside the player). youtube-nocookie.com is
+    // the same player on a domain the block list does not name, so the episode
+    // plays and youtube.com stays blocked everywhere else. Nothing is defeated
+    // here — the part that was restricted is still restricted.
+    host: "https://www.youtube-nocookie.com",
+    playerVars: { controls:0, rel:0, modestbranding:1, playsinline:1, disablekb:1,
+                  start: Math.floor(resumeAt(items[idx].id)) },
+    events: {
+      // highlight() as well as setNow(): the list was rendered before the
+      // player existed, so nothing in it knew yet what was about to play.
+      onReady: () => { setNow(); highlight(); paint(0, 0, items[idx].secs || 0); },
+      onStateChange: e => {
+        document.body.classList.toggle("playing", e.data === YT.PlayerState.PLAYING);
+        if (e.data === YT.PlayerState.PLAYING) { started = true; document.body.classList.remove("cover"); }
+        if (e.data === YT.PlayerState.ENDED) { if (playingId) { POS[playingId] = { t: 0, d: 0 }; savePos(); } next(); }
+      },
+    },
+  });
+}
+
+function resumeAt(id){
+  const p = POS[id];
+  if (!p || !p.t || p.t < 30) return 0;
+  // Within a minute of the end is finished, not paused.
+  if (p.d && p.t > p.d - 60) return 0;
+  return Math.max(0, p.t - 5);          // a few seconds back, to re-hear the sentence
+}
+
+// ── Shows ───────────────────────────────────────────────────────────────
+function buildChips(){
+  const names = [...new Set(all.map(i => i.show))].sort((a,b) => a.localeCompare(b));
+  if (show && !names.includes(show)) show = "";
+  const box = $("chips"); box.innerHTML = "";
+  [["", "All"]].concat(names.map(n => [n, n])).forEach(([key, label]) => {
+    const b = document.createElement("button");
+    b.className = "chip" + (key === show ? " on" : "");
+    b.textContent = label;
+    // Filtering is a view, not a command to change the episode: whatever is
+    // playing keeps playing, and only the queue around it narrows.
+    b.addEventListener("click", () => {
+      show = key; store(SHOW_KEY, key);
+      [...box.children].forEach(c => c.classList.toggle("on", c === b));
+      applyShow();
+    });
+    box.appendChild(b);
+  });
+}
+function applyShow(){
+  items = show ? all.filter(i => i.show === show) : all.slice();
+  idx = playingId ? items.findIndex(i => i.id === playingId) : -1;   // -1 = playing a show this filter hides
+  $("count").textContent = items.length + (items.length === 1 ? " episode" : " episodes");
+  renderList();
+}
+
+// ── The list ────────────────────────────────────────────────────────────
+function renderList(){
+  const wrap = document.createElement("div");
+  const hd = document.createElement("div");
+  hd.className = "hd"; hd.textContent = show || "Newest first";
+  wrap.appendChild(hd);
+  items.forEach((it, i) => {
+    const p = POS[it.id];
+    const frac = p && p.d ? Math.min(1, p.t / p.d) : 0;
+    const left = frac > 0.01 && frac < 0.98 ? shortDur(p.d - p.t) + " left" : "";
+    const row = document.createElement("div");
+    row.className = "row" + (it.id === playingId ? " on" : "");
+    row.innerHTML =
+      `<div class="th"><img src="${esc(it.art)}" loading="lazy" alt="">` +
+        `${it.secs ? `<span class="d">${shortDur(it.secs)}</span>` : ""}` +
+        `${frac > 0.01 ? `<span class="p"><i style="width:${(frac*100).toFixed(1)}%"></i></span>` : ""}` +
+      `</div>` +
+      `<div class="meta"><div class="t">${esc(it.title)}</div>` +
+        `<div class="s">${esc(it.show)} · ${left ? `<span class="left">${left}</span>` : relTime(it.published)}</div></div>`;
+    row.addEventListener("click", () => play(i));
+    wrap.appendChild(row);
+  });
+  const note = document.createElement("div");
+  note.id = "note";
+  note.textContent = (mode === "listen"
+    ? "Listen plays the show's own podcast audio, so it keeps going with the screen "
+      + "off and the lock screen controls work."
+    : "Watch plays the YouTube video, which iOS stops when the screen locks. "
+      + "Switch to Listen for that.")
+    + (built ? "  List from " + relTime(built) + "." : "");
+  wrap.appendChild(note);
+  const list = $("list");
+  list.innerHTML = ""; list.appendChild(wrap);
+}
+function highlight(){
+  [...document.querySelectorAll("#list .row")].forEach((r, i) =>
+    r.classList.toggle("on", !!items[i] && items[i].id === playingId));
+}
+
+// ── Playing ─────────────────────────────────────────────────────────────
+function play(i){
+  if (i < 0 || i >= items.length) return;
+  notedPos();
+  idx = i;
+  const it = items[idx];
+  playingId = it.id;
+  store(lastKey(), it.id);
+  const at = Math.floor(resumeAt(it.id));
+  if (listening()) { loadAudio(it, at); engPlay(); }
+  else if (player) player.loadVideoById({ videoId: it.yt, startSeconds: at });
+  else return;
+  document.body.classList.remove("cover");
+  setNow(); highlight();
+  $("list").scrollTo({ top: 0, behavior: "smooth" });
+}
+// Stepping is relative to where the playing episode sits in the CURRENT
+// filter, so Next after narrowing to one show means the next one of that show.
+// Off the list entirely (filtered away) steps in from the top.
+function step(d){
+  const at = items.findIndex(i => i.id === playingId);
+  if (at < 0) return play(0);
+  play((at + d + items.length) % items.length);
+}
+function next(){ step(1); }
+function prev(){ step(-1); }
+function setNow(){
+  const it = items[idx]; if (!it) return;
+  $("nowshow").textContent = it.show || "";
+  $("nowtitle").textContent = it.title || "";
+  const art = it.art ? `url("${it.art}")` : "none";
+  $("cover").style.backgroundImage = art;
+  $("art").style.backgroundImage = art;
+  mediaSession(it);
+  store(lastKey(), it.id);
+}
+function toggle(){ engPlaying() ? engPause() : engPlay(); }
+function seekBy(d){
+  const dur = engDur();
+  engSeek(dur ? Math.min(dur - 1, engTime() + d) : engTime() + d);
+}
+$("pp").addEventListener("click", toggle);
+$("pad").addEventListener("click", toggle);
+// The whole poster starts it, not just the button. The button is where the eye
+// goes, but a thumb aiming at a 74px circle on a moving phone misses, and a
+// miss landed on the cover itself, which had no handler — a tap that did
+// nothing at all, on the one control the first run depends on.
+$("cover").addEventListener("click", () => { document.body.classList.remove("cover"); engPlay(); });
+$("backBtn").addEventListener("click", () => seekBy(-15));
+$("fwdBtn").addEventListener("click", () => seekBy(30));
+$("nextBtn").addEventListener("click", next);
+$("prevBtn").addEventListener("click", prev);
+
+// ── Scrubber ────────────────────────────────────────────────────────────
+// Polled at 4Hz, like the desktop page: the YouTube API has no timeupdate.
+function paint(pct, cur, dur){
+  $("fill").style.width = (pct * 100) + "%";
+  $("knob").style.left = (pct * 100) + "%";
+  $("cur").textContent = fmtDur(cur);
+  $("dur").textContent = dur ? "-" + fmtDur(Math.max(0, dur - cur)) : "0:00";
+}
+function pctFrom(e){
+  const r = $("track").getBoundingClientRect();
+  const x = (e.touches ? e.touches[0].clientX : e.clientX);
+  return Math.max(0, Math.min(1, (x - r.left) / r.width));
+}
+const scrub = $("scrub");
+scrub.addEventListener("pointerdown", e => {
+  if (!engDur()) return;
+  dragging = true; scrub.setPointerCapture(e.pointerId);
+  const dur = engDur(), p = pctFrom(e);
+  paint(p, p * dur, dur);
+});
+scrub.addEventListener("pointermove", e => {
+  if (!dragging) return;
+  const dur = engDur(), p = pctFrom(e);
+  paint(p, p * dur, dur);
+});
+scrub.addEventListener("pointerup", e => {
+  if (!dragging) return;
+  dragging = false;
+  engSeek(pctFrom(e) * engDur());
+});
+
+setInterval(() => {
+  if (dragging) return;
+  const dur = engDur(), cur = engTime();
+  if (dur > 0) { paint(cur / dur, cur, dur); sessionPosition(); }
+}, 250);
+
+// Position every 5s while playing, and again the moment the app goes away —
+// on iOS a backgrounded tab can be discarded without another timer tick.
+function notedPos(){
+  if (!playingId) return;
+  const t = engTime(), d = engDur();
+  if (!d || t < 5) return;
+  POS[playingId] = { t, d };
+  savePos();
+}
+setInterval(() => { if (document.body.classList.contains("playing")) notedPos(); }, 5000);
+// Locking the phone stops it, and nothing here can change that.
+//
+// iOS DOES put the episode on the lock screen — title, show, artwork, a
+// progress bar — which looks exactly like background playback and is not: the
+// embed is a <video> element, iOS suspends those when the screen goes off, and
+// the Now Playing card outlives the playback it describes. Its play button does
+// nothing. Re-issuing play on visibilitychange was tried here and removed; it
+// cannot reach a suspended video.
+//
+// Only an <audio> element playing a real file survives a lock, which needs
+// files we host. See the README.
+document.addEventListener("visibilitychange", () => { if (document.hidden) notedPos(); });
+window.addEventListener("pagehide", notedPos);
+
+// ── Install ─────────────────────────────────────────────────────────────
+// Android fires beforeinstallprompt and hands over a prompt we can call later
+// from a real tap. iOS never fires it — there the route is Share → Add to Home
+// Screen, and no page can trigger that, so the button simply stays hidden.
+let installPrompt = null;
+window.addEventListener("beforeinstallprompt", e => {
+  e.preventDefault();
+  installPrompt = e;
+  document.body.classList.add("installable");
+});
+$("install").addEventListener("click", async () => {
+  if (!installPrompt) return;
+  installPrompt.prompt();
+  await installPrompt.userChoice;
+  installPrompt = null;
+  document.body.classList.remove("installable");
+});
+window.addEventListener("appinstalled", () => {
+  installPrompt = null;
+  document.body.classList.remove("installable");
+});
+
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
+}
+</script>
+</body>
+</html>
