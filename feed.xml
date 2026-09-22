@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Mon, 21 Sep 2026 18:37:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 02:37:09 +0000</lastBuildDate>
+    <item>
+      <title>Kill Tony — KILL TONY #786</title>
+      <itunes:author>Kill Tony</itunes:author>
+      <guid isPermaLink="false">a4e966951795156de</guid>
+      <pubDate>Tue, 22 Sep 2026 01:00:00 +0000</pubDate>
+      <enclosure url="https://rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/20e9456f-c465-46a9-8bfe-11ec7db08f0c/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=20e9456f-c465-46a9-8bfe-11ec7db08f0c&amp;feed=JZSQrle9" length="150400000" type="audio/mpeg"/>
+      <itunes:duration>9400</itunes:duration>
+      <itunes:image href="https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed"/>
+    </item>
     <item>
       <title>My First Million — Whatnot founder: This is the future of e-commerce</title>
       <itunes:author>My First Million</itunes:author>
@@ -236,11 +245,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/8bc9001c-ace9-11f1-8456-cf79c5ae6c4e/image/524c633b4de4d5a6171756b034af8ec3.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — Vanessa Van Edwards: The Conversation Habit That Makes Smart People Unlikable</title>
+      <title>The Diary Of A CEO — Likability Expert: The Toxic Conversation Habit You Don't Realize You Have! | Vanessa Van Edwards</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">ab597fa28e8559991</guid>
       <pubDate>Thu, 10 Sep 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M23VE3XS205C0HMNRE4ENR58.mp3?fcv=w85o8u86fodbxb2n7rdfkj2q" length="140768000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M23VE3XS205C0HMNRE4ENR58.mp3?fcv=lfldkshqegx38266ljbzoxhv" length="140768000" type="audio/mpeg"/>
       <itunes:duration>8798</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M23VGBG8BY5D6GNQHSYRKY17/vanessa_van_edwards.ep_cover.jpg"/>
     </item>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/HS2100129344.mp3?updated=1771430016" length="64112000" type="audio/mpeg"/>
       <itunes:duration>4007</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>Colin and Samir — AI Slop and the End of the 'Human' Internet</title>
-      <itunes:author>Colin and Samir</itunes:author>
-      <guid isPermaLink="false">a931d774499835e35</guid>
-      <pubDate>Wed, 18 Feb 2026 11:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/LUHUC6034924693.mp3" length="41520000" type="audio/mpeg"/>
-      <itunes:duration>2595</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/97efcf10-e812-11ec-83f3-c3c0c0c21250/image/largeCS_showPODCAST_COVER.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
