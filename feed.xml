@@ -9,7 +9,7 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Wed, 23 Sep 2026 03:38:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 07:43:30 +0000</lastBuildDate>
     <item>
       <title>Kill Tony — #786 - DONNELL RAWLINGS + SAM TALLENT</title>
       <itunes:author>Kill Tony</itunes:author>
@@ -245,11 +245,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/8bc9001c-ace9-11f1-8456-cf79c5ae6c4e/image/524c633b4de4d5a6171756b034af8ec3.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — Likability Expert: The Toxic Conversation Habit You Don't Realize You Have! | Vanessa Van Edwards</title>
+      <title>The Diary Of A CEO — Vanessa Van Edwards: The Conversation Habit That Makes Smart People Unlikable</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">ab597fa28e8559991</guid>
       <pubDate>Thu, 10 Sep 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M23VE3XS205C0HMNRE4ENR58.mp3?fcv=lfldkshqegx38266ljbzoxhv" length="140768000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M23VE3XS205C0HMNRE4ENR58.mp3" length="140768000" type="audio/mpeg"/>
       <itunes:duration>8798</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M23VGBG8BY5D6GNQHSYRKY17/vanessa_van_edwards.ep_cover.jpg"/>
     </item>
