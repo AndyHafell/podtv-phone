@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Thu, 24 Sep 2026 02:18:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 05:19:01 +0000</lastBuildDate>
+    <item>
+      <title>The Diary Of A CEO — Druski: This Viral Comedy Video Got Trump’s Attention, And Almost Got Him Sued!</title>
+      <itunes:author>The Diary Of A CEO</itunes:author>
+      <guid isPermaLink="false">aa6a807550df5d3c0</guid>
+      <pubDate>Thu, 24 Sep 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M26CBRW55X2EMED8438W3PW7.mp3" length="104608000" type="audio/mpeg"/>
+      <itunes:duration>6538</itunes:duration>
+      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M26N37TKRWRGKWK7TWSM6K5V/druski.ep_cover_png.jpg"/>
+    </item>
     <item>
       <title>Kill Tony — #786 - DONNELL RAWLINGS + SAM TALLENT</title>
       <itunes:author>Kill Tony</itunes:author>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/DSLLC9890521187.mp3?updated=1771462447" length="46720000" type="audio/mpeg"/>
       <itunes:duration>2920</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/0fe786f2-3d92-11f0-8fb0-e778594b8bf8/image/b3123fe637dbdfa2bd55f9fbfb386aca.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>My First Million — Elon’s wildest interview yet — our reaction</title>
-      <itunes:author>My First Million</itunes:author>
-      <guid isPermaLink="false">afa5277ac6ef67946</guid>
-      <pubDate>Wed, 18 Feb 2026 15:30:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/HS2100129344.mp3?updated=1771430016" length="64112000" type="audio/mpeg"/>
-      <itunes:duration>4007</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
