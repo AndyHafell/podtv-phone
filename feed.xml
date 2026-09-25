@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Fri, 25 Sep 2026 06:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 09:02:48 +0000</lastBuildDate>
+    <item>
+      <title>WVFRM Podcast — The Worst Idea YouTube's Ever Had...</title>
+      <itunes:author>WVFRM Podcast</itunes:author>
+      <guid isPermaLink="false">a39e08ac55b05c6aa</guid>
+      <pubDate>Fri, 25 Sep 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/VMP4915042148.mp3" length="109504000" type="audio/mpeg"/>
+      <itunes:duration>6844</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/ae6237e6-7e71-11e9-9c4d-3b02b0eab47c/image/c593abe2ba6d4d476bb3c2b6cfb3b9b9.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
     <item>
       <title>Theo Von — #685 - Joey Diaz</title>
       <itunes:author>Theo Von</itunes:author>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/VMP7282830254.mp3?updated=1771557489" length="97776000" type="audio/mpeg"/>
       <itunes:duration>6111</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/ae6237e6-7e71-11e9-9c4d-3b02b0eab47c/image/c593abe2ba6d4d476bb3c2b6cfb3b9b9.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>The Diary Of A CEO — Most Replayed Moment: Can Creatine Offset Sleep Deprivation? Is It Really The Best Supplement?</title>
-      <itunes:author>The Diary Of A CEO</itunes:author>
-      <guid isPermaLink="false">a78bd2285514a9659</guid>
-      <pubDate>Fri, 20 Feb 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KH15QKHJ9S6FA8HRHKEN2QE4.mp3" length="23056000" type="audio/mpeg"/>
-      <itunes:duration>1441</itunes:duration>
-      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KH1AH2GD31KKK28W627DD32J/square_cover_image.jpg"/>
     </item>
   </channel>
 </rss>
