@@ -9,7 +9,25 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Fri, 25 Sep 2026 09:02:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 12:03:54 +0000</lastBuildDate>
+    <item>
+      <title>Andrew Santino — How Jeff Arcuri Went From Comedy Clubs to Netflix | Whiskey Ginger</title>
+      <itunes:author>Andrew Santino</itunes:author>
+      <guid isPermaLink="false">aa744d08bbfc02f82</guid>
+      <pubDate>Fri, 25 Sep 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/BSN3741695966.mp3" length="88496000" type="audio/mpeg"/>
+      <itunes:duration>5531</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/945529ee-165e-11ec-bbee-37b2e2966d81/image/678ad903ffd2ea176830c26eaa1dcc26.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
+    <item>
+      <title>My First Million — There’s 98 days until 2027...Do this and you’ll thank yourself on Jan 1st</title>
+      <itunes:author>My First Million</itunes:author>
+      <guid isPermaLink="false">a0ad48cd3116dc182</guid>
+      <pubDate>Fri, 25 Sep 2026 10:43:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/HS2309263677.mp3" length="53648000" type="audio/mpeg"/>
+      <itunes:duration>3353</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
     <item>
       <title>WVFRM Podcast — The Worst Idea YouTube's Ever Had...</title>
       <itunes:author>WVFRM Podcast</itunes:author>
@@ -3591,24 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/BSN8337133179.mp3?updated=1770283470" length="84256000" type="audio/mpeg"/>
       <itunes:duration>5266</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/945529ee-165e-11ec-bbee-37b2e2966d81/image/678ad903ffd2ea176830c26eaa1dcc26.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>Theo Von — #641 - Breathing Expert James Nestor</title>
-      <itunes:author>Theo Von</itunes:author>
-      <guid isPermaLink="false">a8c774db4870efd1c</guid>
-      <pubDate>Fri, 20 Feb 2026 10:15:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/ROOSTER3825193534.mp3?updated=1771582785" length="97328000" type="audio/mpeg"/>
-      <itunes:duration>6083</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/f828c4dc-0e41-11f1-8bae-bfb1c671b039/image/d2bbc0452defac09e0f0c053ba10fd07.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>WVFRM Podcast — Why Bother with the Pixel 10a?</title>
-      <itunes:author>WVFRM Podcast</itunes:author>
-      <guid isPermaLink="false">ad7604a0b49227d17</guid>
-      <pubDate>Fri, 20 Feb 2026 09:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/VMP7282830254.mp3?updated=1771557489" length="97776000" type="audio/mpeg"/>
-      <itunes:duration>6111</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/ae6237e6-7e71-11e9-9c4d-3b02b0eab47c/image/c593abe2ba6d4d476bb3c2b6cfb3b9b9.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
