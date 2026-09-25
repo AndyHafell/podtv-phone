@@ -9,7 +9,25 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Fri, 25 Sep 2026 03:01:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 06:02:00 +0000</lastBuildDate>
+    <item>
+      <title>Theo Von — #685 - Joey Diaz</title>
+      <itunes:author>Theo Von</itunes:author>
+      <guid isPermaLink="false">a5b0e3e52a57b8619</guid>
+      <pubDate>Fri, 25 Sep 2026 05:18:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/ROOSTER5477403327.mp3" length="116544000" type="audio/mpeg"/>
+      <itunes:duration>7284</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/9b73ee3e-b89f-11f1-93dc-47b81452bc30/image/6b996b50cdace12825cf0eae23f93417.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
+    <item>
+      <title>The Diary Of A CEO — Most Replayed Moment: A Guilt-Free Way to Handle Work and Life</title>
+      <itunes:author>The Diary Of A CEO</itunes:author>
+      <guid isPermaLink="false">afc265572c10dfdbb</guid>
+      <pubDate>Fri, 25 Sep 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M379SMDZT80QS0EF25QEDAHM.mp3" length="31088000" type="audio/mpeg"/>
+      <itunes:duration>1943</itunes:duration>
+      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M379TWAZ4D19QZBE09T4VXE2/square_cover_image.jpg"/>
+    </item>
     <item>
       <title>The Diary Of A CEO — Druski: They're Lying To You About Overnight Success!</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
@@ -3591,24 +3609,6 @@
       <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KH15QKHJ9S6FA8HRHKEN2QE4.mp3" length="23056000" type="audio/mpeg"/>
       <itunes:duration>1441</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KH1AH2GD31KKK28W627DD32J/square_cover_image.jpg"/>
-    </item>
-    <item>
-      <title>The Diary Of A CEO — The Greatest Climber Alive: I Shouldn't Have Attempted That Climb!</title>
-      <itunes:author>The Diary Of A CEO</itunes:author>
-      <guid isPermaLink="false">a26c31fe027a27574</guid>
-      <pubDate>Thu, 19 Feb 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KHSJW2YD22MKGS0PJAFTSGVK.mp3" length="93248000" type="audio/mpeg"/>
-      <itunes:duration>5828</itunes:duration>
-      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KHSK9KBCCQ09NM5TP20EQ5AX/alex_honnold.jpg"/>
-    </item>
-    <item>
-      <title>David Senra — #412 How Roger Federer Works</title>
-      <itunes:author>David Senra</itunes:author>
-      <guid isPermaLink="false">a3946c51a60eea836</guid>
-      <pubDate>Thu, 19 Feb 2026 00:40:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/DSLLC9890521187.mp3?updated=1771462447" length="46720000" type="audio/mpeg"/>
-      <itunes:duration>2920</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/0fe786f2-3d92-11f0-8fb0-e778594b8bf8/image/b3123fe637dbdfa2bd55f9fbfb386aca.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
