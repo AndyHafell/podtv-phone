@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Sat, 26 Sep 2026 01:11:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 04:12:29 +0000</lastBuildDate>
+    <item>
+      <title>Kill Tony — KT: Behind the Tape (Ep: 786 Donnell Rawlings + Sam Tallent)</title>
+      <itunes:author>Kill Tony</itunes:author>
+      <guid isPermaLink="false">ad314fcf039322225</guid>
+      <pubDate>Sat, 26 Sep 2026 02:10:00 +0000</pubDate>
+      <enclosure url="https://rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/ca039c59-cda8-40a8-8d62-a86db9820fde/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=ca039c59-cda8-40a8-8d62-a86db9820fde&amp;feed=JZSQrle9" length="52816000" type="audio/mpeg"/>
+      <itunes:duration>3301</itunes:duration>
+      <itunes:image href="https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed"/>
+    </item>
     <item>
       <title>Andrew Santino — How Jeff Arcuri Went From Comedy Clubs to Netflix | Whiskey Ginger</title>
       <itunes:author>Andrew Santino</itunes:author>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/HS3310331344.mp3?updated=1771593970" length="45728000" type="audio/mpeg"/>
       <itunes:duration>2858</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>Andrew Santino — Barry Rothbart Meets The Whiskey Ginger Ghost 👻 | Whiskey Ginger</title>
-      <itunes:author>Andrew Santino</itunes:author>
-      <guid isPermaLink="false">a79e5a4b0b5e8d383</guid>
-      <pubDate>Fri, 20 Feb 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/BSN8337133179.mp3?updated=1770283470" length="84256000" type="audio/mpeg"/>
-      <itunes:duration>5266</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/945529ee-165e-11ec-bbee-37b2e2966d81/image/678ad903ffd2ea176830c26eaa1dcc26.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
