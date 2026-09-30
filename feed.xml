@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Wed, 30 Sep 2026 11:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 15:20:46 +0000</lastBuildDate>
+    <item>
+      <title>My First Million — We tested Instinct, MUSE and Grokbot. They’re ridiculous.</title>
+      <itunes:author>My First Million</itunes:author>
+      <guid isPermaLink="false">a0883d76b40db32e8</guid>
+      <pubDate>Wed, 30 Sep 2026 11:13:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/HS5916531802.mp3" length="71952000" type="audio/mpeg"/>
+      <itunes:duration>4497</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
     <item>
       <title>Kill Tony — #787 - HARLAND WILLIAMS + JEREMIAH WATKINS</title>
       <itunes:author>Kill Tony</itunes:author>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KJBMV2VD9J5PCVRSCH7JDM3T.mp3" length="92432000" type="audio/mpeg"/>
       <itunes:duration>5777</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KJCNQC4D5HZP8KZR687AAJQG/jessie_inchauspe.jpg"/>
-    </item>
-    <item>
-      <title>My First Million — Dumb iPhone Apps Are Making People Rich Again (Here’s how)</title>
-      <itunes:author>My First Million</itunes:author>
-      <guid isPermaLink="false">aa41d511ffafc340d</guid>
-      <pubDate>Tue, 24 Feb 2026 14:35:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/HS4121827594.mp3?updated=1771944987" length="46640000" type="audio/mpeg"/>
-      <itunes:duration>2915</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
