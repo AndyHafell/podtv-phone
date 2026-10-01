@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Wed, 30 Sep 2026 18:21:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 01:16:02 +0000</lastBuildDate>
+    <item>
+      <title>Theo Von — #686 - Caleb Pressley</title>
+      <itunes:author>Theo Von</itunes:author>
+      <guid isPermaLink="false">a02acd4951ca4c7d7</guid>
+      <pubDate>Wed, 30 Sep 2026 19:41:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/ROOSTER8083231485.mp3" length="122608000" type="audio/mpeg"/>
+      <itunes:duration>7663</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/45aad538-bd06-11f1-8939-07bcb3c9b65d/image/a3a23efc0f963e2a36de0db0d672a7a4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
     <item>
       <title>My First Million — We tested Instinct, MUSE and Grokbot. They’re ridiculous.</title>
       <itunes:author>My First Million</itunes:author>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/ROOSTER8456132719.mp3?updated=1772101133" length="111600000" type="audio/mpeg"/>
       <itunes:duration>6975</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/7e14eafa-12e1-11f1-95b6-4fa3f310ac33/image/4c0ccf59e59a509c98f76b39ccaca3fd.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>The Diary Of A CEO — Pregnancy Diet Expert: The Pregnancy Diet That Rewrites DNA! Why Pregnant Moms Are Being Lied To!</title>
-      <itunes:author>The Diary Of A CEO</itunes:author>
-      <guid isPermaLink="false">a2efea494b6886d66</guid>
-      <pubDate>Thu, 26 Feb 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KJBMV2VD9J5PCVRSCH7JDM3T.mp3" length="92432000" type="audio/mpeg"/>
-      <itunes:duration>5777</itunes:duration>
-      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KJCNQC4D5HZP8KZR687AAJQG/jessie_inchauspe.jpg"/>
     </item>
   </channel>
 </rss>
