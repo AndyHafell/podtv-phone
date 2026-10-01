@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Thu, 01 Oct 2026 01:16:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 05:27:50 +0000</lastBuildDate>
+    <item>
+      <title>The Diary Of A CEO — Shawn Ryan: There's A Battle For Your Soul, It's Happening Right Now</title>
+      <itunes:author>The Diary Of A CEO</itunes:author>
+      <guid isPermaLink="false">a456931ef862028ff</guid>
+      <pubDate>Thu, 01 Oct 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M32KE23H52RT1RTNT9EKC4JA.mp3" length="95744000" type="audio/mpeg"/>
+      <itunes:duration>5984</itunes:duration>
+      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M32NTF4GFVXBCXNQ06T9D8EF/shawn_ryan.ep_cover.jpg"/>
+    </item>
     <item>
       <title>Theo Von — #686 - Caleb Pressley</title>
       <itunes:author>Theo Von</itunes:author>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/HS2006123785.mp3?updated=1772121315" length="48368000" type="audio/mpeg"/>
       <itunes:duration>3023</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>Theo Von — #642 - James Li</title>
-      <itunes:author>Theo Von</itunes:author>
-      <guid isPermaLink="false">a6b83c96b710f5f17</guid>
-      <pubDate>Thu, 26 Feb 2026 07:20:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/ROOSTER8456132719.mp3?updated=1772101133" length="111600000" type="audio/mpeg"/>
-      <itunes:duration>6975</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/7e14eafa-12e1-11f1-95b6-4fa3f310ac33/image/4c0ccf59e59a509c98f76b39ccaca3fd.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
