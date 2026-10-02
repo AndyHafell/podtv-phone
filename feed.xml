@@ -9,7 +9,25 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Thu, 01 Oct 2026 17:38:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 05:39:36 +0000</lastBuildDate>
+    <item>
+      <title>The Diary Of A CEO — Most Replayed Moment: I Met An Uncontacted Tribe! The Secret World Hidden In The Amazon Rainforest - Paul Rosolie</title>
+      <itunes:author>The Diary Of A CEO</itunes:author>
+      <guid isPermaLink="false">a49a3475ff20e3af3</guid>
+      <pubDate>Fri, 02 Oct 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M1KXMJ387SENM7YABK32GA4W.mp3" length="38544000" type="audio/mpeg"/>
+      <itunes:duration>2409</itunes:duration>
+      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M1KXNB58ZYJVX9ZCY8M7AJD7/square_cover_image.jpg"/>
+    </item>
+    <item>
+      <title>Theo Von — #687 - Zohran Mamdani</title>
+      <itunes:author>Theo Von</itunes:author>
+      <guid isPermaLink="false">a82e4f96e53639f6b</guid>
+      <pubDate>Thu, 01 Oct 2026 22:22:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/ROOSTER2517473949.mp3" length="75296000" type="audio/mpeg"/>
+      <itunes:duration>4706</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/1a60f922-bde5-11f1-a901-1335cef787d2/image/73456e9ee14d81c09c07868d9e8d3c43.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
     <item>
       <title>The Diary Of A CEO — Shawn Ryan: There's A Battle For Your Soul, It's Happening Right Now</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
@@ -3591,24 +3609,6 @@
       <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KH192P9Z81W4ZTGJNBWTGQ59.mp3" length="23088000" type="audio/mpeg"/>
       <itunes:duration>1443</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KH1AH7ZMBFCFXWGYA0DJCWD5/square_cover_image.jpg"/>
-    </item>
-    <item>
-      <title>Colin and Samir — How Markiplier’s $50M Movie Changed Hollywood Forever</title>
-      <itunes:author>Colin and Samir</itunes:author>
-      <guid isPermaLink="false">a44d829f52d34a97e</guid>
-      <pubDate>Thu, 26 Feb 2026 16:32:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/LUHUC5140944530.mp3" length="37888000" type="audio/mpeg"/>
-      <itunes:duration>2368</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/97efcf10-e812-11ec-83f3-c3c0c0c21250/image/largeCS_showPODCAST_COVER.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>My First Million — ‘Think and Grow Rich’ Is a Lie. (But The Advice Still Works)</title>
-      <itunes:author>My First Million</itunes:author>
-      <guid isPermaLink="false">a421d90a719ecc922</guid>
-      <pubDate>Thu, 26 Feb 2026 15:44:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/HS2006123785.mp3?updated=1772121315" length="48368000" type="audio/mpeg"/>
-      <itunes:duration>3023</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
