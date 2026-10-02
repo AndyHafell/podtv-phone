@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Fri, 02 Oct 2026 14:45:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 21:05:13 +0000</lastBuildDate>
+    <item>
+      <title>WVFRM Podcast — The Xiaomi Fold and New Meta VR Glasses</title>
+      <itunes:author>WVFRM Podcast</itunes:author>
+      <guid isPermaLink="false">a750eed76b97c339c</guid>
+      <pubDate>Fri, 02 Oct 2026 18:42:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/VMP8824648819.mp3" length="97776000" type="audio/mpeg"/>
+      <itunes:duration>6111</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/ae6237e6-7e71-11e9-9c4d-3b02b0eab47c/image/c593abe2ba6d4d476bb3c2b6cfb3b9b9.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
     <item>
       <title>Andrew Santino — Caitlin Peluffo loves a short king 👑| Whiskey Ginger</title>
       <itunes:author>Andrew Santino</itunes:author>
@@ -18,15 +27,6 @@
       <enclosure url="https://traffic.megaphone.fm/BSN2736413281.mp3" length="85104000" type="audio/mpeg"/>
       <itunes:duration>5319</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/945529ee-165e-11ec-bbee-37b2e2966d81/image/678ad903ffd2ea176830c26eaa1dcc26.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>WVFRM Podcast — The Xiaomi Fold and New Meta VR Glasses</title>
-      <itunes:author>WVFRM Podcast</itunes:author>
-      <guid isPermaLink="false">a750eed76b97c339c</guid>
-      <pubDate>Fri, 02 Oct 2026 08:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/VMP8824648819.mp3" length="97776000" type="audio/mpeg"/>
-      <itunes:duration>6111</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/ae6237e6-7e71-11e9-9c4d-3b02b0eab47c/image/c593abe2ba6d4d476bb3c2b6cfb3b9b9.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
       <title>The Diary Of A CEO — Most Replayed Moment: I Met An Uncontacted Tribe! The Secret World Hidden In The Amazon Rainforest - Paul Rosolie</title>
