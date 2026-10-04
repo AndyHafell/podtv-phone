@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Sat, 03 Oct 2026 10:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 02:26:48 +0000</lastBuildDate>
+    <item>
+      <title>Kill Tony — KT: Behind the Tape (Ep: 787 Harland Williams + Jeremiah Watkins)</title>
+      <itunes:author>Kill Tony</itunes:author>
+      <guid isPermaLink="false">ad6b7522b41621e17</guid>
+      <pubDate>Sat, 03 Oct 2026 20:05:00 +0000</pubDate>
+      <enclosure url="https://rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/1f492774-497d-469f-bd68-d4e3d083f2e9/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=1f492774-497d-469f-bd68-d4e3d083f2e9&amp;feed=JZSQrle9" length="62240000" type="audio/mpeg"/>
+      <itunes:duration>3890</itunes:duration>
+      <itunes:image href="https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed"/>
+    </item>
     <item>
       <title>WVFRM Podcast — The Xiaomi Fold and New Meta VR Glasses</title>
       <itunes:author>WVFRM Podcast</itunes:author>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://content.blubrry.com/takeituneasy/lex_ai_rick_beato.mp3" length="1" type="audio/mpeg"/>
       <itunes:duration>0</itunes:duration>
       <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"/>
-    </item>
-    <item>
-      <title>Andrew Santino — Chloe Radcliffe Joins The Show! | Whiskey Ginger</title>
-      <itunes:author>Andrew Santino</itunes:author>
-      <guid isPermaLink="false">a628763defa01996b</guid>
-      <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/BSN3457588033.mp3?updated=1772149611" length="68592000" type="audio/mpeg"/>
-      <itunes:duration>4287</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/945529ee-165e-11ec-bbee-37b2e2966d81/image/678ad903ffd2ea176830c26eaa1dcc26.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
