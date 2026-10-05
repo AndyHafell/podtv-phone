@@ -9,7 +9,25 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Mon, 05 Oct 2026 08:46:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 11:47:34 +0000</lastBuildDate>
+    <item>
+      <title>My First Million — 3 businesses we think are about to blow up</title>
+      <itunes:author>My First Million</itunes:author>
+      <guid isPermaLink="false">a9eb680cc321d4261</guid>
+      <pubDate>Mon, 05 Oct 2026 10:47:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/HS5935314875.mp3" length="47248000" type="audio/mpeg"/>
+      <itunes:duration>2953</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
+    <item>
+      <title>David Senra — #436 Ari Emanuel's Autobiography</title>
+      <itunes:author>David Senra</itunes:author>
+      <guid isPermaLink="false">a39fa5832bf2797f5</guid>
+      <pubDate>Mon, 05 Oct 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/DSLLC5030588491.mp3" length="66960000" type="audio/mpeg"/>
+      <itunes:duration>4185</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/0fe786f2-3d92-11f0-8fb0-e778594b8bf8/image/b3123fe637dbdfa2bd55f9fbfb386aca.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
     <item>
       <title>Bad Friends — Bobby Is Tone Tone Galore</title>
       <itunes:author>Bad Friends</itunes:author>
@@ -3591,24 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/DSLLC1554020959.mp3?updated=1772499344" length="30160000" type="audio/mpeg"/>
       <itunes:duration>1885</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/0fe786f2-3d92-11f0-8fb0-e778594b8bf8/image/b3123fe637dbdfa2bd55f9fbfb386aca.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>Acquired — Formula 1</title>
-      <itunes:author>Acquired</itunes:author>
-      <guid isPermaLink="false">ada02719960b8d2b7</guid>
-      <pubDate>Mon, 02 Mar 2026 22:18:59 +0000</pubDate>
-      <enclosure url="https://media.transistor.fm/93e7bac7/9d4b12b6.mp3" length="248400000" type="audio/mpeg"/>
-      <itunes:duration>15525</itunes:duration>
-      <itunes:image href="https://img.transistorcdn.com/ORaQ7w0zdqAScJ9YPCf3I4RKe_muT-If0IMRT5rIuE8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84MzRh/NWY0NDJlNzAzNDY1/OGY2NThlZDBkYmU1/NzdjMC5wbmc.jpg"/>
-    </item>
-    <item>
-      <title>Bad Friends — Theo Von &amp; Rimbo The Kimchi King</title>
-      <itunes:author>Bad Friends</itunes:author>
-      <guid isPermaLink="false">ae07f0a115852ae3c</guid>
-      <pubDate>Mon, 02 Mar 2026 09:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/YMH5751837347.mp3?updated=1772152356" length="67536000" type="audio/mpeg"/>
-      <itunes:duration>4221</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/b2cea2e8-8f5d-11f0-84e2-23b0f3f80de6/image/92d132405750a0b93032776cd27cc5e3.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
