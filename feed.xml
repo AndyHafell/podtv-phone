@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Mon, 05 Oct 2026 02:44:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 05:45:31 +0000</lastBuildDate>
+    <item>
+      <title>The Diary Of A CEO — Dana White: This Generation Thinks You Can Build A Business From Home, It's Impossible!</title>
+      <itunes:author>The Diary Of A CEO</itunes:author>
+      <guid isPermaLink="false">a7ea9bd7a1b8a704a</guid>
+      <pubDate>Mon, 05 Oct 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M26N4N40D24TJPZ6V4N7JMTY.mp3" length="84864000" type="audio/mpeg"/>
+      <itunes:duration>5304</itunes:duration>
+      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M26N6YYMPDGHHZJEWKTF58ZJ/dana_white_ep_cover.jpg"/>
+    </item>
     <item>
       <title>Kill Tony — KT: Behind the Tape (Ep: 787 Harland Williams + Jeremiah Watkins)</title>
       <itunes:author>Kill Tony</itunes:author>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KJPAFF6QV98HCW3MK372HW6Y.mp3" length="100672000" type="audio/mpeg"/>
       <itunes:duration>6292</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KJPAN34RT3DKCF4TXY78B9KF/gavin_de_becker.jpg"/>
-    </item>
-    <item>
-      <title>Lex Fridman — #492 – Rick Beato: Greatest Guitarists of All Time, History &amp; Future of Music</title>
-      <itunes:author>Lex Fridman</itunes:author>
-      <guid isPermaLink="false">a1d82e64080aa476d</guid>
-      <pubDate>Sun, 01 Mar 2026 04:33:22 +0000</pubDate>
-      <enclosure url="https://content.blubrry.com/takeituneasy/lex_ai_rick_beato.mp3" length="1" type="audio/mpeg"/>
-      <itunes:duration>0</itunes:duration>
-      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"/>
     </item>
   </channel>
 </rss>
