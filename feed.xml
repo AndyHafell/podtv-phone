@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Mon, 05 Oct 2026 05:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 08:46:16 +0000</lastBuildDate>
+    <item>
+      <title>Bad Friends — Bobby Is Tone Tone Galore</title>
+      <itunes:author>Bad Friends</itunes:author>
+      <guid isPermaLink="false">a5fc3080e8031e1cd</guid>
+      <pubDate>Mon, 05 Oct 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/YMH1752546592.mp3" length="64544000" type="audio/mpeg"/>
+      <itunes:duration>4034</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/b56acbdcb14ba33f7e0188f389b7fe23.jpeg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
     <item>
       <title>The Diary Of A CEO — Dana White: This Generation Thinks You Can Build A Business From Home, It's Impossible!</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/YMH5751837347.mp3?updated=1772152356" length="67536000" type="audio/mpeg"/>
       <itunes:duration>4221</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/b2cea2e8-8f5d-11f0-84e2-23b0f3f80de6/image/92d132405750a0b93032776cd27cc5e3.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>The Diary Of A CEO — Top CIA Security Advisor: Jeffrey Epstein Epstein Was A Made Up Person &amp; They Can See Your Messages!</title>
-      <itunes:author>The Diary Of A CEO</itunes:author>
-      <guid isPermaLink="false">a1efc8d458f88692e</guid>
-      <pubDate>Sun, 01 Mar 2026 22:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KJPAFF6QV98HCW3MK372HW6Y.mp3" length="100672000" type="audio/mpeg"/>
-      <itunes:duration>6292</itunes:duration>
-      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KJPAN34RT3DKCF4TXY78B9KF/gavin_de_becker.jpg"/>
     </item>
   </channel>
 </rss>
