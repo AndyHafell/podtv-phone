@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Tue, 06 Oct 2026 07:38:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:39:20 +0000</lastBuildDate>
+    <item>
+      <title>Theo Von — #689 - Nick Saban</title>
+      <itunes:author>Theo Von</itunes:author>
+      <guid isPermaLink="false">aaf88384f0490b1da</guid>
+      <pubDate>Tue, 06 Oct 2026 09:44:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/ROOSTER3271129593.mp3" length="80496000" type="audio/mpeg"/>
+      <itunes:duration>5031</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/5ec6d81a-c16a-11f1-9c08-ff9bf259a686/image/68949f4bd5aba000ad22ea81c5bfee41.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
     <item>
       <title>Kill Tony — KT #788 - WHEELER WALKER JR + SAM TRIPOLI</title>
       <itunes:author>Kill Tony</itunes:author>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/ROOSTER5526659969.mp3?updated=1772557227" length="86064000" type="audio/mpeg"/>
       <itunes:duration>5379</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/a30a84f0-171e-11f1-934f-0740e87219d2/image/14686fd816f5d88ba8033c34f2fb7e84.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>My First Million — I Asked a $450M VC Where to Invest in 2026</title>
-      <itunes:author>My First Million</itunes:author>
-      <guid isPermaLink="false">a896029e67948ff87</guid>
-      <pubDate>Tue, 03 Mar 2026 14:33:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/HS2949105796.mp3?updated=1772549046" length="56848000" type="audio/mpeg"/>
-      <itunes:duration>3553</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
