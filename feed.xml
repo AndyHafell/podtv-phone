@@ -9,7 +9,25 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Mon, 05 Oct 2026 19:04:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 01:36:15 +0000</lastBuildDate>
+    <item>
+      <title>Kill Tony — KT #788</title>
+      <itunes:author>Kill Tony</itunes:author>
+      <guid isPermaLink="false">a8e5d5a9827c8ec90</guid>
+      <pubDate>Tue, 06 Oct 2026 01:00:00 +0000</pubDate>
+      <enclosure url="https://rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/418a380c-747a-4eb0-ad62-c4ae66c6fe1b/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=418a380c-747a-4eb0-ad62-c4ae66c6fe1b&amp;feed=JZSQrle9" length="132320000" type="audio/mpeg"/>
+      <itunes:duration>8270</itunes:duration>
+      <itunes:image href="https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed"/>
+    </item>
+    <item>
+      <title>Theo Von — #688 - Candace Owens</title>
+      <itunes:author>Theo Von</itunes:author>
+      <guid isPermaLink="false">ae99e9501eb950744</guid>
+      <pubDate>Mon, 05 Oct 2026 23:17:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/ROOSTER4484920893.mp3" length="136576000" type="audio/mpeg"/>
+      <itunes:duration>8536</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/db7417a0-c111-11f1-8e9a-bf29a74a1905/image/cf3538514daab96459177dd8b5260605.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
     <item>
       <title>My First Million — 3 businesses we think are about to blow up</title>
       <itunes:author>My First Million</itunes:author>
@@ -3591,24 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/HS2949105796.mp3?updated=1772549046" length="56848000" type="audio/mpeg"/>
       <itunes:duration>3553</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>Kill Tony — #758 - DONNELL RAWLINGS + TREVOR WALLACE</title>
-      <itunes:author>Kill Tony</itunes:author>
-      <guid isPermaLink="false">ae06aabd5904b590e</guid>
-      <pubDate>Tue, 03 Mar 2026 02:00:00 +0000</pubDate>
-      <enclosure url="https://rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/5bf8b6bc-0fda-43a4-8dbd-803ec399ed1a/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=5bf8b6bc-0fda-43a4-8dbd-803ec399ed1a&amp;feed=JZSQrle9" length="106992000" type="audio/mpeg"/>
-      <itunes:duration>6687</itunes:duration>
-      <itunes:image href="https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed"/>
-    </item>
-    <item>
-      <title>David Senra — #413 How To Run Down A Dream</title>
-      <itunes:author>David Senra</itunes:author>
-      <guid isPermaLink="false">a2967bbb04f7b1c68</guid>
-      <pubDate>Tue, 03 Mar 2026 00:37:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/DSLLC1554020959.mp3?updated=1772499344" length="30160000" type="audio/mpeg"/>
-      <itunes:duration>1885</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/0fe786f2-3d92-11f0-8fb0-e778594b8bf8/image/b3123fe637dbdfa2bd55f9fbfb386aca.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
