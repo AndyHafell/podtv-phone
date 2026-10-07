@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Wed, 07 Oct 2026 03:29:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 12:25:51 +0000</lastBuildDate>
+    <item>
+      <title>My First Million — The creative genius behind Squatty Potty &amp; Poo-Pourri reveals his marketing playbook</title>
+      <itunes:author>My First Million</itunes:author>
+      <guid isPermaLink="false">abc4e89c803135333</guid>
+      <pubDate>Wed, 07 Oct 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/HS9254119435.mp3" length="63008000" type="audio/mpeg"/>
+      <itunes:duration>3938</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
     <item>
       <title>WVFRM Podcast — How to Start a Podcast (Then vs Now) w/Alex Goldman</title>
       <itunes:author>WVFRM Podcast</itunes:author>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KJVVZCW7422BAFHRX037PAFB.mp3" length="131552000" type="audio/mpeg"/>
       <itunes:duration>8222</itunes:duration>
       <itunes:image href="https://assets.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/podcasts/xmsftuzjjykcmqwolaqn6mdn/cs9v0tiwz4lv6yfo3vt6q6dx.png"/>
-    </item>
-    <item>
-      <title>Acquired — Costco</title>
-      <itunes:author>Acquired</itunes:author>
-      <guid isPermaLink="false">a603fc4d8dc0689a9</guid>
-      <pubDate>Wed, 04 Mar 2026 05:46:00 +0000</pubDate>
-      <enclosure url="https://media.transistor.fm/fcf31c71/acf1c31d.mp3" length="166544000" type="audio/mpeg"/>
-      <itunes:duration>10409</itunes:duration>
-      <itunes:image href="https://img.transistorcdn.com/jFPz1nSL8JfyAmY8ab_xqfZWEVOQ1VqoHhJKdxvzTEY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hMWI0/NTE4ZGMzNWQ2ODli/ZTExZDkwNjBmZjVl/ZmQ1OS5wbmc.jpg"/>
     </item>
   </channel>
 </rss>
