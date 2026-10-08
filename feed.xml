@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Thu, 08 Oct 2026 02:41:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 05:41:57 +0000</lastBuildDate>
+    <item>
+      <title>The Diary Of A CEO — AI Safety Whistleblower: 700 AI Agents Attacked A Company To Cover Their Tracks! | Jeffrey Ladish</title>
+      <itunes:author>The Diary Of A CEO</itunes:author>
+      <guid isPermaLink="false">af751b5673d60d96f</guid>
+      <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M46YN191EJ0V3NPANXPEM9WA.mp3" length="118784000" type="audio/mpeg"/>
+      <itunes:duration>7424</itunes:duration>
+      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M46ZV9SWVQ6SS9Z9VKSY66P6/ladish-cover.jpg"/>
+    </item>
     <item>
       <title>My First Million — The creative genius behind Squatty Potty &amp; Poo-Pourri reveals his marketing playbook</title>
       <itunes:author>My First Million</itunes:author>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://media.transistor.fm/7bea4e45/0aa48fa3.mp3" length="279760000" type="audio/mpeg"/>
       <itunes:duration>17485</itunes:duration>
       <itunes:image href="https://img.transistorcdn.com/gx6fhYO1SXMFGcVkU0FWykOtdtd5kMbwLFJMSN3_WZ4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zMWQ4/NjUxMmJkYTUxMzRh/Mzk4ZWYwM2UwYWNk/M2Q2Ny5wbmc.jpg"/>
-    </item>
-    <item>
-      <title>The Diary Of A CEO — WW3 Threat Assessment: "Trump Bombing Iran Just Increased Nuclear War Threat" The Terrifying Reality</title>
-      <itunes:author>The Diary Of A CEO</itunes:author>
-      <guid isPermaLink="false">a3c0dfc3aa15fa564</guid>
-      <pubDate>Wed, 04 Mar 2026 08:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KJVVZCW7422BAFHRX037PAFB.mp3" length="131552000" type="audio/mpeg"/>
-      <itunes:duration>8222</itunes:duration>
-      <itunes:image href="https://assets.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/podcasts/xmsftuzjjykcmqwolaqn6mdn/cs9v0tiwz4lv6yfo3vt6q6dx.png"/>
     </item>
   </channel>
 </rss>
