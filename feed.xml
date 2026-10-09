@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Fri, 09 Oct 2026 04:25:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 07:53:27 +0000</lastBuildDate>
+    <item>
+      <title>The Diary Of A CEO — Most Replayed Moment: AI Is Changing How Teams Work Forever</title>
+      <itunes:author>The Diary Of A CEO</itunes:author>
+      <guid isPermaLink="false">a297ada36acc684a6</guid>
+      <pubDate>Fri, 09 Oct 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M1KG7RQ525JTCTET05G29VH6.mp3" length="19856000" type="audio/mpeg"/>
+      <itunes:duration>1241</itunes:duration>
+      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M1KGEWKZNC7WRB5CY66CKQH4/square_cover_image.jpg"/>
+    </item>
     <item>
       <title>The Diary Of A CEO — AI Safety Whistleblower: 700 AI Agents Attacked A Company To Cover Their Tracks! | Jeffrey Ladish</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/HS8395514286.mp3?updated=1772729090" length="67056000" type="audio/mpeg"/>
       <itunes:duration>4191</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>Acquired — Rolex</title>
-      <itunes:author>Acquired</itunes:author>
-      <guid isPermaLink="false">a04eaf8733334d42a</guid>
-      <pubDate>Thu, 05 Mar 2026 04:34:00 +0000</pubDate>
-      <enclosure url="https://media.transistor.fm/7bea4e45/0aa48fa3.mp3" length="279760000" type="audio/mpeg"/>
-      <itunes:duration>17485</itunes:duration>
-      <itunes:image href="https://img.transistorcdn.com/gx6fhYO1SXMFGcVkU0FWykOtdtd5kMbwLFJMSN3_WZ4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zMWQ4/NjUxMmJkYTUxMzRh/Mzk4ZWYwM2UwYWNk/M2Q2Ny5wbmc.jpg"/>
     </item>
   </channel>
 </rss>
