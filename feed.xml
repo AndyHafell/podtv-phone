@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Fri, 09 Oct 2026 10:55:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 13:56:06 +0000</lastBuildDate>
+    <item>
+      <title>Andrew Santino — Ryan Hamilton &amp; Santino Find the Funny in Everything | Whiskey Ginger</title>
+      <itunes:author>Andrew Santino</itunes:author>
+      <guid isPermaLink="false">a8ec82cfa7b58c56d</guid>
+      <pubDate>Fri, 09 Oct 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/BSN8306455144.mp3" length="77376000" type="audio/mpeg"/>
+      <itunes:duration>4836</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/945529ee-165e-11ec-bbee-37b2e2966d81/image/678ad903ffd2ea176830c26eaa1dcc26.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
     <item>
       <title>WVFRM Podcast — The 2026 Smartphone Awards Discussion Episode</title>
       <itunes:author>WVFRM Podcast</itunes:author>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KH196GDNQYRFC21YQ4F0HB5Z.mp3" length="26032000" type="audio/mpeg"/>
       <itunes:duration>1627</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KH1AHC2K1FW8HMS3HM0MHGDT/square_cover_image.jpg"/>
-    </item>
-    <item>
-      <title>Theo Von — #644 - Bryan Johnson</title>
-      <itunes:author>Theo Von</itunes:author>
-      <guid isPermaLink="false">aada7ef6fb5c3b3c9</guid>
-      <pubDate>Thu, 05 Mar 2026 17:16:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/ROOSTER1430439505.mp3?updated=1772731159" length="137056000" type="audio/mpeg"/>
-      <itunes:duration>8566</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/f282c730-1878-11f1-b173-dbb8b32ed611/image/00a714fdac89e9a5ff12b21c05df3e49.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
