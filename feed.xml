@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Fri, 09 Oct 2026 07:53:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 10:55:13 +0000</lastBuildDate>
+    <item>
+      <title>WVFRM Podcast — The 2026 Smartphone Awards Discussion Episode</title>
+      <itunes:author>WVFRM Podcast</itunes:author>
+      <guid isPermaLink="false">a426ad0ca07f7b32d</guid>
+      <pubDate>Fri, 09 Oct 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/VMP1291313124.mp3" length="106016000" type="audio/mpeg"/>
+      <itunes:duration>6626</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/ae6237e6-7e71-11e9-9c4d-3b02b0eab47c/image/c593abe2ba6d4d476bb3c2b6cfb3b9b9.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
     <item>
       <title>The Diary Of A CEO — Most Replayed Moment: AI Is Changing How Teams Work Forever</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/ROOSTER1430439505.mp3?updated=1772731159" length="137056000" type="audio/mpeg"/>
       <itunes:duration>8566</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/f282c730-1878-11f1-b173-dbb8b32ed611/image/00a714fdac89e9a5ff12b21c05df3e49.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>My First Million — I built a $50M AI app in high school (and just sold it for...)</title>
-      <itunes:author>My First Million</itunes:author>
-      <guid isPermaLink="false">adb7a97b2512d4a0c</guid>
-      <pubDate>Thu, 05 Mar 2026 16:16:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/HS8395514286.mp3?updated=1772729090" length="67056000" type="audio/mpeg"/>
-      <itunes:duration>4191</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
