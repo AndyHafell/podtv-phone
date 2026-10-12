@@ -9,7 +9,25 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Sun, 11 Oct 2026 13:35:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 06:14:17 +0000</lastBuildDate>
+    <item>
+      <title>The Diary Of A CEO — Eric Weinstein: The Secret Alien Programs Nobody Is Talking About</title>
+      <itunes:author>The Diary Of A CEO</itunes:author>
+      <guid isPermaLink="false">aa12be15438b7a473</guid>
+      <pubDate>Mon, 12 Oct 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M426P4R3YTEDTPVFX13Q6DPJ.mp3" length="108288000" type="audio/mpeg"/>
+      <itunes:duration>6768</itunes:duration>
+      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M46XMCBGFSVQYHTVXM6D8E3Y/eric_weinstein.ep_cover.jpg"/>
+    </item>
+    <item>
+      <title>Kill Tony — KT: Behind the Tape (Ep: 788 Wheeler Walker + Sam Tripoli)</title>
+      <itunes:author>Kill Tony</itunes:author>
+      <guid isPermaLink="false">a08b28a3c4d77e7cb</guid>
+      <pubDate>Sun, 11 Oct 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/7380218e-b092-4a35-be4b-dd92e93c2fe5/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=7380218e-b092-4a35-be4b-dd92e93c2fe5&amp;feed=JZSQrle9" length="48896000" type="audio/mpeg"/>
+      <itunes:duration>3056</itunes:duration>
+      <itunes:image href="https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed"/>
+    </item>
     <item>
       <title>Andrew Santino — Ryan Hamilton &amp; Santino Find the Funny in Everything | Whiskey Ginger</title>
       <itunes:author>Andrew Santino</itunes:author>
@@ -3591,24 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/BSN8457535684.mp3?updated=1772672362" length="79952000" type="audio/mpeg"/>
       <itunes:duration>4997</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/945529ee-165e-11ec-bbee-37b2e2966d81/image/678ad903ffd2ea176830c26eaa1dcc26.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>WVFRM Podcast — Nothing Like a New MacBook!</title>
-      <itunes:author>WVFRM Podcast</itunes:author>
-      <guid isPermaLink="false">a98950245308f6ec9</guid>
-      <pubDate>Fri, 06 Mar 2026 09:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/VMP2178700605.mp3?updated=1772766822" length="104864000" type="audio/mpeg"/>
-      <itunes:duration>6554</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/ae6237e6-7e71-11e9-9c4d-3b02b0eab47c/image/c593abe2ba6d4d476bb3c2b6cfb3b9b9.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>The Diary Of A CEO — Most Replayed Moment: Stressed About Money? Nischa's Step-by-Step Guide To Financial Security</title>
-      <itunes:author>The Diary Of A CEO</itunes:author>
-      <guid isPermaLink="false">a258668862062da7c</guid>
-      <pubDate>Fri, 06 Mar 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KH196GDNQYRFC21YQ4F0HB5Z.mp3" length="26032000" type="audio/mpeg"/>
-      <itunes:duration>1627</itunes:duration>
-      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KH1AHC2K1FW8HMS3HM0MHGDT/square_cover_image.jpg"/>
     </item>
   </channel>
 </rss>
