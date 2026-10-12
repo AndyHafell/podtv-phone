@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Mon, 12 Oct 2026 09:15:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 12:16:20 +0000</lastBuildDate>
+    <item>
+      <title>My First Million — 3 embarrassing moments that changed my life</title>
+      <itunes:author>My First Million</itunes:author>
+      <guid isPermaLink="false">a4e4af77fa8136790</guid>
+      <pubDate>Mon, 12 Oct 2026 11:52:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/HS8457626861.mp3" length="23056000" type="audio/mpeg"/>
+      <itunes:duration>1441</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
     <item>
       <title>Bad Friends — Old White and Dumb</title>
       <itunes:author>Bad Friends</itunes:author>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KK7HBK5VZG9XZTV3C18MZ419.mp3" length="141072000" type="audio/mpeg"/>
       <itunes:duration>8817</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KK7HDFJPA2EHEM3T4CDJCN54/wesley_huff.jpg"/>
-    </item>
-    <item>
-      <title>David Senra — #414 How SpaceX Works</title>
-      <itunes:author>David Senra</itunes:author>
-      <guid isPermaLink="false">acd98a716d970a2af</guid>
-      <pubDate>Sun, 08 Mar 2026 17:59:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/DSLLC4974262170.mp3?updated=1772993997" length="39456000" type="audio/mpeg"/>
-      <itunes:duration>2466</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/0fe786f2-3d92-11f0-8fb0-e778594b8bf8/image/b3123fe637dbdfa2bd55f9fbfb386aca.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
