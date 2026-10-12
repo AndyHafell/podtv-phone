@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Mon, 12 Oct 2026 06:14:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:15:16 +0000</lastBuildDate>
+    <item>
+      <title>Bad Friends — Old White and Dumb</title>
+      <itunes:author>Bad Friends</itunes:author>
+      <guid isPermaLink="false">ad28911573c85fa9b</guid>
+      <pubDate>Mon, 12 Oct 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/YMH3092703791.mp3" length="66064000" type="audio/mpeg"/>
+      <itunes:duration>4129</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
     <item>
       <title>The Diary Of A CEO — Eric Weinstein: The Secret Alien Programs Nobody Is Talking About</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/DSLLC4974262170.mp3?updated=1772993997" length="39456000" type="audio/mpeg"/>
       <itunes:duration>2466</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/0fe786f2-3d92-11f0-8fb0-e778594b8bf8/image/b3123fe637dbdfa2bd55f9fbfb386aca.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>Andrew Santino — Tommy Brennan Joins The Show! | Whiskey Ginger</title>
-      <itunes:author>Andrew Santino</itunes:author>
-      <guid isPermaLink="false">af0615034c6fadf5f</guid>
-      <pubDate>Fri, 06 Mar 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/BSN8457535684.mp3?updated=1772672362" length="79952000" type="audio/mpeg"/>
-      <itunes:duration>4997</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/945529ee-165e-11ec-bbee-37b2e2966d81/image/678ad903ffd2ea176830c26eaa1dcc26.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
