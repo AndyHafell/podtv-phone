@@ -9,7 +9,7 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Tue, 13 Oct 2026 14:17:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 17:18:45 +0000</lastBuildDate>
     <item>
       <title>Theo Von — #690 - Josh Brolin</title>
       <itunes:author>Theo Von</itunes:author>
@@ -20,7 +20,7 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/00365dc6-c6af-11f1-a25e-43df1a1611c9/image/79f10fa876194bf59e297586531cf0ca.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>Kill Tony — KILL TONY #789</title>
+      <title>Kill Tony — KILL TONY #789 - TIM BUTTERLY +KIRK FOX</title>
       <itunes:author>Kill Tony</itunes:author>
       <guid isPermaLink="false">a2790c570c4357fde</guid>
       <pubDate>Tue, 13 Oct 2026 01:00:00 +0000</pubDate>
@@ -47,11 +47,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — AI Extinction Risk Expert: If Your Job Is Repetitive, AI Will Do It Better Than You! | Eric Weinstein</title>
+      <title>The Diary Of A CEO — UFO Cover-Up Analyst: The Secret Alien Programs Nobody Is Talking About | Eric Weinstein</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">aa12be15438b7a473</guid>
       <pubDate>Mon, 12 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M426P4R3YTEDTPVFX13Q6DPJ.mp3?fcv=f3g4kcq3khje0ewkyhksllj8" length="108656000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M426P4R3YTEDTPVFX13Q6DPJ.mp3?fcv=ahntiya055famtnjw9r9r7io" length="108656000" type="audio/mpeg"/>
       <itunes:duration>6791</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M46XMCBGFSVQYHTVXM6D8E3Y/eric_weinstein.ep_cover.jpg"/>
     </item>
@@ -92,11 +92,11 @@
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M1KGEWKZNC7WRB5CY66CKQH4/square_cover_image.jpg"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — AI Insider: We Are Losing Control Faster Than You Think | Jeffrey Ladish</title>
+      <title>The Diary Of A CEO — AI Insider: "They Are Hiding What Is Really Happening" | Jeffrey Ladish</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">af751b5673d60d96f</guid>
       <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M46YN191EJ0V3NPANXPEM9WA.mp3?fcv=mdiikcdxs3kf9r4zdsdjt9ut" length="118784000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M46YN191EJ0V3NPANXPEM9WA.mp3?fcv=xggins1aow2e80au4tdapyb2" length="118784000" type="audio/mpeg"/>
       <itunes:duration>7424</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M46ZV9SWVQ6SS9Z9VKSY66P6/ladish-cover.jpg"/>
     </item>
@@ -2756,6 +2756,24 @@
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KQNHZAVGG0P60MD4C8M6MYSM/scott_galloway.jpg"/>
     </item>
     <item>
+      <title>Acquired — Rolex</title>
+      <itunes:author>Acquired</itunes:author>
+      <guid isPermaLink="false">a04eaf8733334d42a</guid>
+      <pubDate>Sun, 03 May 2026 03:34:00 +0000</pubDate>
+      <enclosure url="https://media.transistor.fm/7bea4e45/0aa48fa3.mp3" length="279760000" type="audio/mpeg"/>
+      <itunes:duration>17485</itunes:duration>
+      <itunes:image href="https://img.transistorcdn.com/gx6fhYO1SXMFGcVkU0FWykOtdtd5kMbwLFJMSN3_WZ4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zMWQ4/NjUxMmJkYTUxMzRh/Mzk4ZWYwM2UwYWNk/M2Q2Ny5wbmc.jpg"/>
+    </item>
+    <item>
+      <title>Acquired — Costco</title>
+      <itunes:author>Acquired</itunes:author>
+      <guid isPermaLink="false">a603fc4d8dc0689a9</guid>
+      <pubDate>Sat, 02 May 2026 04:46:00 +0000</pubDate>
+      <enclosure url="https://media.transistor.fm/fcf31c71/acf1c31d.mp3" length="166544000" type="audio/mpeg"/>
+      <itunes:duration>10409</itunes:duration>
+      <itunes:image href="https://img.transistorcdn.com/jFPz1nSL8JfyAmY8ab_xqfZWEVOQ1VqoHhJKdxvzTEY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hMWI0/NTE4ZGMzNWQ2ODli/ZTExZDkwNjBmZjVl/ZmQ1OS5wbmc.jpg"/>
+    </item>
+    <item>
       <title>Andrew Santino — Rene Vaca Didn’t Expect This Kind of Attention | Whiskey Ginger</title>
       <itunes:author>Andrew Santino</itunes:author>
       <guid isPermaLink="false">ab78b6457002e835f</guid>
@@ -3591,24 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/ROOSTER3847478847.mp3?updated=1773205910" length="91920000" type="audio/mpeg"/>
       <itunes:duration>5745</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/78f1663e-1d04-11f1-96ec-c3e66cce702c/image/bd07c485f5c365081741e576df641797.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>Kill Tony — #759 - STEVE RENNAZZISI + JOE LIST</title>
-      <itunes:author>Kill Tony</itunes:author>
-      <guid isPermaLink="false">ae6f380b9c7670f72</guid>
-      <pubDate>Tue, 10 Mar 2026 01:00:00 +0000</pubDate>
-      <enclosure url="https://rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/d10615e1-06c3-4bfa-bcc3-48ba774a5ecb/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=d10615e1-06c3-4bfa-bcc3-48ba774a5ecb&amp;feed=JZSQrle9" length="97408000" type="audio/mpeg"/>
-      <itunes:duration>6088</itunes:duration>
-      <itunes:image href="https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed"/>
-    </item>
-    <item>
-      <title>My First Million — Bill Gurley: 6 Out of 10 People Are Making This Mistake</title>
-      <itunes:author>My First Million</itunes:author>
-      <guid isPermaLink="false">a4bc6c969d4cfcd36</guid>
-      <pubDate>Mon, 09 Mar 2026 15:14:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/HS8289180129.mp3?updated=1773070963" length="51200000" type="audio/mpeg"/>
-      <itunes:duration>3200</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
