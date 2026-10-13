@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Mon, 12 Oct 2026 23:58:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 03:00:19 +0000</lastBuildDate>
+    <item>
+      <title>Kill Tony — KILL TONY #789</title>
+      <itunes:author>Kill Tony</itunes:author>
+      <guid isPermaLink="false">a2790c570c4357fde</guid>
+      <pubDate>Tue, 13 Oct 2026 01:00:00 +0000</pubDate>
+      <enclosure url="https://rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/fad14165-c611-415b-be96-2b17449c4a10/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=fad14165-c611-415b-be96-2b17449c4a10&amp;feed=JZSQrle9" length="119648000" type="audio/mpeg"/>
+      <itunes:duration>7478</itunes:duration>
+      <itunes:image href="https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed"/>
+    </item>
     <item>
       <title>My First Million — 3 embarrassing moments that changed my life</title>
       <itunes:author>My First Million</itunes:author>
@@ -74,11 +83,11 @@
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M1KGEWKZNC7WRB5CY66CKQH4/square_cover_image.jpg"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — AI Safety Whistleblower: 700 AI Agents Attacked A Company To Cover Their Tracks! | Jeffrey Ladish</title>
+      <title>The Diary Of A CEO — AI Insider: "They Are Hiding What Is Really Happening" | Jeffrey Ladish</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">af751b5673d60d96f</guid>
       <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M46YN191EJ0V3NPANXPEM9WA.mp3?fcv=br559wogo0r96uz242iu7cqg" length="118784000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M46YN191EJ0V3NPANXPEM9WA.mp3?fcv=xggins1aow2e80au4tdapyb2" length="118784000" type="audio/mpeg"/>
       <itunes:duration>7424</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M46ZV9SWVQ6SS9Z9VKSY66P6/ladish-cover.jpg"/>
     </item>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/YMH4363805747.mp3?updated=1772868037" length="67600000" type="audio/mpeg"/>
       <itunes:duration>4225</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/b3187aee-8f5d-11f0-84e2-47b13244da2c/image/8831e6b56c3913f0c1a6abc2867d0bdc.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>The Diary Of A CEO — No.1 Christianity Expert: The Truth About Christianity! The Case For Jesus (Historian's Proof)</title>
-      <itunes:author>The Diary Of A CEO</itunes:author>
-      <guid isPermaLink="false">a171da40a449ba386</guid>
-      <pubDate>Mon, 09 Mar 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KK7HBK5VZG9XZTV3C18MZ419.mp3" length="141072000" type="audio/mpeg"/>
-      <itunes:duration>8817</itunes:duration>
-      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KK7HDFJPA2EHEM3T4CDJCN54/wesley_huff.jpg"/>
     </item>
   </channel>
 </rss>
