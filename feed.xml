@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Tue, 13 Oct 2026 06:01:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 11:16:08 +0000</lastBuildDate>
+    <item>
+      <title>Theo Von — #690 - Josh Brolin</title>
+      <itunes:author>Theo Von</itunes:author>
+      <guid isPermaLink="false">aa91fd46829d2be2c</guid>
+      <pubDate>Tue, 13 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/ROOSTER6499909453.mp3" length="95312000" type="audio/mpeg"/>
+      <itunes:duration>5957</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/00365dc6-c6af-11f1-a25e-43df1a1611c9/image/79f10fa876194bf59e297586531cf0ca.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
     <item>
       <title>Kill Tony — KILL TONY #789</title>
       <itunes:author>Kill Tony</itunes:author>
@@ -38,11 +47,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — UFO Cover-Up Analyst: The Secret Alien Programs Nobody Is Talking About | Eric Weinstein</title>
+      <title>The Diary Of A CEO — AI Extinction Risk Expert: If Your Job Is Repetitive, AI Will Do It Better Than You! | Eric Weinstein</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">aa12be15438b7a473</guid>
       <pubDate>Mon, 12 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M426P4R3YTEDTPVFX13Q6DPJ.mp3?fcv=ahntiya055famtnjw9r9r7io" length="108656000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M426P4R3YTEDTPVFX13Q6DPJ.mp3?fcv=f3g4kcq3khje0ewkyhksllj8" length="108656000" type="audio/mpeg"/>
       <itunes:duration>6791</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M46XMCBGFSVQYHTVXM6D8E3Y/eric_weinstein.ep_cover.jpg"/>
     </item>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/HS8289180129.mp3?updated=1773070963" length="51200000" type="audio/mpeg"/>
       <itunes:duration>3200</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>Bad Friends — The Sneaky Nakamara</title>
-      <itunes:author>Bad Friends</itunes:author>
-      <guid isPermaLink="false">aff4bff404509d225</guid>
-      <pubDate>Mon, 09 Mar 2026 08:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/YMH4363805747.mp3?updated=1772868037" length="67600000" type="audio/mpeg"/>
-      <itunes:duration>4225</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/b3187aee-8f5d-11f0-84e2-47b13244da2c/image/8831e6b56c3913f0c1a6abc2867d0bdc.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
