@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Tue, 13 Oct 2026 17:18:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 03:34:11 +0000</lastBuildDate>
+    <item>
+      <title>David Senra — #437 The Tycoons: Carnegie, Rockefeller, Gould &amp; Morgan</title>
+      <itunes:author>David Senra</itunes:author>
+      <guid isPermaLink="false">acc376fec7f7df860</guid>
+      <pubDate>Tue, 13 Oct 2026 23:30:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/DSLLC2102531802.mp3" length="52016000" type="audio/mpeg"/>
+      <itunes:duration>3251</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/0fe786f2-3d92-11f0-8fb0-e778594b8bf8/image/b3123fe637dbdfa2bd55f9fbfb386aca.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
     <item>
       <title>Theo Von — #690 - Josh Brolin</title>
       <itunes:author>Theo Von</itunes:author>
@@ -47,11 +56,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — UFO Cover-Up Analyst: The Secret Alien Programs Nobody Is Talking About | Eric Weinstein</title>
+      <title>The Diary Of A CEO — Eric Weinstein: The Secret Alien Programs Nobody Is Talking About</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">aa12be15438b7a473</guid>
       <pubDate>Mon, 12 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M426P4R3YTEDTPVFX13Q6DPJ.mp3?fcv=ahntiya055famtnjw9r9r7io" length="108656000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M426P4R3YTEDTPVFX13Q6DPJ.mp3?fcv=m5yb4vc93zkw1wjgmt0n3zvo" length="108656000" type="audio/mpeg"/>
       <itunes:duration>6791</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M46XMCBGFSVQYHTVXM6D8E3Y/eric_weinstein.ep_cover.jpg"/>
     </item>
@@ -92,11 +101,11 @@
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M1KGEWKZNC7WRB5CY66CKQH4/square_cover_image.jpg"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — AI Insider: "They Are Hiding What Is Really Happening" | Jeffrey Ladish</title>
+      <title>The Diary Of A CEO — AI Safety Whistleblower: 700 AI Agents Attacked A Company To Cover Their Tracks! | Jeffrey Ladish</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">af751b5673d60d96f</guid>
       <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M46YN191EJ0V3NPANXPEM9WA.mp3?fcv=xggins1aow2e80au4tdapyb2" length="118784000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M46YN191EJ0V3NPANXPEM9WA.mp3?fcv=br559wogo0r96uz242iu7cqg" length="118784000" type="audio/mpeg"/>
       <itunes:duration>7424</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M46ZV9SWVQ6SS9Z9VKSY66P6/ladish-cover.jpg"/>
     </item>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/LUHUC8351011893.mp3" length="40608000" type="audio/mpeg"/>
       <itunes:duration>2538</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/97efcf10-e812-11ec-83f3-c3c0c0c21250/image/largeCS_showPODCAST_COVER.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>Theo Von — #645 - Chris Robinson</title>
-      <itunes:author>Theo Von</itunes:author>
-      <guid isPermaLink="false">aaa66cf8c0b75702d</guid>
-      <pubDate>Wed, 11 Mar 2026 04:58:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/ROOSTER3847478847.mp3?updated=1773205910" length="91920000" type="audio/mpeg"/>
-      <itunes:duration>5745</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/78f1663e-1d04-11f1-96ec-c3e66cce702c/image/bd07c485f5c365081741e576df641797.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
