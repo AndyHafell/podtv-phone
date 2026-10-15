@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Thu, 15 Oct 2026 04:14:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 07:15:46 +0000</lastBuildDate>
+    <item>
+      <title>The Diary Of A CEO — Phone Addiction Scientist: Doing This Gives You An Hour Back Every Day! | Dr Sahar Yousef</title>
+      <itunes:author>The Diary Of A CEO</itunes:author>
+      <guid isPermaLink="false">a523dde69d99556a1</guid>
+      <pubDate>Thu, 15 Oct 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M4782E2HS3CAH5B71G0KB9KB.mp3" length="128512000" type="audio/mpeg"/>
+      <itunes:duration>8032</itunes:duration>
+      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M4YKT7K3R1X2QDA69FWAF32Z/doac__the_diary_of_a_ceo.jpg"/>
+    </item>
     <item>
       <title>David Senra — #437 The Tycoons: Carnegie, Rockefeller, Gould &amp; Morgan</title>
       <itunes:author>David Senra</itunes:author>
@@ -56,11 +65,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — UFO Cover-Up Analyst: The Secret Alien Programs Nobody Is Talking About | Eric Weinstein</title>
+      <title>The Diary Of A CEO — The Renegade Intellectual: The Last 80 Years Were Not Normal, And They're Over! | Eric Weinstein</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">aa12be15438b7a473</guid>
       <pubDate>Mon, 12 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M426P4R3YTEDTPVFX13Q6DPJ.mp3?fcv=ahntiya055famtnjw9r9r7io" length="108656000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M426P4R3YTEDTPVFX13Q6DPJ.mp3?fcv=w09mllti6ahx1x5tob0gz6kd" length="108656000" type="audio/mpeg"/>
       <itunes:duration>6791</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M46XMCBGFSVQYHTVXM6D8E3Y/eric_weinstein.ep_cover.jpg"/>
     </item>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/HS2834018961.mp3" length="72000000" type="audio/mpeg"/>
       <itunes:duration>4500</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>Colin and Samir — Who Is Actually Making Money in the Creator Economy?</title>
-      <itunes:author>Colin and Samir</itunes:author>
-      <guid isPermaLink="false">affd278b59ec2b554</guid>
-      <pubDate>Wed, 11 Mar 2026 10:31:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/LUHUC8351011893.mp3" length="40608000" type="audio/mpeg"/>
-      <itunes:duration>2538</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/97efcf10-e812-11ec-83f3-c3c0c0c21250/image/largeCS_showPODCAST_COVER.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
