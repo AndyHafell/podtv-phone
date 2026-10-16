@@ -9,13 +9,22 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Fri, 16 Oct 2026 04:19:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 07:21:17 +0000</lastBuildDate>
+    <item>
+      <title>The Diary Of A CEO — Most Replayed Moment: Christian vs Atheist - Is Faith A Human Creation?</title>
+      <itunes:author>The Diary Of A CEO</itunes:author>
+      <guid isPermaLink="false">a9ddfa521bd4ed436</guid>
+      <pubDate>Fri, 16 Oct 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M1P5R2DYEM65ABQ1YNEB6FXH.mp3" length="27680000" type="audio/mpeg"/>
+      <itunes:duration>1730</itunes:duration>
+      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M1P5RWF2845G8ZTEB99WYFHY/square_cover_image.jpg"/>
+    </item>
     <item>
       <title>The Diary Of A CEO — Phone Addiction Scientist: Doing This Gives You An Hour Back Every Day! | Dr Sahar Yousef</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">a523dde69d99556a1</guid>
       <pubDate>Thu, 15 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M4782E2HS3CAH5B71G0KB9KB.mp3" length="128512000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M4782E2HS3CAH5B71G0KB9KB.mp3?fcv=b2zpfp8m8qnofff1ptgfsivl" length="128512000" type="audio/mpeg"/>
       <itunes:duration>8032</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M4YKT7K3R1X2QDA69FWAF32Z/doac__the_diary_of_a_ceo.jpg"/>
     </item>
@@ -110,11 +119,11 @@
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M1KGEWKZNC7WRB5CY66CKQH4/square_cover_image.jpg"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — AI Insider: We Are Losing Control Faster Than You Think | Jeffrey Ladish</title>
+      <title>The Diary Of A CEO — AI Insider: "They Are Hiding What Is Really Happening" | Jeffrey Ladish</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">af751b5673d60d96f</guid>
       <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M46YN191EJ0V3NPANXPEM9WA.mp3?fcv=mdiikcdxs3kf9r4zdsdjt9ut" length="118784000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M46YN191EJ0V3NPANXPEM9WA.mp3?fcv=xggins1aow2e80au4tdapyb2" length="118784000" type="audio/mpeg"/>
       <itunes:duration>7424</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M46ZV9SWVQ6SS9Z9VKSY66P6/ladish-cover.jpg"/>
     </item>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://content.blubrry.com/takeituneasy/lex_ai_jeff_kaplan.mp3" length="1" type="audio/mpeg"/>
       <itunes:duration>0</itunes:duration>
       <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"/>
-    </item>
-    <item>
-      <title>My First Million — The Simplest Way To Make $1M In 2026</title>
-      <itunes:author>My First Million</itunes:author>
-      <guid isPermaLink="false">a46789f5ad750b634</guid>
-      <pubDate>Wed, 11 Mar 2026 13:50:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/HS2834018961.mp3" length="72000000" type="audio/mpeg"/>
-      <itunes:duration>4500</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
