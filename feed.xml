@@ -9,9 +9,18 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Tue, 20 Oct 2026 14:18:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 17:20:59 +0000</lastBuildDate>
     <item>
-      <title>Kill Tony — KILL TONY #790</title>
+      <title>My First Million — This 3-hour Elizabeth Holmes doc broke our brains</title>
+      <itunes:author>My First Million</itunes:author>
+      <guid isPermaLink="false">a8a7ba25bf7b44e23</guid>
+      <pubDate>Tue, 20 Oct 2026 15:16:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/HS6737818204.mp3" length="53472000" type="audio/mpeg"/>
+      <itunes:duration>3342</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
+    <item>
+      <title>Kill Tony — #790 - YUNG GRAVY + ERIK GRIFFIN</title>
       <itunes:author>Kill Tony</itunes:author>
       <guid isPermaLink="false">a8f90f22b4647cbc7</guid>
       <pubDate>Tue, 20 Oct 2026 01:00:00 +0000</pubDate>
@@ -38,11 +47,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — The Deathbed Doctor: Modern Hospitals Are Destroying Your Final Days!</title>
+      <title>The Diary Of A CEO — The Deathbed Doctor: At The End Of Your Life, Only 1 Thing Will Matter! | Dr Christopher Kerr</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">a47684dcd401ff589</guid>
       <pubDate>Mon, 19 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M52K4W4RGVJVCWCEV5Q2CWM6.mp3?fcv=vgt9qypzlr4hnvf6vyv9dvw2" length="80016000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M52K4W4RGVJVCWCEV5Q2CWM6.mp3?fcv=i7eh1dvmlvle33s2o4xaqab1" length="80016000" type="audio/mpeg"/>
       <itunes:duration>5001</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M52KAREQ79VVS3C06VKNT4MD/christopher_kerr.ep_cover.jpg"/>
     </item>
@@ -137,7 +146,7 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/00365dc6-c6af-11f1-a25e-43df1a1611c9/image/79f10fa876194bf59e297586531cf0ca.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>Kill Tony — KILL TONY #789 - TIM BUTTERLY +KIRK FOX</title>
+      <title>Kill Tony — #789 - TIM BUTTERLY +KIRK FOX</title>
       <itunes:author>Kill Tony</itunes:author>
       <guid isPermaLink="false">a2790c570c4357fde</guid>
       <pubDate>Tue, 13 Oct 2026 01:00:00 +0000</pubDate>
@@ -164,11 +173,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — UFO Cover-Up Analyst: The Secret Alien Programs Nobody Is Talking About | Eric Weinstein</title>
+      <title>The Diary Of A CEO — The Renegade Intellectual: The Last 80 Years Were Not Normal, And They're Over! | Eric Weinstein</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">aa12be15438b7a473</guid>
       <pubDate>Mon, 12 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M426P4R3YTEDTPVFX13Q6DPJ.mp3?fcv=ahntiya055famtnjw9r9r7io" length="108656000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M426P4R3YTEDTPVFX13Q6DPJ.mp3?fcv=w09mllti6ahx1x5tob0gz6kd" length="108656000" type="audio/mpeg"/>
       <itunes:duration>6791</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M46XMCBGFSVQYHTVXM6D8E3Y/eric_weinstein.ep_cover.jpg"/>
     </item>
@@ -218,11 +227,11 @@
       <itunes:image href="https://files.flightcast.com/workspaces/nb70npdrh8ux1i431tcvbz44/podcasts/zz5nwp81tktx53wb8fw6qq7j/cgn395ohauyt6r8q4kliieoi.jpg"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — AI Safety Whistleblower: 700 AI Agents Attacked A Company To Cover Their Tracks! | Jeffrey Ladish</title>
+      <title>The Diary Of A CEO — AI Insider: "They Are Hiding What Is Really Happening" | Jeffrey Ladish</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">af751b5673d60d96f</guid>
       <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M46YN191EJ0V3NPANXPEM9WA.mp3?fcv=br559wogo0r96uz242iu7cqg" length="118784000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M46YN191EJ0V3NPANXPEM9WA.mp3?fcv=xggins1aow2e80au4tdapyb2" length="118784000" type="audio/mpeg"/>
       <itunes:duration>7424</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M46ZV9SWVQ6SS9Z9VKSY66P6/ladish-cover.jpg"/>
     </item>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/HS7222291847.mp3?updated=1774638297" length="20608000" type="audio/mpeg"/>
       <itunes:duration>1288</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>Andrew Santino — Jimmy O. Yang: The 60/40 Asian Prince | Whiskey Ginger</title>
-      <itunes:author>Andrew Santino</itunes:author>
-      <guid isPermaLink="false">a3589d3abcad78844</guid>
-      <pubDate>Fri, 27 Mar 2026 11:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/BSN8587712106.mp3?updated=1774498345" length="55200000" type="audio/mpeg"/>
-      <itunes:duration>3450</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/945529ee-165e-11ec-bbee-37b2e2966d81/image/678ad903ffd2ea176830c26eaa1dcc26.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
