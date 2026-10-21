@@ -9,7 +9,7 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Wed, 21 Oct 2026 08:10:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:11:29 +0000</lastBuildDate>
     <item>
       <title>Theo Von — #691 - Johnny Hamcheck</title>
       <itunes:author>Theo Von</itunes:author>
@@ -632,6 +632,15 @@
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M2GNNQHW7HGFVQ9DB1SBK68X/doac_ai_debate_.ep_cover_png.jpg"/>
     </item>
     <item>
+      <title>Lex Fridman — #502 – Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &amp; Jung</title>
+      <itunes:author>Lex Fridman</itunes:author>
+      <guid isPermaLink="false">a44adef81f6314599</guid>
+      <pubDate>Thu, 17 Sep 2026 00:40:49 +0000</pubDate>
+      <enclosure url="https://content.blubrry.com/takeituneasy/lex_ai_andrew_scull.mp3" length="1" type="audio/mpeg"/>
+      <itunes:duration>0</itunes:duration>
+      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"/>
+    </item>
+    <item>
       <title>Theo Von — #683 - Neil deGrasse Tyson</title>
       <itunes:author>Theo Von</itunes:author>
       <guid isPermaLink="false">a1d1ed6bace33b59c</guid>
@@ -1010,6 +1019,15 @@
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M0ZKWG6EZ7GY1QTG7T6X9M41/ed_zitron.ep_cover_.jpg"/>
     </item>
     <item>
+      <title>Lex Fridman — #501 – DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding &amp; Linux</title>
+      <itunes:author>Lex Fridman</itunes:author>
+      <guid isPermaLink="false">a43f4576667cb5b98</guid>
+      <pubDate>Wed, 26 Aug 2026 21:47:04 +0000</pubDate>
+      <enclosure url="https://content.blubrry.com/takeituneasy/lex_ai_dhh_2.mp3" length="309072000" type="audio/mpeg"/>
+      <itunes:duration>19317</itunes:duration>
+      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"/>
+    </item>
+    <item>
       <title>My First Million — How a $5B founder is using AI (3 tutorials)</title>
       <itunes:author>My First Million</itunes:author>
       <guid isPermaLink="false">aa1bc50fa50b9e417</guid>
@@ -1280,6 +1298,15 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/97efcf10-e812-11ec-83f3-c3c0c0c21250/image/largeCS_showPODCAST_COVER.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
+      <title>Lex Fridman — #500 – Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor &amp; Football</title>
+      <itunes:author>Lex Fridman</itunes:author>
+      <guid isPermaLink="false">a50305418aaeb995e</guid>
+      <pubDate>Wed, 12 Aug 2026 13:11:45 +0000</pubDate>
+      <enclosure url="https://content.blubrry.com/takeituneasy/lex_ai_khabib_nurmagomedov.mp3" length="1" type="audio/mpeg"/>
+      <itunes:duration>0</itunes:duration>
+      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"/>
+    </item>
+    <item>
       <title>My First Million — 3 killer businesses hiding in plain sight</title>
       <itunes:author>My First Million</itunes:author>
       <guid isPermaLink="false">a36f172fd13505dc4</guid>
@@ -1512,6 +1539,15 @@
       <enclosure url="https://traffic.megaphone.fm/HS4744839924.mp3" length="83504000" type="audio/mpeg"/>
       <itunes:duration>5219</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
+    <item>
+      <title>Lex Fridman — #499 – Gary Gallagher: American Civil War, Slavery, Lincoln, Grant &amp; Lee</title>
+      <itunes:author>Lex Fridman</itunes:author>
+      <guid isPermaLink="false">acbc8f7a06a9eea5a</guid>
+      <pubDate>Tue, 28 Jul 2026 20:06:06 +0000</pubDate>
+      <enclosure url="https://content.blubrry.com/takeituneasy/lex_ai_gary_gallagher.mp3" length="223792000" type="audio/mpeg"/>
+      <itunes:duration>13987</itunes:duration>
+      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"/>
     </item>
     <item>
       <title>Colin and Samir — 9 Lessons From TBPN's $100M+ Exit</title>
@@ -1971,6 +2007,15 @@
       <enclosure url="https://traffic.megaphone.fm/ROOSTER6378600916.mp3" length="123696000" type="audio/mpeg"/>
       <itunes:duration>7731</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/0754c2cc-7502-11f1-8b62-d37d26a3ad37/image/38c204ec1861a16d1e9be0776c66576a.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
+    <item>
+      <title>Lex Fridman — #498 – Anthony Kaldellis: Roman Empire, Byzantine Empire, Rise &amp; Fall of Empires</title>
+      <itunes:author>Lex Fridman</itunes:author>
+      <guid isPermaLink="false">a108c66f3f7f9ef35</guid>
+      <pubDate>Tue, 30 Jun 2026 21:33:40 +0000</pubDate>
+      <enclosure url="https://content.blubrry.com/takeituneasy/lex_ai_anthony_kaldellis.mp3" length="1" type="audio/mpeg"/>
+      <itunes:duration>0</itunes:duration>
+      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"/>
     </item>
     <item>
       <title>My First Million — 3 weird businesses doing $10M, $20M, $30M</title>
@@ -2468,6 +2513,15 @@
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KT004CZJJQ72V5PK2PZE0T0G/mo_gawdat.jpg"/>
     </item>
     <item>
+      <title>Lex Fridman — #497 – Biggest Mysteries in Physics: Antimatter, Dark Energy &amp; ToE – Don Lincoln</title>
+      <itunes:author>Lex Fridman</itunes:author>
+      <guid isPermaLink="false">a42255c003d5f8ef1</guid>
+      <pubDate>Fri, 29 May 2026 16:22:02 +0000</pubDate>
+      <enclosure url="https://content.blubrry.com/takeituneasy/lex_ai_don_lincoln.mp3" length="174592000" type="audio/mpeg"/>
+      <itunes:duration>10912</itunes:duration>
+      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"/>
+    </item>
+    <item>
       <title>My First Million — The insane true story behind MTV</title>
       <itunes:author>My First Million</itunes:author>
       <guid isPermaLink="false">a95af9353b2e9d0b9</guid>
@@ -2880,6 +2934,15 @@
       <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KR007TMEK8C59M1BK18WN9YQ.mp3" length="125776000" type="audio/mpeg"/>
       <itunes:duration>7861</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KR0A1ACWHWTG3G7MK06SD1NM/professor_jiang.jpg"/>
+    </item>
+    <item>
+      <title>Lex Fridman — #496 – FFmpeg: The Incredible Technology Behind Video on the Internet</title>
+      <itunes:author>Lex Fridman</itunes:author>
+      <guid isPermaLink="false">ab81388e75d3c9121</guid>
+      <pubDate>Wed, 06 May 2026 22:06:47 +0000</pubDate>
+      <enclosure url="https://content.blubrry.com/takeituneasy/lex_ai_ffmpeg.mp3" length="253136000" type="audio/mpeg"/>
+      <itunes:duration>15821</itunes:duration>
+      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"/>
     </item>
     <item>
       <title>My First Million — Spotting Billion Dollar Investments Was Hard Until I Learned These 3 Rules | Rohan Oza</title>
@@ -3323,6 +3386,15 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/bba1da68-34ab-11f1-a29b-57e60a2c6b56/image/88cf40c4da5ce7578fe8f80a1ca080a3.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
+      <title>Lex Fridman — #495 – Vikings, Ragnar, Berserkers, Valhalla &amp; the Warriors of the Viking Age</title>
+      <itunes:author>Lex Fridman</itunes:author>
+      <guid isPermaLink="false">af89418a75d314548</guid>
+      <pubDate>Thu, 09 Apr 2026 17:43:17 +0000</pubDate>
+      <enclosure url="https://content.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3" length="124736000" type="audio/mpeg"/>
+      <itunes:duration>7796</itunes:duration>
+      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"/>
+    </item>
+    <item>
       <title>My First Million — Ex-Tesla President reveals EVERYTHING Elon does to win</title>
       <itunes:author>My First Million</itunes:author>
       <guid isPermaLink="false">a52a5dd6d2e7c23e5</guid>
@@ -3537,78 +3609,6 @@
       <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KMX2ZYSTPR18ESMAYHRHJ7F6.mp3" length="153232000" type="audio/mpeg"/>
       <itunes:duration>9577</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KMX30V08YZ7Z0KY0KGT8FBP9/rhonda_patric_2.jpg"/>
-    </item>
-    <item>
-      <title>My First Million — The Underrated Money Making Skill In 2026</title>
-      <itunes:author>My First Million</itunes:author>
-      <guid isPermaLink="false">aefd78e1fcc35be7b</guid>
-      <pubDate>Fri, 27 Mar 2026 15:46:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/HS7222291847.mp3?updated=1774638297" length="20608000" type="audio/mpeg"/>
-      <itunes:duration>1288</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>Andrew Santino — Jimmy O. Yang: The 60/40 Asian Prince | Whiskey Ginger</title>
-      <itunes:author>Andrew Santino</itunes:author>
-      <guid isPermaLink="false">a3589d3abcad78844</guid>
-      <pubDate>Fri, 27 Mar 2026 11:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/BSN8587712106.mp3?updated=1774498345" length="55200000" type="audio/mpeg"/>
-      <itunes:duration>3450</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/945529ee-165e-11ec-bbee-37b2e2966d81/image/678ad903ffd2ea176830c26eaa1dcc26.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>WVFRM Podcast — Is Flighty a Top 5 App of All Time?</title>
-      <itunes:author>WVFRM Podcast</itunes:author>
-      <guid isPermaLink="false">ac2b21b2954d7a9c3</guid>
-      <pubDate>Fri, 27 Mar 2026 08:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/VMP8354029324.mp3?updated=1774603230" length="94352000" type="audio/mpeg"/>
-      <itunes:duration>5897</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/ae6237e6-7e71-11e9-9c4d-3b02b0eab47c/image/c593abe2ba6d4d476bb3c2b6cfb3b9b9.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>The Diary Of A CEO — Most Replayed Moment: The Truth About Protein Intake and The Simplest Way To Lose Fat</title>
-      <itunes:author>The Diary Of A CEO</itunes:author>
-      <guid isPermaLink="false">a64a378a40603ea6f</guid>
-      <pubDate>Fri, 27 Mar 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KK9KHQH4TN1A9MCBEPJ8X1H8.mp3" length="27392000" type="audio/mpeg"/>
-      <itunes:duration>1712</itunes:duration>
-      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KK9KK8KKX20P5EBJY8RCND94/square_cover_image.jpg"/>
-    </item>
-    <item>
-      <title>Colin and Samir — YouTube, Meta and the case of the Infinite Scroll</title>
-      <itunes:author>Colin and Samir</itunes:author>
-      <guid isPermaLink="false">a05abdcf92593e9aa</guid>
-      <pubDate>Thu, 26 Mar 2026 12:55:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/LUHUC2849826611.mp3?updated=1774530137" length="27344000" type="audio/mpeg"/>
-      <itunes:duration>1709</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/97efcf10-e812-11ec-83f3-c3c0c0c21250/image/largeCS_showPODCAST_COVER.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>The Game with Alex Hormozi — $100M Offers Audiobook Part 2</title>
-      <itunes:author>The Game with Alex Hormozi</itunes:author>
-      <guid isPermaLink="false">a3c981fe8b6cda249</guid>
-      <pubDate>Thu, 26 Mar 2026 09:00:00 +0000</pubDate>
-      <enclosure url="https://episode.flightcast.com/r5vyz73xgj5tu4u2jxjly7e5.mp3" length="52176000" type="audio/mpeg"/>
-      <itunes:duration>3261</itunes:duration>
-      <itunes:image href="https://files.flightcast.com/v3-imports/images/zz5nwp81tktx53wb8fw6qq7j/e06npz3r1gvg7fhumcb504dm-cover.jpg"/>
-    </item>
-    <item>
-      <title>The Game with Alex Hormozi — $100M Offers Audiobook part 7</title>
-      <itunes:author>The Game with Alex Hormozi</itunes:author>
-      <guid isPermaLink="false">ab457d3a665775bcb</guid>
-      <pubDate>Thu, 26 Mar 2026 09:00:00 +0000</pubDate>
-      <enclosure url="https://episode.flightcast.com/zexj8j1bq1zqbkfhvvbel8sn.mp3" length="24384000" type="audio/mpeg"/>
-      <itunes:duration>1524</itunes:duration>
-      <itunes:image href="https://files.flightcast.com/v3-imports/images/zz5nwp81tktx53wb8fw6qq7j/aypbd2cbceopadxe32c01dul-cover.jpg"/>
-    </item>
-    <item>
-      <title>The Game with Alex Hormozi — $100M Offers Audiobook Part 4</title>
-      <itunes:author>The Game with Alex Hormozi</itunes:author>
-      <guid isPermaLink="false">a112a29ed6d059144</guid>
-      <pubDate>Thu, 26 Mar 2026 09:00:00 +0000</pubDate>
-      <enclosure url="https://episode.flightcast.com/q8k6chf3xhottcwiohq8dq3c.mp3" length="33552000" type="audio/mpeg"/>
-      <itunes:duration>2097</itunes:duration>
-      <itunes:image href="https://files.flightcast.com/v3-imports/images/zz5nwp81tktx53wb8fw6qq7j/cjv6s2d0m5mf9eh9fcs7am7l-cover.jpg"/>
     </item>
   </channel>
 </rss>
