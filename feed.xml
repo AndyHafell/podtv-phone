@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Thu, 22 Oct 2026 08:21:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:21:57 +0000</lastBuildDate>
+    <item>
+      <title>The Game with Alex Hormozi — 8 Entrepreneurs Compete for $100,000</title>
+      <itunes:author>The Game with Alex Hormozi</itunes:author>
+      <guid isPermaLink="false">ad62167c339140e78</guid>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 +0000</pubDate>
+      <enclosure url="https://episode.flightcast.com/01M5GEQJ72N9Z51B5XEE0Z3DZC.mp3" length="47360000" type="audio/mpeg"/>
+      <itunes:duration>2960</itunes:duration>
+      <itunes:image href="https://files.flightcast.com/workspaces/nb70npdrh8ux1i431tcvbz44/podcasts/zz5nwp81tktx53wb8fw6qq7j/cgn395ohauyt6r8q4kliieoi.jpg"/>
+    </item>
     <item>
       <title>The Diary Of A CEO — President Zelenskyy: Peace Is A Huge Compromise, The Horrific Atrocities Of Russian War Crimes!</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
@@ -137,11 +146,11 @@
       <itunes:image href="https://files.flightcast.com/workspaces/nb70npdrh8ux1i431tcvbz44/podcasts/zz5nwp81tktx53wb8fw6qq7j/cgn395ohauyt6r8q4kliieoi.jpg"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — The Attention Span Doctor: Stop Doing This At Work, It Costs You 2 Hours A Day! | Dr Sahar Yousef</title>
+      <title>The Diary Of A CEO — Phone Addiction Scientist: Doing This Gives You An Hour Back Every Day! | Dr Sahar Yousef</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">a523dde69d99556a1</guid>
       <pubDate>Thu, 15 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M4782E2HS3CAH5B71G0KB9KB.mp3?fcv=afvr6bkaqkstt5ag5dip6ukq" length="128512000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M4782E2HS3CAH5B71G0KB9KB.mp3?fcv=b2zpfp8m8qnofff1ptgfsivl" length="128512000" type="audio/mpeg"/>
       <itunes:duration>8032</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M4YKT7K3R1X2QDA69FWAF32Z/doac__the_diary_of_a_ceo.jpg"/>
     </item>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/HS9499668173.mp3?updated=1774877030" length="52272000" type="audio/mpeg"/>
       <itunes:duration>3267</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>Bad Friends — Bobby’s Dog Died on Fancy’s B Day</title>
-      <itunes:author>Bad Friends</itunes:author>
-      <guid isPermaLink="false">a5510ef2ab96a75bf</guid>
-      <pubDate>Mon, 30 Mar 2026 08:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/YMH3921425922.mp3?updated=1774633772" length="66928000" type="audio/mpeg"/>
-      <itunes:duration>4183</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
