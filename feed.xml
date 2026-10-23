@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Fri, 23 Oct 2026 06:40:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 09:41:25 +0000</lastBuildDate>
+    <item>
+      <title>WVFRM Podcast — Introducing Telsa Roadster... Again</title>
+      <itunes:author>WVFRM Podcast</itunes:author>
+      <guid isPermaLink="false">af4ce71ef04994eca</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/VMP2654785369.mp3" length="116688000" type="audio/mpeg"/>
+      <itunes:duration>7293</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/ae6237e6-7e71-11e9-9c4d-3b02b0eab47c/image/c593abe2ba6d4d476bb3c2b6cfb3b9b9.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
     <item>
       <title>The Diary Of A CEO — Most Replayed Moment: How AI Companies Are Gaslighting You - Karen Hao</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://episode.flightcast.com/kn2h75cixud65ghgwhoufkrm.mp3" length="19200000" type="audio/mpeg"/>
       <itunes:duration>1200</itunes:duration>
       <itunes:image href="https://files.flightcast.com/v3-imports/images/zz5nwp81tktx53wb8fw6qq7j/upbzzbv67k545cus5tas790i-cover.jpg"/>
-    </item>
-    <item>
-      <title>Kill Tony — #762 - ARI SHAFFIR + KEVIN RYAN + H. FOLEY</title>
-      <itunes:author>Kill Tony</itunes:author>
-      <guid isPermaLink="false">a8f34519545ed853c</guid>
-      <pubDate>Tue, 31 Mar 2026 01:00:00 +0000</pubDate>
-      <enclosure url="https://rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/251a93c4-954b-4978-afbc-b63cbd55fdbc/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=251a93c4-954b-4978-afbc-b63cbd55fdbc&amp;feed=JZSQrle9" length="127776000" type="audio/mpeg"/>
-      <itunes:duration>7986</itunes:duration>
-      <itunes:image href="https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed"/>
     </item>
   </channel>
 </rss>
