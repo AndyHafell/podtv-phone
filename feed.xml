@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Thu, 22 Oct 2026 20:24:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:40:10 +0000</lastBuildDate>
+    <item>
+      <title>The Diary Of A CEO — Most Replayed Moment: How AI Companies Are Gaslighting You - Karen Hao</title>
+      <itunes:author>The Diary Of A CEO</itunes:author>
+      <guid isPermaLink="false">af3862e387f936e54</guid>
+      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M1PECBRTP7YPXSHDZJAM5XAC.mp3" length="23168000" type="audio/mpeg"/>
+      <itunes:duration>1448</itunes:duration>
+      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M1PEF1M5HE2FX78QVY3VYYG8/square_cover_image.jpg"/>
+    </item>
     <item>
       <title>The Game with Alex Hormozi — 8 Entrepreneurs Compete for $100,000</title>
       <itunes:author>The Game with Alex Hormozi</itunes:author>
@@ -74,11 +83,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — The Deathbed Doctor: Weeks Before Death, Patients Start Having Visions! | Dr Christopher Kerr</title>
+      <title>The Diary Of A CEO — The Deathbed Doctor: At The End Of Your Life, Only 1 Thing Will Matter! | Dr Christopher Kerr</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">a47684dcd401ff589</guid>
       <pubDate>Mon, 19 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M52K4W4RGVJVCWCEV5Q2CWM6.mp3?fcv=o68tq8bi92k7i2svjzc7h1ff" length="80016000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M52K4W4RGVJVCWCEV5Q2CWM6.mp3?fcv=i7eh1dvmlvle33s2o4xaqab1" length="80016000" type="audio/mpeg"/>
       <itunes:duration>5001</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M52KAREQ79VVS3C06VKNT4MD/christopher_kerr.ep_cover.jpg"/>
     </item>
@@ -146,11 +155,11 @@
       <itunes:image href="https://files.flightcast.com/workspaces/nb70npdrh8ux1i431tcvbz44/podcasts/zz5nwp81tktx53wb8fw6qq7j/cgn395ohauyt6r8q4kliieoi.jpg"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — The Attention Span Doctor: Stop Doing This At Work, It Costs You 2 Hours A Day! | Dr Sahar Yousef</title>
+      <title>The Diary Of A CEO — The Phone Addiction Expert: Your Feed Works Exactly Like A Slot Machine! | Dr Sahar Yousef</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">a523dde69d99556a1</guid>
       <pubDate>Thu, 15 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M4782E2HS3CAH5B71G0KB9KB.mp3?fcv=afvr6bkaqkstt5ag5dip6ukq" length="128512000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M4782E2HS3CAH5B71G0KB9KB.mp3?fcv=cnade21n2v50kmcwxbeqjjrb" length="128512000" type="audio/mpeg"/>
       <itunes:duration>8032</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M4YKT7K3R1X2QDA69FWAF32Z/doac__the_diary_of_a_ceo.jpg"/>
     </item>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/251a93c4-954b-4978-afbc-b63cbd55fdbc/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=251a93c4-954b-4978-afbc-b63cbd55fdbc&amp;feed=JZSQrle9" length="127776000" type="audio/mpeg"/>
       <itunes:duration>7986</itunes:duration>
       <itunes:image href="https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed"/>
-    </item>
-    <item>
-      <title>My First Million — Oz Pearlman: How To "Read" Minds, Influence Anyone, and Never Fear Rejection</title>
-      <itunes:author>My First Million</itunes:author>
-      <guid isPermaLink="false">a6d0ed67ed9f72aa1</guid>
-      <pubDate>Mon, 30 Mar 2026 13:04:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/HS9499668173.mp3?updated=1774877030" length="52272000" type="audio/mpeg"/>
-      <itunes:duration>3267</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
