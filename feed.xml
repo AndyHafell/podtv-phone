@@ -9,9 +9,27 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Fri, 23 Oct 2026 09:41:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 13:42:22 +0000</lastBuildDate>
     <item>
-      <title>WVFRM Podcast — Introducing Telsa Roadster... Again</title>
+      <title>Andrew Santino — Kevin Ryan &amp; H. Foley Are American Garbage | Whiskey Ginger</title>
+      <itunes:author>Andrew Santino</itunes:author>
+      <guid isPermaLink="false">a44f2b9eb6b8af8d2</guid>
+      <pubDate>Fri, 23 Oct 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/BSN6925039427.mp3" length="82272000" type="audio/mpeg"/>
+      <itunes:duration>5142</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/945529ee-165e-11ec-bbee-37b2e2966d81/image/678ad903ffd2ea176830c26eaa1dcc26.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
+    <item>
+      <title>My First Million — We spent 8 hours finding the best stuff on X. Here it is.</title>
+      <itunes:author>My First Million</itunes:author>
+      <guid isPermaLink="false">a72a3556706d958bb</guid>
+      <pubDate>Fri, 23 Oct 2026 10:55:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/HS8901995160.mp3" length="48928000" type="audio/mpeg"/>
+      <itunes:duration>3058</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
+    <item>
+      <title>WVFRM Podcast — Introducing Tesla Roadster... Again</title>
       <itunes:author>WVFRM Podcast</itunes:author>
       <guid isPermaLink="false">af4ce71ef04994eca</guid>
       <pubDate>Fri, 23 Oct 2026 08:00:00 +0000</pubDate>
@@ -164,11 +182,11 @@
       <itunes:image href="https://files.flightcast.com/workspaces/nb70npdrh8ux1i431tcvbz44/podcasts/zz5nwp81tktx53wb8fw6qq7j/cgn395ohauyt6r8q4kliieoi.jpg"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — The Phone Addiction Expert: Your Feed Works Exactly Like A Slot Machine! | Dr Sahar Yousef</title>
+      <title>The Diary Of A CEO — The Attention Span Doctor: Stop Doing This At Work, It Costs You 2 Hours A Day! | Dr Sahar Yousef</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">a523dde69d99556a1</guid>
       <pubDate>Thu, 15 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M4782E2HS3CAH5B71G0KB9KB.mp3?fcv=cnade21n2v50kmcwxbeqjjrb" length="128512000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M4782E2HS3CAH5B71G0KB9KB.mp3?fcv=afvr6bkaqkstt5ag5dip6ukq" length="128512000" type="audio/mpeg"/>
       <itunes:duration>8032</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M4YKT7K3R1X2QDA69FWAF32Z/doac__the_diary_of_a_ceo.jpg"/>
     </item>
@@ -218,11 +236,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — UFO Cover-Up Analyst: The Secret Alien Programs Nobody Is Talking About | Eric Weinstein</title>
+      <title>The Diary Of A CEO — The Renegade Intellectual: The Last 80 Years Were Not Normal, And They're Over! | Eric Weinstein</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">aa12be15438b7a473</guid>
       <pubDate>Mon, 12 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M426P4R3YTEDTPVFX13Q6DPJ.mp3?fcv=ahntiya055famtnjw9r9r7io" length="108656000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M426P4R3YTEDTPVFX13Q6DPJ.mp3?fcv=w09mllti6ahx1x5tob0gz6kd" length="108656000" type="audio/mpeg"/>
       <itunes:duration>6791</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M46XMCBGFSVQYHTVXM6D8E3Y/eric_weinstein.ep_cover.jpg"/>
     </item>
@@ -3591,24 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/DSLLC3316654449.mp3?updated=1775009143" length="52704000" type="audio/mpeg"/>
       <itunes:duration>3294</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/0fe786f2-3d92-11f0-8fb0-e778594b8bf8/image/b3123fe637dbdfa2bd55f9fbfb386aca.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>Theo Von — #649 - Nate Diaz &amp; Chris Avila</title>
-      <itunes:author>Theo Von</itunes:author>
-      <guid isPermaLink="false">ab7e813cc23e34ec5</guid>
-      <pubDate>Tue, 31 Mar 2026 13:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/ROOSTER3597232449.mp3?updated=1774943232" length="102304000" type="audio/mpeg"/>
-      <itunes:duration>6394</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/82562a92-2cd2-11f1-ab3f-2f8e6fc2d797/image/62ae8a3fe7bf955f6f3e63208cbd47c8.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>The Game with Alex Hormozi — How To Sell Services To The Ultra Wealthy | Ep 957</title>
-      <itunes:author>The Game with Alex Hormozi</itunes:author>
-      <guid isPermaLink="false">a28a8bb3b2637f5db</guid>
-      <pubDate>Tue, 31 Mar 2026 09:00:00 +0000</pubDate>
-      <enclosure url="https://episode.flightcast.com/kn2h75cixud65ghgwhoufkrm.mp3" length="19200000" type="audio/mpeg"/>
-      <itunes:duration>1200</itunes:duration>
-      <itunes:image href="https://files.flightcast.com/v3-imports/images/zz5nwp81tktx53wb8fw6qq7j/upbzzbv67k545cus5tas790i-cover.jpg"/>
     </item>
   </channel>
 </rss>
