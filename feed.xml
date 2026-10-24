@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Fri, 23 Oct 2026 23:37:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 03:26:57 +0000</lastBuildDate>
+    <item>
+      <title>Kill Tony — KT: Behind the Tape (Ep: 790 Yung Gravy + Erik Griffin)</title>
+      <itunes:author>Kill Tony</itunes:author>
+      <guid isPermaLink="false">a0d535d0d21a29cf8</guid>
+      <pubDate>Sat, 24 Oct 2026 01:00:00 +0000</pubDate>
+      <enclosure url="https://rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/ea059e66-da1b-4bc3-900e-1dce367e504f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=ea059e66-da1b-4bc3-900e-1dce367e504f&amp;feed=JZSQrle9" length="52672000" type="audio/mpeg"/>
+      <itunes:duration>3292</itunes:duration>
+      <itunes:image href="https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed"/>
+    </item>
     <item>
       <title>Andrew Santino — Kevin Ryan &amp; H. Foley Are American Garbage | Whiskey Ginger</title>
       <itunes:author>Andrew Santino</itunes:author>
@@ -182,11 +191,11 @@
       <itunes:image href="https://files.flightcast.com/workspaces/nb70npdrh8ux1i431tcvbz44/podcasts/zz5nwp81tktx53wb8fw6qq7j/cgn395ohauyt6r8q4kliieoi.jpg"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — Phone Addiction Scientist: Doing This Gives You An Hour Back Every Day! | Dr Sahar Yousef</title>
+      <title>The Diary Of A CEO — The Attention Span Doctor: Stop Doing This At Work, It Costs You 2 Hours A Day! | Dr Sahar Yousef</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">a523dde69d99556a1</guid>
       <pubDate>Thu, 15 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M4782E2HS3CAH5B71G0KB9KB.mp3?fcv=b2zpfp8m8qnofff1ptgfsivl" length="128512000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M4782E2HS3CAH5B71G0KB9KB.mp3?fcv=afvr6bkaqkstt5ag5dip6ukq" length="128512000" type="audio/mpeg"/>
       <itunes:duration>8032</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M4YKT7K3R1X2QDA69FWAF32Z/doac__the_diary_of_a_ceo.jpg"/>
     </item>
@@ -236,11 +245,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — The Renegade Intellectual: The Last 80 Years Were Not Normal, And They're Over! | Eric Weinstein</title>
+      <title>The Diary Of A CEO — UFO Cover-Up Analyst: The Secret Alien Programs Nobody Is Talking About | Eric Weinstein</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">aa12be15438b7a473</guid>
       <pubDate>Mon, 12 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M426P4R3YTEDTPVFX13Q6DPJ.mp3?fcv=w09mllti6ahx1x5tob0gz6kd" length="108656000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M426P4R3YTEDTPVFX13Q6DPJ.mp3?fcv=ahntiya055famtnjw9r9r7io" length="108656000" type="audio/mpeg"/>
       <itunes:duration>6791</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M46XMCBGFSVQYHTVXM6D8E3Y/eric_weinstein.ep_cover.jpg"/>
     </item>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/LUHUC1584032394.mp3" length="41744000" type="audio/mpeg"/>
       <itunes:duration>2609</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/97efcf10-e812-11ec-83f3-c3c0c0c21250/image/largeCS_showPODCAST_COVER.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>David Senra — #416 The Relentless Missionary Creating AGI: Demis Hassabis</title>
-      <itunes:author>David Senra</itunes:author>
-      <guid isPermaLink="false">ab65be674ea708790</guid>
-      <pubDate>Wed, 01 Apr 2026 01:50:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/DSLLC3316654449.mp3?updated=1775009143" length="52704000" type="audio/mpeg"/>
-      <itunes:duration>3294</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/0fe786f2-3d92-11f0-8fb0-e778594b8bf8/image/b3123fe637dbdfa2bd55f9fbfb386aca.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
