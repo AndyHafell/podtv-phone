@@ -9,7 +9,25 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Mon, 26 Oct 2026 08:04:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 11:05:35 +0000</lastBuildDate>
+    <item>
+      <title>My First Million — How to find your arbitrage (from the guy who’s done it 3x) ft. Nick Kokonas</title>
+      <itunes:author>My First Million</itunes:author>
+      <guid isPermaLink="false">ad1f19e882a909e61</guid>
+      <pubDate>Mon, 26 Oct 2026 10:48:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/HS5698376491.mp3" length="122368000" type="audio/mpeg"/>
+      <itunes:duration>7648</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
+    <item>
+      <title>David Senra — #438 James Garfield's Extraordinary Rise</title>
+      <itunes:author>David Senra</itunes:author>
+      <guid isPermaLink="false">a6149a4be27ef4e4f</guid>
+      <pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/DSLLC9614527488.mp3" length="36608000" type="audio/mpeg"/>
+      <itunes:duration>2288</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/0fe786f2-3d92-11f0-8fb0-e778594b8bf8/image/b3123fe637dbdfa2bd55f9fbfb386aca.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
     <item>
       <title>Bad Friends — Smoke Signal Breakup w/ Sam Morril</title>
       <itunes:author>Bad Friends</itunes:author>
@@ -137,11 +155,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — The Deathbed Doctor: Modern Hospitals Are Destroying Your Final Days!</title>
+      <title>The Diary Of A CEO — The Deathbed Doctor: Weeks Before Death, Patients Start Having Visions! | Dr Christopher Kerr</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">a47684dcd401ff589</guid>
       <pubDate>Mon, 19 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M52K4W4RGVJVCWCEV5Q2CWM6.mp3?fcv=vgt9qypzlr4hnvf6vyv9dvw2" length="80016000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M52K4W4RGVJVCWCEV5Q2CWM6.mp3?fcv=o68tq8bi92k7i2svjzc7h1ff" length="80016000" type="audio/mpeg"/>
       <itunes:duration>5001</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M52KAREQ79VVS3C06VKNT4MD/christopher_kerr.ep_cover.jpg"/>
     </item>
@@ -3591,24 +3609,6 @@
       <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KMZQ0MK1VBZS929EZRNA79QE.mp3" length="23168000" type="audio/mpeg"/>
       <itunes:duration>1448</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KMZQGD43Q93CSECE0W5KCNHY/square_cover_image.jpg"/>
-    </item>
-    <item>
-      <title>The Game with Alex Hormozi — How to Grow Your Brand In 2026 | Ep 958</title>
-      <itunes:author>The Game with Alex Hormozi</itunes:author>
-      <guid isPermaLink="false">af7881e1446f01f01</guid>
-      <pubDate>Thu, 02 Apr 2026 09:00:00 +0000</pubDate>
-      <enclosure url="https://episode.flightcast.com/wzavkzt50pahyyw0bsk8ruan.mp3" length="36896000" type="audio/mpeg"/>
-      <itunes:duration>2306</itunes:duration>
-      <itunes:image href="https://files.flightcast.com/v3-imports/images/zz5nwp81tktx53wb8fw6qq7j/afpl0povde6ihq82eu073p30-cover.jpg"/>
-    </item>
-    <item>
-      <title>The Diary Of A CEO — Pierre Poilievre, The Next Prime Minister of Canada?: The Economy Is About To Collapse!</title>
-      <itunes:author>The Diary Of A CEO</itunes:author>
-      <guid isPermaLink="false">aa7f260eb9871bcc0</guid>
-      <pubDate>Thu, 02 Apr 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KN553DYEJGT08NXJW0XG0RR0.mp3" length="111040000" type="audio/mpeg"/>
-      <itunes:duration>6940</itunes:duration>
-      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KN5542AT9V2BYWHPQSX2P98B/pierre_poilievre.jpg"/>
     </item>
   </channel>
 </rss>
