@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Mon, 26 Oct 2026 14:06:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 17:07:27 +0000</lastBuildDate>
+    <item>
+      <title>Colin and Samir — Why Instagram Changed Its Mind on Long Form Video</title>
+      <itunes:author>Colin and Samir</itunes:author>
+      <guid isPermaLink="false">a72c707ada8227727</guid>
+      <pubDate>Mon, 26 Oct 2026 15:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/LUHUC4374390424.mp3" length="69488000" type="audio/mpeg"/>
+      <itunes:duration>4343</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/97efcf10-e812-11ec-83f3-c3c0c0c21250/image/largeCS_showPODCAST_COVER.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
     <item>
       <title>My First Million — How to find your arbitrage (from the guy who’s done it 3x) ft. Nick Kokonas</title>
       <itunes:author>My First Million</itunes:author>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/VMP8261476628.mp3?updated=1775207473" length="102864000" type="audio/mpeg"/>
       <itunes:duration>6429</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/ae6237e6-7e71-11e9-9c4d-3b02b0eab47c/image/c593abe2ba6d4d476bb3c2b6cfb3b9b9.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>The Diary Of A CEO — Most Replayed Moment: Mouthwash REVERSES The Benefits Of Exercise! Dr Nathan Bryan</title>
-      <itunes:author>The Diary Of A CEO</itunes:author>
-      <guid isPermaLink="false">aa9fa7e14023668e7</guid>
-      <pubDate>Fri, 03 Apr 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KMZQ0MK1VBZS929EZRNA79QE.mp3" length="23168000" type="audio/mpeg"/>
-      <itunes:duration>1448</itunes:duration>
-      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KMZQGD43Q93CSECE0W5KCNHY/square_cover_image.jpg"/>
     </item>
   </channel>
 </rss>
