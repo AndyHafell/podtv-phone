@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Mon, 26 Oct 2026 05:03:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 08:04:40 +0000</lastBuildDate>
+    <item>
+      <title>Bad Friends — Smoke Signal Breakup w/ Sam Morril</title>
+      <itunes:author>Bad Friends</itunes:author>
+      <guid isPermaLink="false">acc48d3b41d9ed0d1</guid>
+      <pubDate>Mon, 26 Oct 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/BSN3023581428.mp3" length="85680000" type="audio/mpeg"/>
+      <itunes:duration>5355</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
     <item>
       <title>The Diary Of A CEO — Mark Cuban: The Next Market Crash Is Where The Real Money Is Made!</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KN553DYEJGT08NXJW0XG0RR0.mp3" length="111040000" type="audio/mpeg"/>
       <itunes:duration>6940</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KN5542AT9V2BYWHPQSX2P98B/pierre_poilievre.jpg"/>
-    </item>
-    <item>
-      <title>My First Million — The Side Hustle King: "Make $20K+/month without money, luck, or experience"</title>
-      <itunes:author>My First Million</itunes:author>
-      <guid isPermaLink="false">ae91d380966197b6e</guid>
-      <pubDate>Wed, 01 Apr 2026 13:15:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/HS9013902858.mp3?updated=1775056597" length="53328000" type="audio/mpeg"/>
-      <itunes:duration>3333</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
