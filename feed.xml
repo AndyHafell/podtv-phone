@@ -9,7 +9,25 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Mon, 26 Oct 2026 20:08:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 01:37:24 +0000</lastBuildDate>
+    <item>
+      <title>Kill Tony — #791 - JIM NORTON + ANTHONY CUMIA</title>
+      <itunes:author>Kill Tony</itunes:author>
+      <guid isPermaLink="false">a832204649cf6373e</guid>
+      <pubDate>Tue, 27 Oct 2026 01:00:00 +0000</pubDate>
+      <enclosure url="https://rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/f22505d5-5d69-4f6c-b6ef-11a82d0939ed/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=f22505d5-5d69-4f6c-b6ef-11a82d0939ed&amp;feed=JZSQrle9" length="117088000" type="audio/mpeg"/>
+      <itunes:duration>7318</itunes:duration>
+      <itunes:image href="https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed"/>
+    </item>
+    <item>
+      <title>Lex Fridman — #503 – AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &amp; Complexity Theory</title>
+      <itunes:author>Lex Fridman</itunes:author>
+      <guid isPermaLink="false">a7e64cbf26cef805b</guid>
+      <pubDate>Mon, 26 Oct 2026 22:52:28 +0000</pubDate>
+      <enclosure url="https://content.blubrry.com/takeituneasy/lex_ai_math_ai_crisis.mp3" length="213760000" type="audio/mpeg"/>
+      <itunes:duration>13360</itunes:duration>
+      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"/>
+    </item>
     <item>
       <title>Colin and Samir — Why Instagram Changed Its Mind on Long Form Video</title>
       <itunes:author>Colin and Samir</itunes:author>
@@ -164,11 +182,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — The Deathbed Doctor: Modern Hospitals Are Destroying Your Final Days!</title>
+      <title>The Diary Of A CEO — The Deathbed Doctor: At The End Of Your Life, Only 1 Thing Will Matter! | Dr Christopher Kerr</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">a47684dcd401ff589</guid>
       <pubDate>Mon, 19 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M52K4W4RGVJVCWCEV5Q2CWM6.mp3?fcv=vgt9qypzlr4hnvf6vyv9dvw2" length="80016000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M52K4W4RGVJVCWCEV5Q2CWM6.mp3?fcv=i7eh1dvmlvle33s2o4xaqab1" length="80016000" type="audio/mpeg"/>
       <itunes:duration>5001</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M52KAREQ79VVS3C06VKNT4MD/christopher_kerr.ep_cover.jpg"/>
     </item>
@@ -746,7 +764,7 @@
       <pubDate>Thu, 17 Sep 2026 00:40:49 +0000</pubDate>
       <enclosure url="https://content.blubrry.com/takeituneasy/lex_ai_andrew_scull.mp3" length="214896000" type="audio/mpeg"/>
       <itunes:duration>13431</itunes:duration>
-      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"/>
+      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"/>
     </item>
     <item>
       <title>Theo Von — #683 - Neil deGrasse Tyson</title>
@@ -1133,7 +1151,7 @@
       <pubDate>Wed, 26 Aug 2026 21:47:04 +0000</pubDate>
       <enclosure url="https://content.blubrry.com/takeituneasy/lex_ai_dhh_2.mp3" length="309072000" type="audio/mpeg"/>
       <itunes:duration>19317</itunes:duration>
-      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"/>
+      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"/>
     </item>
     <item>
       <title>My First Million — How a $5B founder is using AI (3 tutorials)</title>
@@ -1412,7 +1430,7 @@
       <pubDate>Wed, 12 Aug 2026 13:11:45 +0000</pubDate>
       <enclosure url="https://content.blubrry.com/takeituneasy/lex_ai_khabib_nurmagomedov.mp3" length="191888000" type="audio/mpeg"/>
       <itunes:duration>11993</itunes:duration>
-      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"/>
+      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"/>
     </item>
     <item>
       <title>My First Million — 3 killer businesses hiding in plain sight</title>
@@ -1655,7 +1673,7 @@
       <pubDate>Tue, 28 Jul 2026 20:06:06 +0000</pubDate>
       <enclosure url="https://content.blubrry.com/takeituneasy/lex_ai_gary_gallagher.mp3" length="223792000" type="audio/mpeg"/>
       <itunes:duration>13987</itunes:duration>
-      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"/>
+      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"/>
     </item>
     <item>
       <title>Colin and Samir — 9 Lessons From TBPN's $100M+ Exit</title>
@@ -2123,7 +2141,7 @@
       <pubDate>Tue, 30 Jun 2026 21:33:40 +0000</pubDate>
       <enclosure url="https://content.blubrry.com/takeituneasy/lex_ai_anthony_kaldellis.mp3" length="229216000" type="audio/mpeg"/>
       <itunes:duration>14326</itunes:duration>
-      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"/>
+      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"/>
     </item>
     <item>
       <title>My First Million — 3 weird businesses doing $10M, $20M, $30M</title>
@@ -2627,7 +2645,7 @@
       <pubDate>Fri, 29 May 2026 16:22:02 +0000</pubDate>
       <enclosure url="https://content.blubrry.com/takeituneasy/lex_ai_don_lincoln.mp3" length="174592000" type="audio/mpeg"/>
       <itunes:duration>10912</itunes:duration>
-      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"/>
+      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"/>
     </item>
     <item>
       <title>My First Million — The insane true story behind MTV</title>
@@ -3050,7 +3068,7 @@
       <pubDate>Wed, 06 May 2026 22:06:47 +0000</pubDate>
       <enclosure url="https://content.blubrry.com/takeituneasy/lex_ai_ffmpeg.mp3" length="253136000" type="audio/mpeg"/>
       <itunes:duration>15821</itunes:duration>
-      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"/>
+      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"/>
     </item>
     <item>
       <title>My First Million — Spotting Billion Dollar Investments Was Hard Until I Learned These 3 Rules | Rohan Oza</title>
@@ -3500,7 +3518,7 @@
       <pubDate>Thu, 09 Apr 2026 17:43:17 +0000</pubDate>
       <enclosure url="https://content.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3" length="124736000" type="audio/mpeg"/>
       <itunes:duration>7796</itunes:duration>
-      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"/>
+      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"/>
     </item>
     <item>
       <title>My First Million — Ex-Tesla President reveals EVERYTHING Elon does to win</title>
@@ -3591,24 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/ROOSTER6452778915.mp3?updated=1775365462" length="122976000" type="audio/mpeg"/>
       <itunes:duration>7686</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/14cb3f5a-30a9-11f1-9381-dfd1ebae0202/image/f4508c2f7de9d43a263485e291288897.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>Andrew Santino — Timmy No Brakes Doesn’t Stop… Ever | Whiskey Ginger</title>
-      <itunes:author>Andrew Santino</itunes:author>
-      <guid isPermaLink="false">a45b67674b8f860fb</guid>
-      <pubDate>Fri, 03 Apr 2026 11:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/BSN3194807747.mp3?updated=1775165028" length="60624000" type="audio/mpeg"/>
-      <itunes:duration>3789</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/945529ee-165e-11ec-bbee-37b2e2966d81/image/678ad903ffd2ea176830c26eaa1dcc26.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>WVFRM Podcast — MKBHD's Top 5 Apps of All Time!</title>
-      <itunes:author>WVFRM Podcast</itunes:author>
-      <guid isPermaLink="false">a76769149ab520c0e</guid>
-      <pubDate>Fri, 03 Apr 2026 08:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/VMP8261476628.mp3?updated=1775207473" length="102864000" type="audio/mpeg"/>
-      <itunes:duration>6429</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/ae6237e6-7e71-11e9-9c4d-3b02b0eab47c/image/c593abe2ba6d4d476bb3c2b6cfb3b9b9.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
