@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Wed, 28 Oct 2026 09:08:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 12:09:22 +0000</lastBuildDate>
+    <item>
+      <title>My First Million — Ex-Amazon VP tells us what it’s really like working with Jeff Bezos</title>
+      <itunes:author>My First Million</itunes:author>
+      <guid isPermaLink="false">a3bbf2bee618ff4dc</guid>
+      <pubDate>Wed, 28 Oct 2026 11:01:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/HS2413289438.mp3" length="72576000" type="audio/mpeg"/>
+      <itunes:duration>4536</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
     <item>
       <title>Kill Tony — #791 - JIM NORTON + ANTHONY CUMIA</title>
       <itunes:author>Kill Tony</itunes:author>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KNF6VSZK2M0QF4F6VFMK7TDG.mp3" length="89856000" type="audio/mpeg"/>
       <itunes:duration>5616</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KNFAPNF500S4H7EKC74ZD8C1/steve_keen.jpg"/>
-    </item>
-    <item>
-      <title>Theo Von — #650 - Jake Paul</title>
-      <itunes:author>Theo Von</itunes:author>
-      <guid isPermaLink="false">a880901ccce79be29</guid>
-      <pubDate>Sun, 05 Apr 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/ROOSTER6452778915.mp3?updated=1775365462" length="122976000" type="audio/mpeg"/>
-      <itunes:duration>7686</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/14cb3f5a-30a9-11f1-9381-dfd1ebae0202/image/f4508c2f7de9d43a263485e291288897.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
