@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Thu, 29 Oct 2026 05:37:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 08:38:16 +0000</lastBuildDate>
+    <item>
+      <title>The Diary Of A CEO — Dr. Sarah Paine: Why The World Is Turning Away From America</title>
+      <itunes:author>The Diary Of A CEO</itunes:author>
+      <guid isPermaLink="false">aa6d78653a6dcba45</guid>
+      <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M5NXR742DT1QNDCDPS193Q51.mp3" length="97904000" type="audio/mpeg"/>
+      <itunes:duration>6119</itunes:duration>
+      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M5NZ8FAPCJ2RFPDH202RH6XM/paine_cover.jpg"/>
+    </item>
     <item>
       <title>Theo Von — #692 - Sophie Cunningham</title>
       <itunes:author>Theo Von</itunes:author>
@@ -83,11 +92,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — Mark Cuban: AI Could Bankrupt Us Into A Deep Debt Bubble!</title>
+      <title>The Diary Of A CEO — Mark Cuban: This Is Bigger Than The Internet, But People Keep The Edge!</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">a5a34c5d84467e9d1</guid>
       <pubDate>Mon, 26 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M53ASGWHBBHQJ0C8NDDD61AR.mp3?fcv=zsi5rsone1ud7jfgzx5jidki" length="87808000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M53ASGWHBBHQJ0C8NDDD61AR.mp3?fcv=fl5ame4f35nmiczas52i8yh2" length="87808000" type="audio/mpeg"/>
       <itunes:duration>5488</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M5E4XFMYB58HRTVR7QVS20AJ/mark_cuban.ep_cover.jpg"/>
     </item>
@@ -200,11 +209,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — The Deathbed Doctor: Weeks Before Death, Patients Start Having Visions! | Dr Christopher Kerr</title>
+      <title>The Diary Of A CEO — The Deathbed Doctor: Modern Hospitals Are Destroying Your Final Days!</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">a47684dcd401ff589</guid>
       <pubDate>Mon, 19 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M52K4W4RGVJVCWCEV5Q2CWM6.mp3?fcv=o68tq8bi92k7i2svjzc7h1ff" length="80016000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M52K4W4RGVJVCWCEV5Q2CWM6.mp3?fcv=vgt9qypzlr4hnvf6vyv9dvw2" length="80016000" type="audio/mpeg"/>
       <itunes:duration>5001</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M52KAREQ79VVS3C06VKNT4MD/christopher_kerr.ep_cover.jpg"/>
     </item>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/0f6b0e9c-a46c-407d-9572-56e5d8a9d835/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=0f6b0e9c-a46c-407d-9572-56e5d8a9d835&amp;feed=JZSQrle9" length="126400000" type="audio/mpeg"/>
       <itunes:duration>7900</itunes:duration>
       <itunes:image href="https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed"/>
-    </item>
-    <item>
-      <title>Bad Friends — The Slow Clap</title>
-      <itunes:author>Bad Friends</itunes:author>
-      <guid isPermaLink="false">a380195c72b339987</guid>
-      <pubDate>Mon, 06 Apr 2026 08:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/YMH2568391790.mp3" length="73424000" type="audio/mpeg"/>
-      <itunes:duration>4589</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
