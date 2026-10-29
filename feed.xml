@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Wed, 28 Oct 2026 19:25:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 01:32:46 +0000</lastBuildDate>
+    <item>
+      <title>Theo Von — #692 - Sophie Cunningham</title>
+      <itunes:author>Theo Von</itunes:author>
+      <guid isPermaLink="false">ace986b88d927ae44</guid>
+      <pubDate>Wed, 28 Oct 2026 22:49:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/ROOSTER4120272428.mp3" length="93744000" type="audio/mpeg"/>
+      <itunes:duration>5859</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/a0ed9062-d321-11f1-b76e-47dda82b7662/image/35773765f573d8f711e3324e9cc4c3a7.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
     <item>
       <title>My First Million — Ex-Amazon VP tells us what it’s really like working with Jeff Bezos</title>
       <itunes:author>My First Million</itunes:author>
@@ -74,11 +83,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — Mark Cuban: This Is Bigger Than The Internet, But People Keep The Edge!</title>
+      <title>The Diary Of A CEO — Mark Cuban: AI Could Bankrupt Us Into A Deep Debt Bubble!</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">a5a34c5d84467e9d1</guid>
       <pubDate>Mon, 26 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M53ASGWHBBHQJ0C8NDDD61AR.mp3?fcv=fl5ame4f35nmiczas52i8yh2" length="87808000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M53ASGWHBBHQJ0C8NDDD61AR.mp3?fcv=zsi5rsone1ud7jfgzx5jidki" length="87808000" type="audio/mpeg"/>
       <itunes:duration>5488</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M5E4XFMYB58HRTVR7QVS20AJ/mark_cuban.ep_cover.jpg"/>
     </item>
@@ -191,11 +200,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — The Deathbed Doctor: Modern Hospitals Are Destroying Your Final Days!</title>
+      <title>The Diary Of A CEO — The Deathbed Doctor: Weeks Before Death, Patients Start Having Visions! | Dr Christopher Kerr</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">a47684dcd401ff589</guid>
       <pubDate>Mon, 19 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M52K4W4RGVJVCWCEV5Q2CWM6.mp3?fcv=vgt9qypzlr4hnvf6vyv9dvw2" length="80016000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M52K4W4RGVJVCWCEV5Q2CWM6.mp3?fcv=o68tq8bi92k7i2svjzc7h1ff" length="80016000" type="audio/mpeg"/>
       <itunes:duration>5001</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M52KAREQ79VVS3C06VKNT4MD/christopher_kerr.ep_cover.jpg"/>
     </item>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/YMH2568391790.mp3" length="73424000" type="audio/mpeg"/>
       <itunes:duration>4589</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>The Diary Of A CEO — Financial Crash Expert: In 3 months We’ll Enter A Famine! If Iran Doesn’t Surrender It's The End!</title>
-      <itunes:author>The Diary Of A CEO</itunes:author>
-      <guid isPermaLink="false">a3173868f299a62fa</guid>
-      <pubDate>Mon, 06 Apr 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KNF6VSZK2M0QF4F6VFMK7TDG.mp3" length="89856000" type="audio/mpeg"/>
-      <itunes:duration>5616</itunes:duration>
-      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KNFAPNF500S4H7EKC74ZD8C1/steve_keen.jpg"/>
     </item>
   </channel>
 </rss>
