@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Fri, 30 Oct 2026 10:56:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 13:57:02 +0000</lastBuildDate>
+    <item>
+      <title>Andrew Santino — Sam Tallent on Comedy, Writing &amp; His New Book Brut | Whiskey Ginger</title>
+      <itunes:author>Andrew Santino</itunes:author>
+      <guid isPermaLink="false">acfddbc4b37c9edff</guid>
+      <pubDate>Fri, 30 Oct 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/BSN8740606632.mp3" length="86864000" type="audio/mpeg"/>
+      <itunes:duration>5429</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/945529ee-165e-11ec-bbee-37b2e2966d81/image/678ad903ffd2ea176830c26eaa1dcc26.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
     <item>
       <title>WVFRM Podcast — Is The "PROLED" Macbook Any Good?</title>
       <itunes:author>WVFRM Podcast</itunes:author>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KNQ1ND4MZMV6YZ0R8NGMREAX.mp3" length="92144000" type="audio/mpeg"/>
       <itunes:duration>5759</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KNQ3H7MWT14TV9M1960MHG8Q/ivanka_trump.jpg"/>
-    </item>
-    <item>
-      <title>My First Million — We asked a $18.9B Investor how to survive the AI bubble</title>
-      <itunes:author>My First Million</itunes:author>
-      <guid isPermaLink="false">a75434387d63109a3</guid>
-      <pubDate>Tue, 07 Apr 2026 12:45:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/HS5510640992.mp3?updated=1775589869" length="63088000" type="audio/mpeg"/>
-      <itunes:duration>3943</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
