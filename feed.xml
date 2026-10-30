@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Fri, 30 Oct 2026 07:55:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 10:56:10 +0000</lastBuildDate>
+    <item>
+      <title>WVFRM Podcast — Is The "PROLED" Macbook Any Good?</title>
+      <itunes:author>WVFRM Podcast</itunes:author>
+      <guid isPermaLink="false">a00b2ef9fbde1ffd6</guid>
+      <pubDate>Fri, 30 Oct 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/VMP2057113421.mp3" length="117200000" type="audio/mpeg"/>
+      <itunes:duration>7325</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/ae6237e6-7e71-11e9-9c4d-3b02b0eab47c/image/c593abe2ba6d4d476bb3c2b6cfb3b9b9.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
     <item>
       <title>The Diary Of A CEO — Most Replayed Moment: Why You Need A Prenup And How To Avoid Divorce!</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/HS5510640992.mp3?updated=1775589869" length="63088000" type="audio/mpeg"/>
       <itunes:duration>3943</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>Theo Von — #651 - Ella Langley</title>
-      <itunes:author>Theo Von</itunes:author>
-      <guid isPermaLink="false">af4e38e8e74aa18ff</guid>
-      <pubDate>Tue, 07 Apr 2026 09:35:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/ROOSTER1981655745.mp3?updated=1775555465" length="107104000" type="audio/mpeg"/>
-      <itunes:duration>6694</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/58db311c-3263-11f1-9c85-6f53b2c8b115/image/ba53fbd96a91b2c1e2d2f245215c770e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
