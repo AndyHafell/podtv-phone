@@ -9,7 +9,7 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Sat, 31 Oct 2026 04:35:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 09:25:43 +0000</lastBuildDate>
     <item>
       <title>Kill Tony — KT: Behind the Tape (Ep: 791 Jim Norton + Anthony Cumia)</title>
       <itunes:author>Kill Tony</itunes:author>
@@ -137,11 +137,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — Mark Cuban: The Next Market Crash Is Where The Real Money Is Made!</title>
+      <title>The Diary Of A CEO — Mark Cuban: This Is Bigger Than The Internet, But People Keep The Edge!</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">a5a34c5d84467e9d1</guid>
       <pubDate>Mon, 26 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M53ASGWHBBHQJ0C8NDDD61AR.mp3?fcv=x38yu3skuqzj979eu5q9kvvv" length="87808000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M53ASGWHBBHQJ0C8NDDD61AR.mp3?fcv=fl5ame4f35nmiczas52i8yh2" length="87808000" type="audio/mpeg"/>
       <itunes:duration>5488</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M5E4XFMYB58HRTVR7QVS20AJ/mark_cuban.ep_cover.jpg"/>
     </item>
@@ -254,11 +254,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — The Deathbed Doctor: At The End Of Your Life, Only 1 Thing Will Matter! | Dr Christopher Kerr</title>
+      <title>The Diary Of A CEO — The Deathbed Doctor: Modern Hospitals Are Destroying Your Final Days!</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">a47684dcd401ff589</guid>
       <pubDate>Mon, 19 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M52K4W4RGVJVCWCEV5Q2CWM6.mp3?fcv=i7eh1dvmlvle33s2o4xaqab1" length="80016000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M52K4W4RGVJVCWCEV5Q2CWM6.mp3?fcv=vgt9qypzlr4hnvf6vyv9dvw2" length="80016000" type="audio/mpeg"/>
       <itunes:duration>5001</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M52KAREQ79VVS3C06VKNT4MD/christopher_kerr.ep_cover.jpg"/>
     </item>
