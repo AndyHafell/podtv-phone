@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Sat, 31 Oct 2026 00:04:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 04:35:58 +0000</lastBuildDate>
+    <item>
+      <title>Kill Tony — KT: Behind the Tape (Ep: 791 Jim Norton + Anthony Cumia)</title>
+      <itunes:author>Kill Tony</itunes:author>
+      <guid isPermaLink="false">a5aec1fc32f34dacc</guid>
+      <pubDate>Sat, 31 Oct 2026 01:00:00 +0000</pubDate>
+      <enclosure url="https://rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/3811b3fc-ab6e-4528-81a1-3dd816aec1e8/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=3811b3fc-ab6e-4528-81a1-3dd816aec1e8&amp;feed=JZSQrle9" length="59872000" type="audio/mpeg"/>
+      <itunes:duration>3742</itunes:duration>
+      <itunes:image href="https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed"/>
+    </item>
     <item>
       <title>Andrew Santino — Sam Tallent on Comedy, Writing &amp; His New Book Brut | Whiskey Ginger</title>
       <itunes:author>Andrew Santino</itunes:author>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://episode.flightcast.com/dblqirbaqfh2zht2jyyptjvz.mp3" length="23136000" type="audio/mpeg"/>
       <itunes:duration>1446</itunes:duration>
       <itunes:image href="https://files.flightcast.com/v3-imports/images/zz5nwp81tktx53wb8fw6qq7j/ypdjr5gcgh0fuqu3pp67qsjb-cover.jpg"/>
-    </item>
-    <item>
-      <title>The Diary Of A CEO — Ivanka Trump: My Dad Told Me Two Weeks Before He Ran For President!</title>
-      <itunes:author>The Diary Of A CEO</itunes:author>
-      <guid isPermaLink="false">ad38c53fd841e55e3</guid>
-      <pubDate>Thu, 09 Apr 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KNQ1ND4MZMV6YZ0R8NGMREAX.mp3" length="92144000" type="audio/mpeg"/>
-      <itunes:duration>5759</itunes:duration>
-      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KNQ3H7MWT14TV9M1960MHG8Q/ivanka_trump.jpg"/>
     </item>
   </channel>
 </rss>
