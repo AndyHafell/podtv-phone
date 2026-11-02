@@ -9,7 +9,25 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Mon, 02 Nov 2026 07:39:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 10:40:45 +0000</lastBuildDate>
+    <item>
+      <title>My First Million — $100M hedge fund manager: Do not make the mistake of dying rich</title>
+      <itunes:author>My First Million</itunes:author>
+      <guid isPermaLink="false">ad0bf97edabc15bf0</guid>
+      <pubDate>Mon, 02 Nov 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/HS1021774702.mp3" length="79680000" type="audio/mpeg"/>
+      <itunes:duration>4980</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
+    <item>
+      <title>Bad Friends — Chinese Girlfriend w/ Dane Cook</title>
+      <itunes:author>Bad Friends</itunes:author>
+      <guid isPermaLink="false">aedea2e7de85bc53b</guid>
+      <pubDate>Mon, 02 Nov 2026 09:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/YMH7685467841.mp3" length="81488000" type="audio/mpeg"/>
+      <itunes:duration>5093</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
     <item>
       <title>The Diary Of A CEO — James Talarico: America's Corrupt System Is Designed To Keep You Poor! | Texas Senate Candidate</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
@@ -146,11 +164,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — Mark Cuban: This Is Bigger Than The Internet, But People Keep The Edge!</title>
+      <title>The Diary Of A CEO — Mark Cuban: The Next Market Crash Is Where The Real Money Is Made!</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">a5a34c5d84467e9d1</guid>
       <pubDate>Mon, 26 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M53ASGWHBBHQJ0C8NDDD61AR.mp3?fcv=fl5ame4f35nmiczas52i8yh2" length="87808000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M53ASGWHBBHQJ0C8NDDD61AR.mp3?fcv=x38yu3skuqzj979eu5q9kvvv" length="87808000" type="audio/mpeg"/>
       <itunes:duration>5488</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M5E4XFMYB58HRTVR7QVS20AJ/mark_cuban.ep_cover.jpg"/>
     </item>
@@ -3591,24 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/ROOSTER9101158372.mp3" length="100880000" type="audio/mpeg"/>
       <itunes:duration>6305</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/bba1da68-34ab-11f1-a29b-57e60a2c6b56/image/88cf40c4da5ce7578fe8f80a1ca080a3.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>Lex Fridman — #495 – Vikings, Ragnar, Berserkers, Valhalla &amp; the Warriors of the Viking Age</title>
-      <itunes:author>Lex Fridman</itunes:author>
-      <guid isPermaLink="false">af89418a75d314548</guid>
-      <pubDate>Thu, 09 Apr 2026 17:43:17 +0000</pubDate>
-      <enclosure url="https://content.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3" length="124736000" type="audio/mpeg"/>
-      <itunes:duration>7796</itunes:duration>
-      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"/>
-    </item>
-    <item>
-      <title>My First Million — Ex-Tesla President reveals EVERYTHING Elon does to win</title>
-      <itunes:author>My First Million</itunes:author>
-      <guid isPermaLink="false">a52a5dd6d2e7c23e5</guid>
-      <pubDate>Thu, 09 Apr 2026 14:38:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/HS7594232303.mp3?updated=1775743025" length="62016000" type="audio/mpeg"/>
-      <itunes:duration>3876</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
