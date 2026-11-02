@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Mon, 02 Nov 2026 04:38:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 07:39:41 +0000</lastBuildDate>
+    <item>
+      <title>The Diary Of A CEO — James Talarico: America's Corrupt System Is Designed To Keep You Poor! | Texas Senate Candidate</title>
+      <itunes:author>The Diary Of A CEO</itunes:author>
+      <guid isPermaLink="false">a0c0aa0475e53d2b5</guid>
+      <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M5XRNCEJK9HGGCQQ268PCK6T.mp3?fcv=mbdda9f42whhbiydts3ywvi3" length="92848000" type="audio/mpeg"/>
+      <itunes:duration>5803</itunes:duration>
+      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M5XRW6T7PVKS77K14KPQPZ60/james_talarico_ep_cover.jpg"/>
+    </item>
     <item>
       <title>Kill Tony — KT: Behind the Tape (Ep: 791 Jim Norton + Anthony Cumia)</title>
       <itunes:author>Kill Tony</itunes:author>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/HS7594232303.mp3?updated=1775743025" length="62016000" type="audio/mpeg"/>
       <itunes:duration>3876</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>The Game with Alex Hormozi — One Step Away From Collapse (Here’s How We Fixed It) | Ep 960</title>
-      <itunes:author>The Game with Alex Hormozi</itunes:author>
-      <guid isPermaLink="false">a7a68c3e62b778c95</guid>
-      <pubDate>Thu, 09 Apr 2026 09:00:00 +0000</pubDate>
-      <enclosure url="https://episode.flightcast.com/dblqirbaqfh2zht2jyyptjvz.mp3" length="23136000" type="audio/mpeg"/>
-      <itunes:duration>1446</itunes:duration>
-      <itunes:image href="https://files.flightcast.com/v3-imports/images/zz5nwp81tktx53wb8fw6qq7j/ypdjr5gcgh0fuqu3pp67qsjb-cover.jpg"/>
     </item>
   </channel>
 </rss>
