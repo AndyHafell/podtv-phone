@@ -9,7 +9,7 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Thu, 05 Nov 2026 18:30:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 02:50:20 +0000</lastBuildDate>
     <item>
       <title>The Game with Alex Hormozi — I Offered $10,000 to Anyone Who Could Change My Mind | Ep 1013</title>
       <itunes:author>The Game with Alex Hormozi</itunes:author>
@@ -92,11 +92,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — James Talarico: 3 Men Now Own More Wealth Than The Entire Middle Class!</title>
+      <title>The Diary Of A CEO — James Talarico: Is America's Political System Designed To Keep You Poor?</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">a0c0aa0475e53d2b5</guid>
       <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M5XRNCEJK9HGGCQQ268PCK6T.mp3?fcv=fe6812xlwe0gf7wx07py63hm" length="92848000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M5XRNCEJK9HGGCQQ268PCK6T.mp3?fcv=jindz4flazbmrh99rx86cdfo" length="92848000" type="audio/mpeg"/>
       <itunes:duration>5803</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M5XRW6T7PVKS77K14KPQPZ60/james_talarico_ep_cover.jpg"/>
     </item>
@@ -191,15 +191,6 @@
       <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"/>
     </item>
     <item>
-      <title>Colin and Samir — Why Instagram Changed Its Mind on Long Form Video</title>
-      <itunes:author>Colin and Samir</itunes:author>
-      <guid isPermaLink="false">a72c707ada8227727</guid>
-      <pubDate>Mon, 26 Oct 2026 15:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/LUHUC4374390424.mp3" length="69488000" type="audio/mpeg"/>
-      <itunes:duration>4343</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/97efcf10-e812-11ec-83f3-c3c0c0c21250/image/largeCS_showPODCAST_COVER.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
       <title>My First Million — How to find your arbitrage (from the guy who’s done it 3x) ft. Nick Kokonas</title>
       <itunes:author>My First Million</itunes:author>
       <guid isPermaLink="false">ad1f19e882a909e61</guid>
@@ -227,11 +218,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — Mark Cuban: AI Could Bankrupt Us Into A Deep Debt Bubble!</title>
+      <title>The Diary Of A CEO — Mark Cuban: This Is Bigger Than The Internet, But People Keep The Edge!</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">a5a34c5d84467e9d1</guid>
       <pubDate>Mon, 26 Oct 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M53ASGWHBBHQJ0C8NDDD61AR.mp3?fcv=zsi5rsone1ud7jfgzx5jidki" length="87808000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M53ASGWHBBHQJ0C8NDDD61AR.mp3?fcv=fl5ame4f35nmiczas52i8yh2" length="87808000" type="audio/mpeg"/>
       <itunes:duration>5488</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M5E4XFMYB58HRTVR7QVS20AJ/mark_cuban.ep_cover.jpg"/>
     </item>
@@ -351,15 +342,6 @@
       <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M52K4W4RGVJVCWCEV5Q2CWM6.mp3" length="80016000" type="audio/mpeg"/>
       <itunes:duration>5001</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M52KAREQ79VVS3C06VKNT4MD/christopher_kerr.ep_cover.jpg"/>
-    </item>
-    <item>
-      <title>Acquired — Seinfeld</title>
-      <itunes:author>Acquired</itunes:author>
-      <guid isPermaLink="false">adccc69b18036101e</guid>
-      <pubDate>Mon, 19 Oct 2026 04:00:46 +0000</pubDate>
-      <enclosure url="https://media.transistor.fm/96a5f313/515377c5.mp3" length="221120000" type="audio/mpeg"/>
-      <itunes:duration>13820</itunes:duration>
-      <itunes:image href="https://img.transistorcdn.com/UeflZq2BnWJL1OgSrOEoiAs2XTQAn_T8KemShoFGQ3Y/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zYTMw/MDFhMjlmMmNhZTNl/ZDMxNWVhNzJlNzZh/NjRiNC5qcGc.jpg"/>
     </item>
     <item>
       <title>Kill Tony — KT: Behind the Tape (Ep: 789 Tim Butterly + Kirk Fox)</title>
@@ -893,15 +875,6 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/ae6237e6-7e71-11e9-9c4d-3b02b0eab47c/image/c593abe2ba6d4d476bb3c2b6cfb3b9b9.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>Colin and Samir — Why Most Celebrity YouTube Channels Fail (And The Ones That Don't)</title>
-      <itunes:author>Colin and Samir</itunes:author>
-      <guid isPermaLink="false">a4703955cce6f54d7</guid>
-      <pubDate>Fri, 18 Sep 2026 00:45:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/LUHUC9893835619.mp3" length="75792000" type="audio/mpeg"/>
-      <itunes:duration>4737</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/97efcf10-e812-11ec-83f3-c3c0c0c21250/image/largeCS_showPODCAST_COVER.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
       <title>The Game with Alex Hormozi — How I'd Turn One Event Into $2.5 Million | Ep 1000</title>
       <itunes:author>The Game with Alex Hormozi</itunes:author>
       <guid isPermaLink="false">aea936e4086c5119b</guid>
@@ -911,11 +884,11 @@
       <itunes:image href="https://files.flightcast.com/workspaces/nb70npdrh8ux1i431tcvbz44/podcasts/zz5nwp81tktx53wb8fw6qq7j/cgn395ohauyt6r8q4kliieoi.jpg"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — The Great AI Debate: Is Artificial Intelligence an Extinction Threat?</title>
+      <title>The Diary Of A CEO — Are We Racing Toward Human Extinction? The AI Scientists Who Say We Must Stop Now</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">af60fee1268355db3</guid>
       <pubDate>Thu, 17 Sep 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M2GNJS32R11MFGEF3FZ4MFGV.mp3?fcv=xed8a6lrkyzwga1wwi4fxc3m" length="140752000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M2GNJS32R11MFGEF3FZ4MFGV.mp3?fcv=iu1uju0qzv491y15gtpeee8n" length="140752000" type="audio/mpeg"/>
       <itunes:duration>8797</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M2GNNQHW7HGFVQ9DB1SBK68X/doac_ai_debate_.ep_cover_png.jpg"/>
     </item>
@@ -992,15 +965,6 @@
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M243YQQND6M3RBJDJ0RCB6A4/professor_jiang.ep_cover_.jpg"/>
     </item>
     <item>
-      <title>Acquired — The Home Depot</title>
-      <itunes:author>Acquired</itunes:author>
-      <guid isPermaLink="false">aa72fbcae52658fda</guid>
-      <pubDate>Mon, 14 Sep 2026 03:35:03 +0000</pubDate>
-      <enclosure url="https://media.transistor.fm/8ecb4ed4/568b6b7a.mp3" length="206432000" type="audio/mpeg"/>
-      <itunes:duration>12902</itunes:duration>
-      <itunes:image href="https://img.transistorcdn.com/DpYRwLVYbt09NDhOfdtKg4KNCH0yCkhX7PeHyOBbH14/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81MDNm/MDk2YTNmOTBkNmFk/MzJkZmYzZTQ4OWMz/MjdhOS5qcGc.jpg"/>
-    </item>
-    <item>
       <title>Kill Tony — KT: Behind the Tape (Ep: 784 Yakov Smirnoff + Ari Matti)</title>
       <itunes:author>Kill Tony</itunes:author>
       <guid isPermaLink="false">adbcca0ef5cecd8a8</guid>
@@ -1064,15 +1028,6 @@
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M23VGBG8BY5D6GNQHSYRKY17/vanessa_van_edwards.ep_cover.jpg"/>
     </item>
     <item>
-      <title>Colin and Samir — 11 Marketing Rules every Creator needs to know: Kate Tolo</title>
-      <itunes:author>Colin and Samir</itunes:author>
-      <guid isPermaLink="false">af7f85cab8aa44449</guid>
-      <pubDate>Wed, 09 Sep 2026 16:17:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/LUHUC9769003190.mp3" length="50944000" type="audio/mpeg"/>
-      <itunes:duration>3184</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/8a3983e0-abcf-11f1-a30e-0fca2ed0f94a/image/cdb171d62699b8939aa2ecd7468b3d92.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
       <title>My First Million — Decoding Tony Hawk’s mindset in 72 minutes</title>
       <itunes:author>My First Million</itunes:author>
       <guid isPermaLink="false">a935b8b29682a769e</guid>
@@ -1118,11 +1073,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — Can You Spot A Psychopath In 5 Seconds? The Science Of Dark Personalities</title>
+      <title>The Diary Of A CEO — Lie Detection Expert Dr Leanne ten Brinke: The #1 Sign Someone Is Lying</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">a2009d98742ff2aa6</guid>
       <pubDate>Mon, 07 Sep 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M1M9A59AFBGJG3WGBMW30A0F.mp3?fcv=dc89qgla6sf8y1wjhzs2jzb3" length="100208000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M1M9A59AFBGJG3WGBMW30A0F.mp3?fcv=nx8gt6w9p4epwkrlavx39gmn" length="100208000" type="audio/mpeg"/>
       <itunes:duration>6263</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M1MDRVF7E0W5KTZ8AXEJ51G6/leanne_ten_brinke.ep_cover.jpg"/>
     </item>
@@ -1170,15 +1125,6 @@
       <enclosure url="https://traffic.megaphone.fm/VMP2709205952.mp3" length="98816000" type="audio/mpeg"/>
       <itunes:duration>6176</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/ae6237e6-7e71-11e9-9c4d-3b02b0eab47c/image/c593abe2ba6d4d476bb3c2b6cfb3b9b9.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>Colin and Samir — Inside YouTube's New View Count, Monetization Rules, and Netflix Fight</title>
-      <itunes:author>Colin and Samir</itunes:author>
-      <guid isPermaLink="false">a4e9fcb6f88a9a239</guid>
-      <pubDate>Thu, 03 Sep 2026 20:01:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/LUHUC9030884360.mp3" length="27856000" type="audio/mpeg"/>
-      <itunes:duration>1741</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/97efcf10-e812-11ec-83f3-c3c0c0c21250/image/largeCS_showPODCAST_COVER.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
       <title>The Diary Of A CEO — Andrew Huberman: The Real Reason You Can't Get Deep Sleep &amp; Wake Up Exhausted</title>
@@ -1235,11 +1181,11 @@
       <itunes:image href="https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — Will AI Really Take Your Job? The Truth About Work, Wealth &amp; What Happens Next</title>
+      <title>The Diary Of A CEO — David Friedberg: US Decline and Why Socialism Is Coming Next</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">afd111ebee7f88804</guid>
       <pubDate>Mon, 31 Aug 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECWWKZXFC843G5B93ZSYPH.mp3?fcv=nf6i28htwxsqp0r6ozz6xg35" length="119360000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECWWKZXFC843G5B93ZSYPH.mp3?fcv=rrja8ixoq5ovbzlvojlyebzm" length="119360000" type="audio/mpeg"/>
       <itunes:duration>7460</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M0ECY4JWW16H35KYFSQH2MB2/david_friedberg.ep_cpver_png.jpg"/>
     </item>
@@ -1298,11 +1244,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/02afc47a-a247-11f1-9ebf-ab411a102f28/image/debeb26141cb1175d0cd42f926c723da.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — AI Critic Ed Zitron: Why AI Is the World's Greatest Scam</title>
+      <title>The Diary Of A CEO — Why Are We Being Lied To About AI's True Capabilities?</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">ab59a417dcc3e22df</guid>
       <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ZJXTQSK5PF6BG3869W6YJE.mp3?fcv=v25su2p3vlj9vxj3ip84nvzt" length="141424000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ZJXTQSK5PF6BG3869W6YJE.mp3?fcv=njuyec9iy1x44lnfqzo4d781" length="141424000" type="audio/mpeg"/>
       <itunes:duration>8839</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M0ZKWG6EZ7GY1QTG7T6X9M41/ed_zitron.ep_cover_.jpg"/>
     </item>
@@ -1451,15 +1397,6 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>Colin and Samir — The New Rules of YouTube (2027)</title>
-      <itunes:author>Colin and Samir</itunes:author>
-      <guid isPermaLink="false">a45280d02b24d4436</guid>
-      <pubDate>Wed, 19 Aug 2026 10:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/LUHUC2215917126.mp3" length="63520000" type="audio/mpeg"/>
-      <itunes:duration>3970</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/5d1cf912-9b6e-11f1-a254-73b0ac4d5ea6/image/53370a5b113686c5a76964010701acbf.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
       <title>WVFRM Podcast — Total Solar Eclipse Explained: Live!</title>
       <itunes:author>WVFRM Podcast</itunes:author>
       <guid isPermaLink="false">a9e06c0354f0e3758</guid>
@@ -1496,11 +1433,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — Are We Living In A Simulation? The Physics That Proves We Might Be</title>
+      <title>The Diary Of A CEO — Prof Brian Greene: Why God and Heaven Are Human Inventions</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">af74bfd0b3e59fc1f</guid>
       <pubDate>Mon, 17 Aug 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M011QCMPBSF2QR5A3W08K1JF.mp3?fcv=ctxsdirze5kdcrvz3xv5o76z" length="125968000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M011QCMPBSF2QR5A3W08K1JF.mp3?fcv=wce9y1d2wpn3igq9vpv1dih9" length="125968000" type="audio/mpeg"/>
       <itunes:duration>7873</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M011R5VYG7JN30ZAZSGX7CZK/professor_brian_greene.ep_cover.jpg"/>
     </item>
@@ -1568,22 +1505,13 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/1a1c7660-9759-11f1-8897-e7d5e54438ca/image/46e0c557a81ad6f03ddce404e29e6348.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — Dr Andy Galpin: Why Weight Loss Is Easy but People Still Don't Do It</title>
+      <title>The Diary Of A CEO — Are You Sleeping Wrong? The Hidden Disorder Affecting 70% Of People | Dr Andy Galpin</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">ac540e7e3bd6b436b</guid>
       <pubDate>Thu, 13 Aug 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KZERQ8T6SQ7V8928XZ3VC6MR.mp3?fcv=edf08sszfp9agn5ezlesj07w" length="126544000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KZERQ8T6SQ7V8928XZ3VC6MR.mp3?fcv=cyf81umequvg6asu4dwxrya1" length="126544000" type="audio/mpeg"/>
       <itunes:duration>7909</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KZERZG78S0VXENYYFSX7XJSJ/andy_galpin_ep_cover.jpg"/>
-    </item>
-    <item>
-      <title>Colin and Samir — The Viral Russian MrBeast TikTok &amp; The True Value of Views</title>
-      <itunes:author>Colin and Samir</itunes:author>
-      <guid isPermaLink="false">a5d5988c2b04d11df</guid>
-      <pubDate>Wed, 12 Aug 2026 19:54:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/LUHUC3644304743.mp3" length="27392000" type="audio/mpeg"/>
-      <itunes:duration>1712</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/97efcf10-e812-11ec-83f3-c3c0c0c21250/image/largeCS_showPODCAST_COVER.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
       <title>Lex Fridman — #500 – Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor &amp; Football</title>
@@ -1638,15 +1566,6 @@
       <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KZEMW7JETYCD3GX1WXDACSYJ.mp3" length="108064000" type="audio/mpeg"/>
       <itunes:duration>6754</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KZF4FGJ77DZQ6XMJJ47FWA8B/seth_godin.ep_cover.jpg"/>
-    </item>
-    <item>
-      <title>Acquired — Disney: The Renaissance and the Empire</title>
-      <itunes:author>Acquired</itunes:author>
-      <guid isPermaLink="false">a4dc17c51608b43db</guid>
-      <pubDate>Mon, 10 Aug 2026 04:41:43 +0000</pubDate>
-      <enclosure url="https://media.transistor.fm/4bcdc326/22e5d62f.mp3" length="262016000" type="audio/mpeg"/>
-      <itunes:duration>16376</itunes:duration>
-      <itunes:image href="https://img.transistorcdn.com/GwI1v26-YH_dXUXm6cxbMAU8_kLZ0TucnptVEAbOElY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80ZmU3/ZGE4MTQ3NjAzZGZj/MWU5YzVjYzViNTAw/OTIwYS5qcGc.jpg"/>
     </item>
     <item>
       <title>David Senra — #428 How Claude Shannon Worked</title>
@@ -1710,15 +1629,6 @@
       <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KYMQ6P4DN77N54H367JRPMH3.mp3" length="95680000" type="audio/mpeg"/>
       <itunes:duration>5980</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KYMQNKKARS91JBYGNEFJZ8CT/michael_saylor_.ep_cover.jpg"/>
-    </item>
-    <item>
-      <title>Colin and Samir — The Cancellation of Hank Green &amp; Why Gen Z Hates Ai</title>
-      <itunes:author>Colin and Samir</itunes:author>
-      <guid isPermaLink="false">a4ea1b033f3b16a2f</guid>
-      <pubDate>Thu, 06 Aug 2026 04:42:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/LUHUC3625521574.mp3" length="51056000" type="audio/mpeg"/>
-      <itunes:duration>3191</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/97efcf10-e812-11ec-83f3-c3c0c0c21250/image/largeCS_showPODCAST_COVER.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
       <title>Theo Von — #673 - Jshock</title>
@@ -1838,15 +1748,6 @@
       <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"/>
     </item>
     <item>
-      <title>Colin and Samir — 9 Lessons From TBPN's $100M+ Exit</title>
-      <itunes:author>Colin and Samir</itunes:author>
-      <guid isPermaLink="false">aba4618c0c728719e</guid>
-      <pubDate>Tue, 28 Jul 2026 10:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/LUHUC7164167217.mp3" length="32768000" type="audio/mpeg"/>
-      <itunes:duration>2048</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/b6a9054e-8a06-11f1-8a8a-a3e445d50ce2/image/ba5d9932764d4b460b88d37629a5a2f2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
       <title>Theo Von — #672 - Trace Adkins</title>
       <itunes:author>Theo Von</itunes:author>
       <guid isPermaLink="false">a64671fb8235a496c</guid>
@@ -1883,11 +1784,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — Are You Sleeping Wrong? The Vitamin Deficiency Destroying Your Brain Every Night</title>
+      <title>The Diary Of A CEO — Vitamin D Expert: Why Common Supplement Advice Is Wrong</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">a1c4d4178cf0ec778</guid>
       <pubDate>Mon, 27 Jul 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KXY3ASSVQ5F7X3DG78RSWFN9.mp3?fcv=ubh23t968t4r1mhptgs9n8h8" length="115296000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KXY3ASSVQ5F7X3DG78RSWFN9.mp3?fcv=xpmwz6bxb8k32eqmhac6tetu" length="115296000" type="audio/mpeg"/>
       <itunes:duration>7206</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KXY3CCX5E8QWS6VAX63BG5FP/stasha_gominak_ep_cover.jpg"/>
     </item>
@@ -1955,15 +1856,6 @@
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KY5RFK8ZX1FPA1QHM4T8HRJT/robert_pape_ep_cover.jpg"/>
     </item>
     <item>
-      <title>Colin and Samir — 4 Ways Creators are Making Money in 2026</title>
-      <itunes:author>Colin and Samir</itunes:author>
-      <guid isPermaLink="false">a3e6a2c24431a5786</guid>
-      <pubDate>Wed, 22 Jul 2026 10:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/LUHUC6741845353.mp3" length="45040000" type="audio/mpeg"/>
-      <itunes:duration>2815</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/97efcf10-e812-11ec-83f3-c3c0c0c21250/image/largeCS_showPODCAST_COVER.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
       <title>My First Million — I spent 24hrs with a blue collar millionaire</title>
       <itunes:author>My First Million</itunes:author>
       <guid isPermaLink="false">abb51fc1134098509</guid>
@@ -2009,11 +1901,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — Why Are You Still Letting Fear Control Your Future? | Alex Hormozi</title>
+      <title>The Diary Of A CEO — Alex Hormozi: Making $100M Before 32 and Refusing to Be Controlled</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">ad00899a889e65266</guid>
       <pubDate>Mon, 20 Jul 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KXQ966BYYBG6CYJQCK9Y59JE.mp3?fcv=m45qz0dwissp5pwkabdhzigv" length="136400000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KXQ966BYYBG6CYJQCK9Y59JE.mp3?fcv=ikqdrpkzi2vujve4ufuzbqwx" length="136400000" type="audio/mpeg"/>
       <itunes:duration>8525</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KXQ9833NHJ4XS1HMBY6YE9E3/alex_hormozi_ep_cover_.jpg"/>
     </item>
@@ -2072,11 +1964,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/ae6237e6-7e71-11e9-9c4d-3b02b0eab47c/image/c593abe2ba6d4d476bb3c2b6cfb3b9b9.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — Are You Feeding Your Cancer Without Knowing It? | Professor Thomas Seyfried</title>
+      <title>The Diary Of A CEO — Cancer Researcher: The Overlooked Research Cancer Patients Should Know</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">ab4ff2d1a1b1fd4e7</guid>
       <pubDate>Thu, 16 Jul 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KXKGX4APG508169A9ZNDBKKZ.mp3?fcv=utsjaf9evhafx9rureefaun9" length="100864000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KXKGX4APG508169A9ZNDBKKZ.mp3?fcv=lxkg5zs9tjuajhkfaswo4kqe" length="100864000" type="audio/mpeg"/>
       <itunes:duration>6304</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KXKGYKM5T2S9HG5QVSXQQJ1F/dr._martin_plcard.ep_cover.jpg"/>
     </item>
@@ -2126,11 +2018,11 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — OpenAI Whistleblower: The 70% Chance AI Goes Horribly Wrong</title>
+      <title>The Diary Of A CEO — Will AI Take Your Job Before 2030? OpenAI Whistleblower's Warning!</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">aac1250317b6114bf</guid>
       <pubDate>Mon, 13 Jul 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KX94975E7Q45TQEH852YJE8W.mp3?fcv=rw2kbfgznrlmp87m6uf5u10f" length="115776000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KX94975E7Q45TQEH852YJE8W.mp3?fcv=tjlijlp2wlx1hthspxt5doo5" length="115776000" type="audio/mpeg"/>
       <itunes:duration>7236</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KX94AC9D0MFGGX1Q1S8Y6T1R/daniel_kokotajlo_ep_cover_.jpg"/>
     </item>
@@ -2178,15 +2070,6 @@
       <enclosure url="https://traffic.megaphone.fm/VMP8062474703.mp3" length="83664000" type="audio/mpeg"/>
       <itunes:duration>5229</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/ae6237e6-7e71-11e9-9c4d-3b02b0eab47c/image/c593abe2ba6d4d476bb3c2b6cfb3b9b9.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>Colin and Samir — Tom Segura and Fox Creator Studios: Inside Hollywood's New Business Model</title>
-      <itunes:author>Colin and Samir</itunes:author>
-      <guid isPermaLink="false">a36fa19552bdec017</guid>
-      <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/LUHUC3792242766.mp3" length="34032000" type="audio/mpeg"/>
-      <itunes:duration>2127</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/97efcf10-e812-11ec-83f3-c3c0c0c21250/image/largeCS_showPODCAST_COVER.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
       <title>The Diary Of A CEO — Neil deGrasse Tyson On Aliens, Simulation Theory, and What Happens Inside A Black Hole</title>
@@ -2396,15 +2279,6 @@
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KVXGB30P2FDFVBJ8834QD6EB/jeremy_grantham.ep_cover.jpg"/>
     </item>
     <item>
-      <title>Colin and Samir — CANNES DAY 3: The Art of Standing Out: Pablo Rochat, Sir John Hegarty &amp; E.L.F Beauty</title>
-      <itunes:author>Colin and Samir</itunes:author>
-      <guid isPermaLink="false">ad85c88f03c5a7a99</guid>
-      <pubDate>Wed, 24 Jun 2026 22:16:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/LUHUC8709240246.mp3" length="59040000" type="audio/mpeg"/>
-      <itunes:duration>3690</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/97efcf10-e812-11ec-83f3-c3c0c0c21250/image/largeCS_showPODCAST_COVER.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
       <title>My First Million — We found an app that lets you buy anything for $0</title>
       <itunes:author>My First Million</itunes:author>
       <guid isPermaLink="false">a77cb9e8050fcb24f</guid>
@@ -2432,15 +2306,6 @@
       <itunes:image href="https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed"/>
     </item>
     <item>
-      <title>Colin and Samir — CANNES DAY 1: Anthpo, Ramp, and The Best Ads of the Year</title>
-      <itunes:author>Colin and Samir</itunes:author>
-      <guid isPermaLink="false">a4f6453ae07b064c8</guid>
-      <pubDate>Mon, 22 Jun 2026 21:51:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/LUHUC8679680619.mp3" length="58096000" type="audio/mpeg"/>
-      <itunes:duration>3631</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/97efcf10-e812-11ec-83f3-c3c0c0c21250/image/largeCS_showPODCAST_COVER.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
       <title>Bad Friends — Eric Andre Goes Full Korean</title>
       <itunes:author>Bad Friends</itunes:author>
       <guid isPermaLink="false">ada0b85459b27e3ec</guid>
@@ -2448,15 +2313,6 @@
       <enclosure url="https://traffic.megaphone.fm/YMH1616432270.mp3" length="68320000" type="audio/mpeg"/>
       <itunes:duration>4270</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>Acquired — The Walt Disney Company</title>
-      <itunes:author>Acquired</itunes:author>
-      <guid isPermaLink="false">a5ebba84fe8a94f84</guid>
-      <pubDate>Mon, 22 Jun 2026 05:54:28 +0000</pubDate>
-      <enclosure url="https://media.transistor.fm/04eefe71/39c635fd.mp3" length="260624000" type="audio/mpeg"/>
-      <itunes:duration>16289</itunes:duration>
-      <itunes:image href="https://img.transistorcdn.com/kCB3B2iISM-bCdDu6pysFaFa0p3IYktCnNb8Q5VFycc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85MmI3/Mjg0MDI2MWU4ZDc4/M2YyOGZjMzllNjll/ODBlYi5qcGc.jpg"/>
     </item>
     <item>
       <title>The Diary Of A CEO — Dr Rachel Rubin: Women’s Sexual Health, Menopause, Hormone Replacement Therapy (HRT), and Orgasms!</title>
@@ -2612,15 +2468,6 @@
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KSSK982N0AW5WGTR9APB12Z7/square_cover_image.jpg"/>
     </item>
     <item>
-      <title>Colin and Samir — Markiplier Breaks Down His $50M Movie Live</title>
-      <itunes:author>Colin and Samir</itunes:author>
-      <guid isPermaLink="false">a2d47267b6958975d</guid>
-      <pubDate>Thu, 11 Jun 2026 20:25:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/LUHUC9493870374.mp3" length="29424000" type="audio/mpeg"/>
-      <itunes:duration>1839</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/a8a0e492-65d2-11f1-95b3-23b8a936a4d9/image/b0e7678adb97a3de4121d80f18d6263f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
       <title>The Diary Of A CEO — Archaeology WARNING: They Secretly Found Antarctica 300 Years Before Us - Graham Hancock</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">a84c1cf52b5e92bbf</guid>
@@ -2745,15 +2592,6 @@
       <enclosure url="https://traffic.megaphone.fm/DSLLC6836876920.mp3" length="51616000" type="audio/mpeg"/>
       <itunes:duration>3226</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/0fe786f2-3d92-11f0-8fb0-e778594b8bf8/image/b3123fe637dbdfa2bd55f9fbfb386aca.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>Colin and Samir — Kareem Rahma: How SubwayTakes Became the New Late Night</title>
-      <itunes:author>Colin and Samir</itunes:author>
-      <guid isPermaLink="false">a06fe83240991ce90</guid>
-      <pubDate>Wed, 03 Jun 2026 18:22:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/LUHUC3221613682.mp3" length="93696000" type="audio/mpeg"/>
-      <itunes:duration>5856</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/784c8612-5f6e-11f1-bc6a-bb4a9b3318b7/image/c18eac1fae308c742663260ea559e118.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
       <title>My First Million — We found 7 business ideas that will blow up in 2026</title>
@@ -2972,15 +2810,6 @@
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KS3MJ7VYHECEMNQMX15EN689/michio_kaku.jpg"/>
     </item>
     <item>
-      <title>Colin and Samir — Why every creator is making a show</title>
-      <itunes:author>Colin and Samir</itunes:author>
-      <guid isPermaLink="false">a51f095352953fbaa</guid>
-      <pubDate>Wed, 20 May 2026 14:28:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/LUHUC2510477753.mp3" length="33344000" type="audio/mpeg"/>
-      <itunes:duration>2084</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/97efcf10-e812-11ec-83f3-c3c0c0c21250/image/largeCS_showPODCAST_COVER.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
       <title>My First Million — How Gary Vee runs 7 businesses</title>
       <itunes:author>My First Million</itunes:author>
       <guid isPermaLink="false">abde4028d41982d81</guid>
@@ -3024,15 +2853,6 @@
       <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KRVDFT0BT3SEX6MS5JJHV5P9.mp3" length="125648000" type="audio/mpeg"/>
       <itunes:duration>7853</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KRVDGMEE90XKWKESKJ09P9KC/david_unwin.jpg"/>
-    </item>
-    <item>
-      <title>Acquired — Vanguard</title>
-      <itunes:author>Acquired</itunes:author>
-      <guid isPermaLink="false">a9b075c060396e6f9</guid>
-      <pubDate>Mon, 18 May 2026 03:26:52 +0000</pubDate>
-      <enclosure url="https://media.transistor.fm/ee9d0817/c12627bd.mp3" length="218960000" type="audio/mpeg"/>
-      <itunes:duration>13685</itunes:duration>
-      <itunes:image href="https://img.transistorcdn.com/G48S8ousdgdlTFU686aTV1C24y-DL5ua-Ih2SyRvqb0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83Nzk4/Y2M5MDcyN2EzZTM3/NjQzYjI1YTBhOTIz/ZjM0NS5qcGc.jpg"/>
     </item>
     <item>
       <title>David Senra — #419 Kelly Johnson: Skunk Works</title>
@@ -3105,15 +2925,6 @@
       <enclosure url="https://traffic.megaphone.fm/HS9422009315.mp3" length="53456000" type="audio/mpeg"/>
       <itunes:duration>3341</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>Colin and Samir — Mark Rober's $60 Million Dollar Experiment</title>
-      <itunes:author>Colin and Samir</itunes:author>
-      <guid isPermaLink="false">a13c3a08d8bb4dd79</guid>
-      <pubDate>Wed, 13 May 2026 10:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/LUHUC9233994991.mp3" length="74592000" type="audio/mpeg"/>
-      <itunes:duration>4662</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/97efcf10-e812-11ec-83f3-c3c0c0c21250/image/largeCS_showPODCAST_COVER.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
       <title>The Game with Alex Hormozi — Solving 6 Scaling Problems | Ep 969</title>
@@ -3276,24 +3087,6 @@
       <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KQNHXQA2KSJ79F2PYMQKM4AQ.mp3" length="113248000" type="audio/mpeg"/>
       <itunes:duration>7078</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KQNHZAVGG0P60MD4C8M6MYSM/scott_galloway.jpg"/>
-    </item>
-    <item>
-      <title>Acquired — Rolex</title>
-      <itunes:author>Acquired</itunes:author>
-      <guid isPermaLink="false">a04eaf8733334d42a</guid>
-      <pubDate>Sun, 03 May 2026 03:34:00 +0000</pubDate>
-      <enclosure url="https://media.transistor.fm/7bea4e45/0aa48fa3.mp3" length="279760000" type="audio/mpeg"/>
-      <itunes:duration>17485</itunes:duration>
-      <itunes:image href="https://img.transistorcdn.com/gx6fhYO1SXMFGcVkU0FWykOtdtd5kMbwLFJMSN3_WZ4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zMWQ4/NjUxMmJkYTUxMzRh/Mzk4ZWYwM2UwYWNk/M2Q2Ny5wbmc.jpg"/>
-    </item>
-    <item>
-      <title>Acquired — Costco</title>
-      <itunes:author>Acquired</itunes:author>
-      <guid isPermaLink="false">a603fc4d8dc0689a9</guid>
-      <pubDate>Sat, 02 May 2026 04:46:00 +0000</pubDate>
-      <enclosure url="https://media.transistor.fm/fcf31c71/acf1c31d.mp3" length="166544000" type="audio/mpeg"/>
-      <itunes:duration>10409</itunes:duration>
-      <itunes:image href="https://img.transistorcdn.com/jFPz1nSL8JfyAmY8ab_xqfZWEVOQ1VqoHhJKdxvzTEY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hMWI0/NTE4ZGMzNWQ2ODli/ZTExZDkwNjBmZjVl/ZmQ1OS5wbmc.jpg"/>
     </item>
     <item>
       <title>Andrew Santino — Rene Vaca Didn’t Expect This Kind of Attention | Whiskey Ginger</title>
@@ -3476,15 +3269,6 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>Colin and Samir — Yes Theory and the Art of Making People Care</title>
-      <itunes:author>Colin and Samir</itunes:author>
-      <guid isPermaLink="false">a0b16a19615fb22d4</guid>
-      <pubDate>Wed, 22 Apr 2026 10:00:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/LUHUC6487838548.mp3" length="87104000" type="audio/mpeg"/>
-      <itunes:duration>5444</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/97efcf10-e812-11ec-83f3-c3c0c0c21250/image/largeCS_showPODCAST_COVER.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
       <title>The Game with Alex Hormozi — Stop Ignoring AI | Ep 963</title>
       <itunes:author>The Game with Alex Hormozi</itunes:author>
       <guid isPermaLink="false">a6e088c701d483f11</guid>
@@ -3593,15 +3377,6 @@
       <itunes:image href="https://megaphone.imgix.net/podcasts/cf594604-391f-11f1-8fd1-7f502606f29c/image/7ffa034ea279497ca7f54bea6e84f045.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
     <item>
-      <title>Colin and Samir — Why Sam Altman Spent $100M on 10,000 Viewers</title>
-      <itunes:author>Colin and Samir</itunes:author>
-      <guid isPermaLink="false">a6c47c5537ee8cf6c</guid>
-      <pubDate>Wed, 15 Apr 2026 10:05:00 +0000</pubDate>
-      <enclosure url="https://traffic.megaphone.fm/LUHUC1487896984.mp3" length="44752000" type="audio/mpeg"/>
-      <itunes:duration>2797</itunes:duration>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/97efcf10-e812-11ec-83f3-c3c0c0c21250/image/largeCS_showPODCAST_COVER.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
       <title>My First Million — Steph Smith: “This opportunity is totally overlooked”</title>
       <itunes:author>My First Million</itunes:author>
       <guid isPermaLink="false">ae15f47777c766d49</guid>
@@ -3609,6 +3384,231 @@
       <enclosure url="https://traffic.megaphone.fm/HS2084820395.mp3" length="39936000" type="audio/mpeg"/>
       <itunes:duration>2496</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
+    <item>
+      <title>Kill Tony — #764 - JELLY ROLL + THEO VON</title>
+      <itunes:author>Kill Tony</itunes:author>
+      <guid isPermaLink="false">a9b0c07c2387e7a41</guid>
+      <pubDate>Tue, 14 Apr 2026 01:00:00 +0000</pubDate>
+      <enclosure url="https://rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/305d5579-48e5-4612-ac71-ebc1424378ec/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=305d5579-48e5-4612-ac71-ebc1424378ec&amp;feed=JZSQrle9" length="128928000" type="audio/mpeg"/>
+      <itunes:duration>8058</itunes:duration>
+      <itunes:image href="https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed"/>
+    </item>
+    <item>
+      <title>Bad Friends — Boiled Hamburgers w/ Brad Williams</title>
+      <itunes:author>Bad Friends</itunes:author>
+      <guid isPermaLink="false">a9cb052eef3b1efcf</guid>
+      <pubDate>Mon, 13 Apr 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/YMH8942957899.mp3?updated=1775760920" length="75920000" type="audio/mpeg"/>
+      <itunes:duration>4745</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
+    <item>
+      <title>The Diary Of A CEO — The Iran War Expert: The Most Dangerous Stage Begins Now</title>
+      <itunes:author>The Diary Of A CEO</itunes:author>
+      <guid isPermaLink="false">a59855e4e3d4dd31b</guid>
+      <pubDate>Mon, 13 Apr 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KP1XGY1NBY23MVZJJH5MDSW1.mp3" length="92688000" type="audio/mpeg"/>
+      <itunes:duration>5793</itunes:duration>
+      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KP1XNTMR7QEV3EYQ1Z5WZ599/robert_pape2.jpg"/>
+    </item>
+    <item>
+      <title>Andrew Santino — Josh Peck Joins The Show! | Whiskey Ginger</title>
+      <itunes:author>Andrew Santino</itunes:author>
+      <guid isPermaLink="false">a465980d41bde313e</guid>
+      <pubDate>Fri, 10 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/BSN2214082762.mp3?updated=1775595406" length="80816000" type="audio/mpeg"/>
+      <itunes:duration>5051</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/945529ee-165e-11ec-bbee-37b2e2966d81/image/678ad903ffd2ea176830c26eaa1dcc26.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
+    <item>
+      <title>WVFRM Podcast — You're Using Tabs Wrong</title>
+      <itunes:author>WVFRM Podcast</itunes:author>
+      <guid isPermaLink="false">a9a346452cfd8d134</guid>
+      <pubDate>Fri, 10 Apr 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/VMP3680398678.mp3?updated=1775778571" length="112080000" type="audio/mpeg"/>
+      <itunes:duration>7005</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/ae6237e6-7e71-11e9-9c4d-3b02b0eab47c/image/c593abe2ba6d4d476bb3c2b6cfb3b9b9.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
+    <item>
+      <title>Theo Von — #652 - Matt McCusker</title>
+      <itunes:author>Theo Von</itunes:author>
+      <guid isPermaLink="false">aad501d7bd43d0dd2</guid>
+      <pubDate>Fri, 10 Apr 2026 07:05:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/ROOSTER9101158372.mp3" length="100880000" type="audio/mpeg"/>
+      <itunes:duration>6305</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/bba1da68-34ab-11f1-a29b-57e60a2c6b56/image/88cf40c4da5ce7578fe8f80a1ca080a3.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
+    <item>
+      <title>Lex Fridman — #495 – Vikings, Ragnar, Berserkers, Valhalla &amp; the Warriors of the Viking Age</title>
+      <itunes:author>Lex Fridman</itunes:author>
+      <guid isPermaLink="false">af89418a75d314548</guid>
+      <pubDate>Thu, 09 Apr 2026 17:43:17 +0000</pubDate>
+      <enclosure url="https://content.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3" length="124736000" type="audio/mpeg"/>
+      <itunes:duration>7796</itunes:duration>
+      <itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"/>
+    </item>
+    <item>
+      <title>My First Million — Ex-Tesla President reveals EVERYTHING Elon does to win</title>
+      <itunes:author>My First Million</itunes:author>
+      <guid isPermaLink="false">a52a5dd6d2e7c23e5</guid>
+      <pubDate>Thu, 09 Apr 2026 14:38:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/HS7594232303.mp3?updated=1775743025" length="62016000" type="audio/mpeg"/>
+      <itunes:duration>3876</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
+    <item>
+      <title>The Game with Alex Hormozi — One Step Away From Collapse (Here’s How We Fixed It) | Ep 960</title>
+      <itunes:author>The Game with Alex Hormozi</itunes:author>
+      <guid isPermaLink="false">a7a68c3e62b778c95</guid>
+      <pubDate>Thu, 09 Apr 2026 09:00:00 +0000</pubDate>
+      <enclosure url="https://episode.flightcast.com/dblqirbaqfh2zht2jyyptjvz.mp3" length="23136000" type="audio/mpeg"/>
+      <itunes:duration>1446</itunes:duration>
+      <itunes:image href="https://files.flightcast.com/v3-imports/images/zz5nwp81tktx53wb8fw6qq7j/ypdjr5gcgh0fuqu3pp67qsjb-cover.jpg"/>
+    </item>
+    <item>
+      <title>The Diary Of A CEO — Ivanka Trump: My Dad Told Me Two Weeks Before He Ran For President!</title>
+      <itunes:author>The Diary Of A CEO</itunes:author>
+      <guid isPermaLink="false">ad38c53fd841e55e3</guid>
+      <pubDate>Thu, 09 Apr 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KNQ1ND4MZMV6YZ0R8NGMREAX.mp3" length="92144000" type="audio/mpeg"/>
+      <itunes:duration>5759</itunes:duration>
+      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KNQ3H7MWT14TV9M1960MHG8Q/ivanka_trump.jpg"/>
+    </item>
+    <item>
+      <title>My First Million — We asked a $18.9B Investor how to survive the AI bubble</title>
+      <itunes:author>My First Million</itunes:author>
+      <guid isPermaLink="false">a75434387d63109a3</guid>
+      <pubDate>Tue, 07 Apr 2026 12:45:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/HS5510640992.mp3?updated=1775589869" length="63088000" type="audio/mpeg"/>
+      <itunes:duration>3943</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
+    <item>
+      <title>Theo Von — #651 - Ella Langley</title>
+      <itunes:author>Theo Von</itunes:author>
+      <guid isPermaLink="false">af4e38e8e74aa18ff</guid>
+      <pubDate>Tue, 07 Apr 2026 09:35:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/ROOSTER1981655745.mp3?updated=1775555465" length="107104000" type="audio/mpeg"/>
+      <itunes:duration>6694</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/58db311c-3263-11f1-9c85-6f53b2c8b115/image/ba53fbd96a91b2c1e2d2f245215c770e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
+    <item>
+      <title>The Game with Alex Hormozi — How To Stop Solving Problems That Do Not Exist | Ep 959</title>
+      <itunes:author>The Game with Alex Hormozi</itunes:author>
+      <guid isPermaLink="false">aa21ccb0ca6d0b2e6</guid>
+      <pubDate>Tue, 07 Apr 2026 09:00:00 +0000</pubDate>
+      <enclosure url="https://episode.flightcast.com/h0hbk4wq45j5doxxwzbu3azu.mp3" length="31968000" type="audio/mpeg"/>
+      <itunes:duration>1998</itunes:duration>
+      <itunes:image href="https://files.flightcast.com/v3-imports/images/zz5nwp81tktx53wb8fw6qq7j/fzm3mzsr49kfpq8217fqry5p-cover.jpg"/>
+    </item>
+    <item>
+      <title>Kill Tony — #763 - JEFF ROSS</title>
+      <itunes:author>Kill Tony</itunes:author>
+      <guid isPermaLink="false">a356260faf82f4fb6</guid>
+      <pubDate>Tue, 07 Apr 2026 01:00:00 +0000</pubDate>
+      <enclosure url="https://rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/0f6b0e9c-a46c-407d-9572-56e5d8a9d835/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=0f6b0e9c-a46c-407d-9572-56e5d8a9d835&amp;feed=JZSQrle9" length="126400000" type="audio/mpeg"/>
+      <itunes:duration>7900</itunes:duration>
+      <itunes:image href="https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed"/>
+    </item>
+    <item>
+      <title>Bad Friends — The Slow Clap</title>
+      <itunes:author>Bad Friends</itunes:author>
+      <guid isPermaLink="false">a380195c72b339987</guid>
+      <pubDate>Mon, 06 Apr 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/YMH2568391790.mp3" length="73424000" type="audio/mpeg"/>
+      <itunes:duration>4589</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/7ff4ef6e-e6b7-11ec-a598-dbd652a3d5be/image/14ac13c149ebac1ab9f978fa8aeddc7c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
+    <item>
+      <title>The Diary Of A CEO — Financial Crash Expert: In 3 months We’ll Enter A Famine! If Iran Doesn’t Surrender It's The End!</title>
+      <itunes:author>The Diary Of A CEO</itunes:author>
+      <guid isPermaLink="false">a3173868f299a62fa</guid>
+      <pubDate>Mon, 06 Apr 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KNF6VSZK2M0QF4F6VFMK7TDG.mp3" length="89856000" type="audio/mpeg"/>
+      <itunes:duration>5616</itunes:duration>
+      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KNFAPNF500S4H7EKC74ZD8C1/steve_keen.jpg"/>
+    </item>
+    <item>
+      <title>Theo Von — #650 - Jake Paul</title>
+      <itunes:author>Theo Von</itunes:author>
+      <guid isPermaLink="false">a880901ccce79be29</guid>
+      <pubDate>Sun, 05 Apr 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/ROOSTER6452778915.mp3?updated=1775365462" length="122976000" type="audio/mpeg"/>
+      <itunes:duration>7686</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/14cb3f5a-30a9-11f1-9381-dfd1ebae0202/image/f4508c2f7de9d43a263485e291288897.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
+    <item>
+      <title>Andrew Santino — Timmy No Brakes Doesn’t Stop… Ever | Whiskey Ginger</title>
+      <itunes:author>Andrew Santino</itunes:author>
+      <guid isPermaLink="false">a45b67674b8f860fb</guid>
+      <pubDate>Fri, 03 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/BSN3194807747.mp3?updated=1775165028" length="60624000" type="audio/mpeg"/>
+      <itunes:duration>3789</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/945529ee-165e-11ec-bbee-37b2e2966d81/image/678ad903ffd2ea176830c26eaa1dcc26.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
+    <item>
+      <title>WVFRM Podcast — MKBHD's Top 5 Apps of All Time!</title>
+      <itunes:author>WVFRM Podcast</itunes:author>
+      <guid isPermaLink="false">a76769149ab520c0e</guid>
+      <pubDate>Fri, 03 Apr 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/VMP8261476628.mp3?updated=1775207473" length="102864000" type="audio/mpeg"/>
+      <itunes:duration>6429</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/ae6237e6-7e71-11e9-9c4d-3b02b0eab47c/image/c593abe2ba6d4d476bb3c2b6cfb3b9b9.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
+    <item>
+      <title>The Diary Of A CEO — Most Replayed Moment: Mouthwash REVERSES The Benefits Of Exercise! Dr Nathan Bryan</title>
+      <itunes:author>The Diary Of A CEO</itunes:author>
+      <guid isPermaLink="false">aa9fa7e14023668e7</guid>
+      <pubDate>Fri, 03 Apr 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KMZQ0MK1VBZS929EZRNA79QE.mp3" length="23168000" type="audio/mpeg"/>
+      <itunes:duration>1448</itunes:duration>
+      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KMZQGD43Q93CSECE0W5KCNHY/square_cover_image.jpg"/>
+    </item>
+    <item>
+      <title>The Game with Alex Hormozi — How to Grow Your Brand In 2026 | Ep 958</title>
+      <itunes:author>The Game with Alex Hormozi</itunes:author>
+      <guid isPermaLink="false">af7881e1446f01f01</guid>
+      <pubDate>Thu, 02 Apr 2026 09:00:00 +0000</pubDate>
+      <enclosure url="https://episode.flightcast.com/wzavkzt50pahyyw0bsk8ruan.mp3" length="36896000" type="audio/mpeg"/>
+      <itunes:duration>2306</itunes:duration>
+      <itunes:image href="https://files.flightcast.com/v3-imports/images/zz5nwp81tktx53wb8fw6qq7j/afpl0povde6ihq82eu073p30-cover.jpg"/>
+    </item>
+    <item>
+      <title>The Diary Of A CEO — Pierre Poilievre, The Next Prime Minister of Canada?: The Economy Is About To Collapse!</title>
+      <itunes:author>The Diary Of A CEO</itunes:author>
+      <guid isPermaLink="false">aa7f260eb9871bcc0</guid>
+      <pubDate>Thu, 02 Apr 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KN553DYEJGT08NXJW0XG0RR0.mp3" length="111040000" type="audio/mpeg"/>
+      <itunes:duration>6940</itunes:duration>
+      <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KN5542AT9V2BYWHPQSX2P98B/pierre_poilievre.jpg"/>
+    </item>
+    <item>
+      <title>My First Million — The Side Hustle King: "Make $20K+/month without money, luck, or experience"</title>
+      <itunes:author>My First Million</itunes:author>
+      <guid isPermaLink="false">ae91d380966197b6e</guid>
+      <pubDate>Wed, 01 Apr 2026 13:15:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/HS9013902858.mp3?updated=1775056597" length="53328000" type="audio/mpeg"/>
+      <itunes:duration>3333</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
+    <item>
+      <title>David Senra — #416 The Relentless Missionary Creating AGI: Demis Hassabis</title>
+      <itunes:author>David Senra</itunes:author>
+      <guid isPermaLink="false">ab65be674ea708790</guid>
+      <pubDate>Wed, 01 Apr 2026 01:50:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/DSLLC3316654449.mp3?updated=1775009143" length="52704000" type="audio/mpeg"/>
+      <itunes:duration>3294</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/0fe786f2-3d92-11f0-8fb0-e778594b8bf8/image/b3123fe637dbdfa2bd55f9fbfb386aca.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    </item>
+    <item>
+      <title>Theo Von — #649 - Nate Diaz &amp; Chris Avila</title>
+      <itunes:author>Theo Von</itunes:author>
+      <guid isPermaLink="false">ab7e813cc23e34ec5</guid>
+      <pubDate>Tue, 31 Mar 2026 13:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/ROOSTER3597232449.mp3?updated=1774943232" length="102304000" type="audio/mpeg"/>
+      <itunes:duration>6394</itunes:duration>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/82562a92-2cd2-11f1-ab3f-2f8e6fc2d797/image/62ae8a3fe7bf955f6f3e63208cbd47c8.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     </item>
   </channel>
 </rss>
