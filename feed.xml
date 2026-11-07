@@ -9,7 +9,16 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="https://andyhafell.github.io/podtv-phone/icons/icon-512.png"/>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Sat, 07 Nov 2026 01:17:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 04:18:54 +0000</lastBuildDate>
+    <item>
+      <title>Kill Tony — KT: Behind the Tape (Ep: 792 Jimmy Carr + Luis J. Gomez + Steve Rannazzisi)</title>
+      <itunes:author>Kill Tony</itunes:author>
+      <guid isPermaLink="false">a0fdc2367d6561c2e</guid>
+      <pubDate>Sat, 07 Nov 2026 02:00:00 +0000</pubDate>
+      <enclosure url="https://rsv.simplecastaudio.com/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/episodes/9e962b0c-7e2d-4e43-a653-975c89010af6/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c11d3b8-db1c-4d5c-86b2-2ac6921d6852&amp;awEpisodeId=9e962b0c-7e2d-4e43-a653-975c89010af6&amp;feed=JZSQrle9" length="54128000" type="audio/mpeg"/>
+      <itunes:duration>3383</itunes:duration>
+      <itunes:image href="https://image.simplecastcdn.com/images/5c11d3b8-db1c-4d5c-86b2-2ac6921d6852/056beebc-5ae0-4d1c-a978-91c2cca6e405/3000x3000/5a5dc2bf81872e1cdc3c9d840bb67b0e.jpg?aid=rss_feed"/>
+    </item>
     <item>
       <title>Andrew Santino — Gary Owen on Fatherhood, Comedy &amp; Starting Over | Whiskey Ginger</title>
       <itunes:author>Andrew Santino</itunes:author>
@@ -56,11 +65,11 @@
       <itunes:image href="https://files.flightcast.com/workspaces/nb70npdrh8ux1i431tcvbz44/podcasts/zz5nwp81tktx53wb8fw6qq7j/cgn395ohauyt6r8q4kliieoi.jpg"/>
     </item>
     <item>
-      <title>The Diary Of A CEO — Prof Robert Pape: Are We Entering The Eight Most Dangerous Weeks In Our Lives?</title>
+      <title>The Diary Of A CEO — Iran War Expert: The 8 Most Dangerous Weeks Begin Now, A Cyberattack Could Knock Out The Internet! | Prof Robert Pape</title>
       <itunes:author>The Diary Of A CEO</itunes:author>
       <guid isPermaLink="false">ab4ca04083768faf4</guid>
       <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M653W8EP3Y02KJRDZYYCGE0N.mp3?fcv=j34dv6du3c8pjuqhey445lii" length="86064000" type="audio/mpeg"/>
+      <enclosure url="https://p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M653W8EP3Y02KJRDZYYCGE0N.mp3?fcv=qlp9hx9kzyvxyyyysvnd523a" length="86064000" type="audio/mpeg"/>
       <itunes:duration>5379</itunes:duration>
       <itunes:image href="https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M67JAEG5NP5PC8B5AFWV3SWF/pape_cover.jpg"/>
     </item>
@@ -3600,15 +3609,6 @@
       <enclosure url="https://traffic.megaphone.fm/HS8644042670.mp3" length="58256000" type="audio/mpeg"/>
       <itunes:duration>3641</itunes:duration>
       <itunes:image href="https://megaphone.imgix.net/podcasts/39846662-79ea-11eb-9b06-a75ddc4bddcc/image/39f8195a6d8978d0a7bd9c7d7b3fba2d.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    </item>
-    <item>
-      <title>The Game with Alex Hormozi — How to Scale an E-Commerce Business Past the $10M Wall | Ep 962</title>
-      <itunes:author>The Game with Alex Hormozi</itunes:author>
-      <guid isPermaLink="false">aad7da2fe4a588318</guid>
-      <pubDate>Thu, 16 Apr 2026 09:00:00 +0000</pubDate>
-      <enclosure url="https://episode.flightcast.com/y83sz2dyqj1zhy2azaz0qx8q.mp3" length="38208000" type="audio/mpeg"/>
-      <itunes:duration>2388</itunes:duration>
-      <itunes:image href="https://files.flightcast.com/v3-imports/images/zz5nwp81tktx53wb8fw6qq7j/t4n6chnh875luvpi0pcvhgtm-cover.jpg"/>
     </item>
   </channel>
 </rss>
